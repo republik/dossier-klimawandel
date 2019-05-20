@@ -32,7 +32,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 ```
 {
   "type": "Bar",
-  "y": "label"
+  "y": "label",
+  "size": "breakout"
 }
 ```
 
@@ -136,6 +137,14 @@ Von [Urs Bruderer](/~7b0d6a74-f57b-4498-8eb7-455936672736) (Text) und Adam Higto
 <hr /></section>
 
 <hr /></section>
+
+<hr /></section>
+
+<section><h6>INFOBOX</h6>
+
+### Über das Dossier «Klimawandel»
+
+Das Thema ist uns wichtig. Hier sagen wir warum. Zudem veröffentlichen wir Links zu Daten und Methoden.
 
 <hr /></section>
 
