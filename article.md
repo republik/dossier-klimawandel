@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
   "teaserType": "articleTile",
   "byline": null,
   "onlyImage": false,
-  "url": null,
+  "url": "https://github.com/republik/article-klima-forschungsgeschichte-teil-1?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
@@ -86,15 +86,52 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
+![](images/8b5775c66c6e12a3e07e94b80b66989db7abf5c3.png?size=496x496)
+
 ###### 
 
-# Lorem ipsum dolor
+# Geheimnisvolle Strahlen
 
 ## 
 
-#### Nulla consequat massa quis enim.
+#### Wie Forscher im 19. Jahrhundert die Erdwärme untersuchten und dabei den Treibhauseffekt entdeckten.
 
-Hans Muster
+Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Text) und Kwennie Cheng (Illustration), 05.12.2018
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-das-land-wo-die-zitronen-bluehn?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "t68osCCEv",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+![](images/fa10eecfbf355b9c38e49d93c8f4268042b1a0b8.png?size=639x640)
+
+###### 
+
+# Wo bald die Zitronen blühn
+
+## 
+
+#### Die Schweiz wird zu einem mediterranen Land. Für die Landwirtschaft ein Glück. Aber sind die Bauern bereit?
+
+Von [Urs Bruderer](/~7b0d6a74-f57b-4498-8eb7-455936672736) (Text) und Adam Higton (Illustrationen), 07.09.2018
 
 <hr /></section>
 
