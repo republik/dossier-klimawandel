@@ -1401,8 +1401,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 ```
 {
   "type": "Line",
-  "y": "label",
-  "size": "breakout"
+  "y": "label"
 }
 ```
 
