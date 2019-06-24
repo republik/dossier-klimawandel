@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
         "label": "CO₂-Dichte",
         "value": 441,
         "unit": "ppm",
-        "description": "Millionstel CO₂-Moleküle in der Atmosphäre."
+        "description": "Millionstel CO₂-Moleküle in der Atmosphäre.",
         "source": {
 	      "name": "NASA",
 	      "url": "https://climate.nasa.gov/vital-signs/carbon-dioxide/",
