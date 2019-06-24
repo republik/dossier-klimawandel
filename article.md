@@ -25,6 +25,46 @@ Von [Andreas Moor](/~65b64225-3843-4e41-a7a6-716ae81a5d57), 21.05.2019
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. 
 
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "autoHtml": true,
+  "props": {
+    "values": [
+    {
+      "label": "CO₂-Dichte",
+      "value": 441,
+      "unit": "ppm",
+      "description": "Millionstel CO₂-Moleküle in der Atmosphäre."
+    },
+    {
+      "label": "Veränderung seit 2005",
+      "value": "+5.5",
+      "unit": "Prozent",
+      "description": "Zunahme der CO₂-Dichte in der Athmosphäre"
+    },
+    {
+      "label": "CO₂-Austoss pro Kopf",
+      "value": "4.97",
+      "unit": "Tonnen"
+    },
+    {
+      "label": "Temperaturanstieg seit 2005",
+      "value": "+0.8",
+      "unit": "Grad Celsius"
+    }
+
+  ] 
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v1"
+}
+```
+
+<hr /></section>
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. 
+
 <section><h6>CHART</h6>
 
 ```
