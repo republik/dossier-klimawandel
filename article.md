@@ -32,30 +32,29 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
   "autoHtml": true,
   "props": {
     "values": [
-    {
-      "label": "CO₂-Dichte",
-      "value": 441,
-      "unit": "ppm",
-      "description": "Millionstel CO₂-Moleküle in der Atmosphäre."
-    },
-    {
-      "label": "Veränderung seit 2005",
-      "value": "+5.5",
-      "unit": "Prozent",
-      "description": "Zunahme der CO₂-Dichte in der Athmosphäre"
-    },
-    {
-      "label": "CO₂-Austoss pro Kopf",
-      "value": "4.97",
-      "unit": "Tonnen"
-    },
-    {
-      "label": "Temperaturanstieg seit 2005",
-      "value": "+0.8",
-      "unit": "Grad Celsius"
-    }
-
-  ] 
+      {
+        "label": "CO₂-Dichte",
+        "value": 441,
+        "unit": "ppm",
+        "description": "Millionstel CO₂-Moleküle in der Atmosphäre."
+      },
+      {
+        "label": "Veränderung seit 2005",
+        "value": "+5.5",
+        "unit": "Prozent",
+        "description": "Zunahme der CO₂-Dichte in der Athmosphäre"
+      },
+      {
+        "label": "CO₂-Austoss pro Kopf",
+        "value": "4.97",
+        "unit": "Tonnen"
+      },
+      {
+        "label": "Temperaturanstieg seit 2005",
+        "value": "+0.8",
+        "unit": "Grad Celsius"
+      }
+    ]
   },
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v1"
 }
@@ -571,7 +570,7 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Tex
 
 ## Teil 2
 
-#### Wie der globale Temperaturanstieg von der blossen Theorie zur mess- und modellierbaren Realität wurde.
+#### Wie der globale Temperaturanstieg von der blossen Theorie zur messbaren Realität wurde.
 
 Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Text) und Kwennie Cheng (Illustration), 11.12.2018
 
@@ -606,7 +605,7 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Tex
 
 ## Teil 3
 
-#### Wie herauskam, dass das Klima sehr empfindlich auf ein kleines bisschen Gas reagiert: Teil 3 unserer Serie über die Wissenschaftsgeschichte des Klimawandels.
+#### Wie herauskam, dass das Klima sehr empfindlich auf ein kleines bisschen Gas reagiert.
 
 Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Text) und Kwennie Cheng (Illustration), 17.12.2018
 
