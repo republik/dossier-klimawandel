@@ -463,7 +463,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-## Grundlagen
+## Wissenschaftsgeschichte des Klimawandels
 
 <section><h6>TEASERGROUP</h6>
 
@@ -488,13 +488,13 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-![](images/8b5775c66c6e12a3e07e94b80b66989db7abf5c3.png?size=496x496)
+![](images/3b0bf2756d10cc922b0fa98cdcc37107040d1764.jpeg?size=3800x2850)
 
 ###### 
 
 # Geheimnisvolle Strahlen
 
-## 
+## Teil 1
 
 #### Wie Forscher im 19. Jahrhundert die Erdwärme untersuchten und dabei den Treibhauseffekt entdeckten.
 
@@ -511,7 +511,7 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Tex
   "teaserType": "articleTile",
   "byline": null,
   "onlyImage": false,
-  "url": "https://github.com/republik/article-das-land-wo-die-zitronen-bluehn?autoSlug",
+  "url": "https://github.com/republik/article-geschichte-der-klimaforschung-teil-2?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
@@ -523,17 +523,52 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Tex
 }
 ```
 
-![](images/fa10eecfbf355b9c38e49d93c8f4268042b1a0b8.png?size=639x640)
+![](images/049475e84dddd6ccf8a3e174cf651c1f9260af69.jpeg?size=2500x1875)
 
 ###### 
 
-# Wo bald die Zitronen blühn
+# Der Klima-Code
 
-## 
+## Teil 2
 
-#### Die Schweiz wird zu einem mediterranen Land. Für die Landwirtschaft ein Glück. Aber sind die Bauern bereit?
+#### Wie der globale Temperaturanstieg von der blossen Theorie zur mess- und modellierbaren Realität wurde.
 
-Von [Urs Bruderer](/~7b0d6a74-f57b-4498-8eb7-455936672736) (Text) und Adam Higton (Illustrationen), 07.09.2018
+Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Text) und Kwennie Cheng (Illustration), 11.12.2018
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-geschichte-der-klimaforschung-teil-3?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "d6XSkJo35",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+![](images/8fa330d5231800457a6515a14e5851e7b9c720d8.jpeg?size=2500x1875)
+
+###### 
+
+# Tödliches Tauwetter
+
+## Teil 3
+
+#### Wie herauskam, dass das Klima sehr empfindlich auf ein kleines bisschen Gas reagiert: Teil 3 unserer Serie über die Wissenschaftsgeschichte des Klimawandels.
+
+Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Text) und Kwennie Cheng (Illustration), 17.12.2018
 
 <hr /></section>
 
