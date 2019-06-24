@@ -1396,9 +1396,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-### Globaler Temperaturanstieg
+### Globaler Temperaturanstieg seit der Industrialisierung
 
-Abweichung in Grad Celsius vom langjährigen Durchschnitt 1951–1980
+Abweichung vom langjährigen Durchschnitt 1951–1980
 
 ```
 year,value
