@@ -37,22 +37,31 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
         "value": 441,
         "unit": "ppm",
         "description": "Millionstel CO₂-Moleküle in der Atmosphäre."
+        "source": {
+	      "name": "NASA",
+	      "url": "https://climate.nasa.gov/vital-signs/carbon-dioxide/",
+	      "date": "Mai 2019"
+	    },
+	    "color": "rgb(187,21,26)"
       },
       {
         "label": "Veränderung seit 2005",
         "value": "+5.5",
         "unit": "Prozent",
-        "description": "Zunahme der CO₂-Dichte in der Athmosphäre"
+        "description": "Zunahme der CO₂-Dichte in der Athmosphäre",
+	    "color": "rgb(187,21,26)"
       },
       {
         "label": "CO₂-Austoss pro Kopf",
         "value": "4.97",
-        "unit": "Tonnen"
+        "unit": "Tonnen",
+	    "color": "rgb(187,21,26)"
       },
       {
         "label": "Temperaturanstieg seit 2005",
         "value": "+0.8",
-        "unit": "Grad Celsius"
+        "unit": "Grad Celsius",
+        "color": "rgb(8,48,107)"
       }
     ]
   },
