@@ -1158,6 +1158,41 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Tex
 
 <hr /></section>
 
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-geschichte-der-klimaforschung-teil-4?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "YpGzUVa6y",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+![](images/96228f733ead89b147f9138a5cb9ee909031b679.jpeg?size=2500x1875)
+
+###### 
+
+# Kampf um die Wahrheit
+
+## Teil 4
+
+#### Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde.
+
+Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Text) und Kwennie Cheng (Illustration), 27.12.2018
+
+<hr /></section>
+
 <hr /></section>
 
 <hr /></section>
