@@ -350,6 +350,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
     8,
     12
   ],
+  "size": "breakout",
   "xTicks": [
     "-500k",
     "-250k",
