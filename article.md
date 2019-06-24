@@ -56,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       }
     ]
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v1"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2"
 }
 ```
 
