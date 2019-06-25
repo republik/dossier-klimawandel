@@ -1562,7 +1562,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 
 ```
 {
-  "membersOnly": false,
+  "membersOnly": true,
   "unauthorizedText": ""
 }
 ```
@@ -1640,21 +1640,6 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Tex
 Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Text) und Kwennie Cheng (Illustration), 11.12.2018
 
 <hr /></section>
-
-<hr /></section>
-
-<hr /></section>
-
-<section><h6>ARTICLECOLLECTION</h6>
-
-```
-{
-  "membersOnly": false,
-  "unauthorizedText": ""
-}
-```
-
-<section><h6>TEASERGROUP</h6>
 
 <section><h6>TEASER</h6>
 
