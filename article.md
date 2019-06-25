@@ -1562,7 +1562,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 
 ```
 {
-  "membersOnly": true,
+  "membersOnly": false,
   "unauthorizedText": ""
 }
 ```
@@ -1642,6 +1642,17 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Tex
 <hr /></section>
 
 <hr /></section>
+
+<hr /></section>
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": false,
+  "unauthorizedText": ""
+}
+```
 
 <section><h6>TEASERGROUP</h6>
 
