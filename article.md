@@ -1559,162 +1559,30 @@ Quelle: [NASA](https://climate.nasa.gov/vital-signs/global-temperature/)
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
 
-<section><h6>ARTICLECOLLECTION</h6>
+
+<section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
 {
-  "membersOnly": true,
-  "unauthorizedText": ""
+  "autoHtml": true,
+  "props": {
+    "item":   {
+      "date": "19.03.2019",
+      "title": "«Das Versagen»",
+      "header": "Serie «Der Fall ETH»",
+      "description": "An der ETH soll eine Astronomie-Professorin ihre Doktoranden über Jahre gemobbt haben. Jetzt wird sie entlassen, obwohl die Schuldfrage nie geklärt wurde. Wie eine Institution von Weltruf alles verrät: die Professorin, die Unschuldsvermutung, sich selbst.",
+      "url": "https://www.republik.ch/2019/03/19/das-versagen-der-eth",
+      "type": "Beitrag",
+      "highlight": true,
+      "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-eth-auftakt/images/2a5cd77e3510e8507bffc5999e00efa5d6ff67e2.jpeg.webp"
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2"
 }
 ```
 
-## Wissenschaftsgeschichte des Klimawandels
-
-<section><h6>TEASERGROUP</h6>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-klima-forschungsgeschichte-teil-1?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "titleSize": "standard",
-  "id": "rE8idYdye",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-![](images/3b0bf2756d10cc922b0fa98cdcc37107040d1764.jpeg?size=3800x2850)
-
-###### 
-
-# Geheimnisvolle Strahlen
-
-## Teil 1
-
-#### Wie Forscher im 19. Jahrhundert die Erdwärme untersuchten und dabei den Treibhauseffekt entdeckten.
-
-Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Text) und Kwennie Cheng (Illustration), 05.12.2018
-
 <hr /></section>
 
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-geschichte-der-klimaforschung-teil-2?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "titleSize": "standard",
-  "id": "t68osCCEv",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-![](images/049475e84dddd6ccf8a3e174cf651c1f9260af69.jpeg?size=2500x1875)
-
-###### 
-
-# Der Klima-Code
-
-## Teil 2
-
-#### Wie der globale Temperaturanstieg von der blossen Theorie zur messbaren Realität wurde.
-
-Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Text) und Kwennie Cheng (Illustration), 11.12.2018
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-geschichte-der-klimaforschung-teil-3?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "titleSize": "standard",
-  "id": "d6XSkJo35",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-![](images/8fa330d5231800457a6515a14e5851e7b9c720d8.jpeg?size=2500x1875)
-
-###### 
-
-# Tödliches Tauwetter
-
-## Teil 3
-
-#### Wie herauskam, dass das Klima sehr empfindlich auf ein kleines bisschen Gas reagiert.
-
-Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Text) und Kwennie Cheng (Illustration), 17.12.2018
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-geschichte-der-klimaforschung-teil-4?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "titleSize": "standard",
-  "id": "YpGzUVa6y",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-![](images/96228f733ead89b147f9138a5cb9ee909031b679.jpeg?size=2500x1875)
-
-###### 
-
-# Kampf um die Wahrheit
-
-## Teil 4
-
-#### Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde.
-
-Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani") (Text) und Kwennie Cheng (Illustration), 27.12.2018
-
-<hr /></section>
-
-<hr /></section>
-
-<hr /></section>
 
 ## Der Schweiz, vermeintlicher Musterknabe
 
