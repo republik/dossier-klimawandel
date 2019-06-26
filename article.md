@@ -79,7 +79,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 {
   "type": "TimeBar",
   "y": "label",
-  "size": "breakout",
   "color": "label",
   "xTicks": [
     1960,
@@ -1559,30 +1558,56 @@ Quelle: [NASA](https://climate.nasa.gov/vital-signs/global-temperature/)
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
 
-
 <section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
 {
   "autoHtml": true,
   "props": {
-    "item":   {
-      "date": "19.03.2019",
-      "title": "«Das Versagen»",
-      "header": "Serie «Der Fall ETH»",
-      "description": "An der ETH soll eine Astronomie-Professorin ihre Doktoranden über Jahre gemobbt haben. Jetzt wird sie entlassen, obwohl die Schuldfrage nie geklärt wurde. Wie eine Institution von Weltruf alles verrät: die Professorin, die Unschuldsvermutung, sich selbst.",
+    "item": {
+      "color": "#FCFDDB",
+      "header": "Wissenschaftsgeschichte des Klimawandels",
+      "date": "Von Arian Bastiani, 4.12. – 27.17.2018",
       "url": "https://www.republik.ch/2019/03/19/das-versagen-der-eth",
+      "textPosition": "topleft",
+      "title": "Geheimnisvolle Strahlen",
       "type": "Beitrag",
-      "highlight": true,
-      "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-eth-auftakt/images/2a5cd77e3510e8507bffc5999e00efa5d6ff67e2.jpeg.webp"
+      "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-klima-forschungsgeschichte-teil-1/images/2b0b82cc16d0baaf0491b5bf1e6e70c72cb435d3.jpeg",
+      "description": "Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen."
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v5"
 }
 ```
 
-<hr /></section>
+```html
+<style>.css-1rozygh, [data-css-1rozygh] { display: block; width: 100%; }.css-1nsqbf7, [data-css-1nsqbf7] { margin: 10px 0px 0px; font-family: GT-America-Standard-Regular, Helvetica-Neue-Regular, Arial-Regular, Roboto-Regular, sans-serif; font-weight: normal; font-size: 14px; line-height: 17px; color: rgb(40, 40, 40); }@media only screen and (min-width: 768px) {
+  .css-1nsqbf7, [data-css-1nsqbf7] { font-family: GT-America-Standard-Regular, Helvetica-Neue-Regular, Arial-Regular, Roboto-Regular, sans-serif; font-weight: normal; font-size: 15px; line-height: 21px; margin: 20px 0px 0px; }
+}.css-rsf6dg, [data-css-rsf6dg] { font-family: GT-America-Standard-Medium, Helvetica-Neue-Medium, Arial-Bold, Roboto-Medium, sans-serif; font-size: 16px; font-weight: normal; line-height: 25px; margin: 0px 0px 18px; }@media only screen and (min-width: 768px) {
+  .css-rsf6dg, [data-css-rsf6dg] { font-family: GT-America-Standard-Medium, Helvetica-Neue-Medium, Arial-Bold, Roboto-Medium, sans-serif; font-weight: normal; font-size: 20px; line-height: 24px; letter-spacing: normal; margin: 0px 0px 28px; }
+}@media only screen and (min-width: 1050px) {
+  .css-1tqzily, [data-css-1tqzily] { margin-left: -170px; margin-right: -170px; width: calc(100% + 340px); }
+}.css-17du2v3, [data-css-17du2v3] { margin: 0px 0px 15px; }@media only screen and (min-width: 640px) {
+  .css-17du2v3, [data-css-17du2v3] { margin-bottom: 30px; }
+}.css-3487gh, [data-css-3487gh] { font-family: RepublikSerif-Black, Rubis-Bold, serif; font-size: 58px; font-weight: normal; line-height: 60px; }.css-grr23q, [data-css-grr23q] { font-size: 38px; line-height: 43px; }@media only screen and (min-width: 640px) {
+  .css-grr23q, [data-css-grr23q] { font-size: 58px; line-height: 60px; }
+}@media only screen and (min-width: 1174px) {
+  .css-12pf939, [data-css-12pf939] { position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; overflow: hidden; }
+}.css-xi3jtf, [data-css-xi3jtf] { position: relative; line-height: 0; margin: 0px; z-index: 1; }@media only screen and (min-width: 1174px) {
+  .css-xi3jtf, [data-css-xi3jtf] { background: none; }
+}.css-1fsg7ik, [data-css-1fsg7ik] { overflow: hidden; padding: 15px 15px 40px; }@media only screen and (min-width: 640px) {
+  .css-1fsg7ik, [data-css-1fsg7ik] { padding: 40px 15% 70px; }
+}@media only screen and (min-width: 1174px) {
+  .css-1fsg7ik, [data-css-1fsg7ik] { padding: 0px; }
+}.css-1y8vuz5, [data-css-1y8vuz5] { font-family: Rubis-Regular, Georgia-Regular, Droid-Serif-Regular, serif; font-size: 19px; line-height: 27px; margin: 0px 0px 10px; color: rgb(40, 40, 40); }@media only screen and (min-width: 640px) {
+  .css-1y8vuz5, [data-css-1y8vuz5] { font-family: Rubis-Regular, Georgia-Regular, Droid-Serif-Regular, serif; font-size: 23px; line-height: 30px; margin: 0px 0px 20px; }
+}.css-tyyox0, [data-css-tyyox0] { position: relative; }@media only screen and (min-width: 1174px) {
+  .css-tyyox0, [data-css-tyyox0] { position: absolute; width: calc(50% - 50px); left: 50px; top: 50px; }
+}</style>
+<div data-css-1tqzily=""><div data-css-xi3jtf="" style="cursor: default;"><div style="position: relative; font-size: 0px;"><img data-css-1rozygh="" src="https://cdn.republik.space/s3/republik-assets/github/republik/article-klima-forschungsgeschichte-teil-1/images/2b0b82cc16d0baaf0491b5bf1e6e70c72cb435d3.jpeg" alt=""></div><div data-css-1fsg7ik=""><div data-css-12pf939=""><div data-css-tyyox0="" style="color: rgb(252, 253, 219);"><p data-css-rsf6dg="">Wissenschaftsgeschichte des Klimawandels</p><h1 data-css-17du2v3="" data-css-3487gh="" data-css-grr23q="">Geheimnisvolle Strahlen</h1><span data-css-1y8vuz5="" style="color: inherit;">Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen.</span><p data-css-1nsqbf7="" style="color: inherit;">Von Arian Bastiani, 4.12. – 27.17.2018</p></div></div></div></div></div>
+```
 
+<hr /></section>
 
 ## Der Schweiz, vermeintlicher Musterknabe
 
@@ -1594,7 +1619,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 {
   "type": "TimeBar",
   "y": "value",
-  "size": "breakout",
   "color": "label",
   "xTicks": [
     1960,
@@ -1905,7 +1929,6 @@ year,label,value
 2017,Frankreich,5.4833
 2017,Italien,5.9881
 2017,Österreich,8.0067
-
 ```
 
 Quelle: Carbon Atlas. Berücksichtigt sind die Emissionen im Inland, ohne den Flugverkehr und die grauen Emissionen aus importierten Produkten.
@@ -2385,7 +2408,179 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. 
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. 
+
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "autoHtml": true,
+  "props": {
+    "item": {
+      "color": "#fff",
+      "date": "Von Urs Bruderer (Text) und Adam Higton (Illustrationen), 07.09.2018",
+      "url": "https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn",
+      "textPosition": "topright",
+      "title": "Das Land, wo bald die Zitronen blühn",
+      "type": "Beitrag",
+      "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-das-land-wo-die-zitronen-bluehn/images/cf31077d21d1e2accace0240a3b004e3b631eb39.gif",
+      "description": "Die Schweiz wird zu einem mediterranen Land, nur leider ohne Meer. Für die Landwirtschaft ein Glück: Es werden Melonen, Reis und Topweine wachsen. Doch den Bauern fällt die Umstellung schwer, die der Klimawandel verlangt."
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v5"
+}
+```
+
+```html
+<style>.css-1rozygh, [data-css-1rozygh] { display: block; width: 100%; }.css-1nsqbf7, [data-css-1nsqbf7] { margin: 10px 0px 0px; font-family: GT-America-Standard-Regular, Helvetica-Neue-Regular, Arial-Regular, Roboto-Regular, sans-serif; font-weight: normal; font-size: 14px; line-height: 17px; color: rgb(40, 40, 40); }@media only screen and (min-width: 768px) {
+  .css-1nsqbf7, [data-css-1nsqbf7] { font-family: GT-America-Standard-Regular, Helvetica-Neue-Regular, Arial-Regular, Roboto-Regular, sans-serif; font-weight: normal; font-size: 15px; line-height: 21px; margin: 20px 0px 0px; }
+}@media only screen and (min-width: 1050px) {
+  .css-1tqzily, [data-css-1tqzily] { margin-left: -170px; margin-right: -170px; width: calc(100% + 340px); }
+}.css-17du2v3, [data-css-17du2v3] { margin: 0px 0px 15px; }@media only screen and (min-width: 640px) {
+  .css-17du2v3, [data-css-17du2v3] { margin-bottom: 30px; }
+}.css-3487gh, [data-css-3487gh] { font-family: RepublikSerif-Black, Rubis-Bold, serif; font-size: 58px; font-weight: normal; line-height: 60px; }.css-grr23q, [data-css-grr23q] { font-size: 38px; line-height: 43px; }@media only screen and (min-width: 640px) {
+  .css-grr23q, [data-css-grr23q] { font-size: 58px; line-height: 60px; }
+}@media only screen and (min-width: 1174px) {
+  .css-12pf939, [data-css-12pf939] { position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; overflow: hidden; }
+}.css-xi3jtf, [data-css-xi3jtf] { position: relative; line-height: 0; margin: 0px; z-index: 1; }@media only screen and (min-width: 1174px) {
+  .css-xi3jtf, [data-css-xi3jtf] { background: none; }
+}.css-1fsg7ik, [data-css-1fsg7ik] { overflow: hidden; padding: 15px 15px 40px; }@media only screen and (min-width: 640px) {
+  .css-1fsg7ik, [data-css-1fsg7ik] { padding: 40px 15% 70px; }
+}@media only screen and (min-width: 1174px) {
+  .css-1fsg7ik, [data-css-1fsg7ik] { padding: 0px; }
+}.css-1y8vuz5, [data-css-1y8vuz5] { font-family: Rubis-Regular, Georgia-Regular, Droid-Serif-Regular, serif; font-size: 19px; line-height: 27px; margin: 0px 0px 10px; color: rgb(40, 40, 40); }@media only screen and (min-width: 640px) {
+  .css-1y8vuz5, [data-css-1y8vuz5] { font-family: Rubis-Regular, Georgia-Regular, Droid-Serif-Regular, serif; font-size: 23px; line-height: 30px; margin: 0px 0px 20px; }
+}.css-twvdcf, [data-css-twvdcf] { position: relative; }@media only screen and (min-width: 1174px) {
+  .css-twvdcf, [data-css-twvdcf] { position: absolute; width: calc(50% - 50px); left: 50%; top: 50px; }
+}</style>
+<div data-css-1tqzily=""><div data-css-xi3jtf="" style="cursor: default;"><div style="position: relative; font-size: 0px;"><img data-css-1rozygh="" src="https://cdn.republik.space/s3/republik-assets/github/republik/article-das-land-wo-die-zitronen-bluehn/images/cf31077d21d1e2accace0240a3b004e3b631eb39.gif" alt=""></div><div data-css-1fsg7ik=""><div data-css-12pf939=""><div data-css-twvdcf="" style="color: rgb(255, 255, 255);"><h1 data-css-17du2v3="" data-css-3487gh="" data-css-grr23q="">Das Land, wo bald die Zitronen blühn</h1><span data-css-1y8vuz5="" style="color: inherit;">Die Schweiz wird zu einem mediterranen Land, nur leider ohne Meer. Für die Landwirtschaft ein Glück: Es werden Melonen, Reis und Topweine wachsen. Doch den Bauern fällt die Umstellung schwer, die der Klimawandel verlangt.</span><p data-css-1nsqbf7="" style="color: inherit;">Von Urs Bruderer (Text) und Adam Higton (Illustrationen), 07.09.2018</p></div></div></div></div></div>
+```
+
+<hr /></section>
+
+Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. 
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## 
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-co2-pro-kopf?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "nUNn5rJSu",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Das kleine Einmaleins der Klimapolitik
+
+## 
+
+#### Wie schnell muss die Schweiz ihre Treibhausgasemissionen reduzieren? Zwei Grafiken geben darauf eine intuitive Antwort.
+
+Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 26.11.2018
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#D44338",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-klima-ameise?autoSlug",
+  "kind": "scribble",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-aus-der-arena?autoSlug",
+  "titleSize": "standard",
+  "id": "g2ay6w5_ck",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Aus der Arena
+
+# Unser doppeltes Klimadilemma
+
+## 
+
+#### Weshalb es auch für die kleine Schweiz von grossem Interesse sein sollte, den Klimawandel zu bremsen.
+
+Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 14.11.2018
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-ein-120-000-jahre-rekord?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "vfbko3zQ2H",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Höchste Temperatur seit 120’000 Jahren gemessen!
+
+## 
+
+#### Nein, diese Schlagzeile ist kein Witz: Wir analysieren Temperatur­daten aus den vergangenen Jahrtausenden – und zeigen, wie der Mensch gerade die nächste Eiszeit verhindert.
+
+Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e), 03.06.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
 
 <section><h6>INFOBOX</h6>
 
