@@ -1556,7 +1556,129 @@ Quelle: [NASA](https://climate.nasa.gov/vital-signs/global-temperature/)
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. 
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## Die lange Sicht auf die globale Erwärmung
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-ein-120-000-jahre-rekord?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "O4b1BvaN-",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Höchste Temperatur seit 120’000 Jahren gemessen!
+
+## 
+
+#### Nein, diese Schlagzeile ist kein Witz: Wir analysieren Temperatur­daten aus den vergangenen Jahrtausenden – und zeigen, wie der Mensch gerade die nächste Eiszeit verhindert.
+
+Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e), 03.06.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-klima-temperaturen?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "nuFpFoL1XV",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Wie El Niño und Vulkane das Klima beeinflussen
+
+## 
+
+#### Warum die Erdtemperatur nicht nur steigt, sondern auch schwankt: zwei Betrachtungen über 150 und 1500 Jahre.
+
+Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.05.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": null,
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "DwEz5qJDm4",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# 
+
+## 
+
+#### 
+
+
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
+
+Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -2553,7 +2675,7 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 14.11.2018
   "byline": null,
   "formatColor": "#08809A",
   "onlyImage": false,
-  "url": "https://github.com/republik/article-ein-120-000-jahre-rekord?autoSlug",
+  "url": "https://github.com/republik/article-aufstand-der-streber?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
@@ -2566,15 +2688,17 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 14.11.2018
 }
 ```
 
-###### Auf lange Sicht
+![](images/85bd2986757b890776666dbbf6b719747354b988.jpeg?size=2500x1666)
 
-# Höchste Temperatur seit 120’000 Jahren gemessen!
+###### 
+
+# No future, das war gestern
 
 ## 
 
-#### Nein, diese Schlagzeile ist kein Witz: Wir analysieren Temperatur­daten aus den vergangenen Jahrtausenden – und zeigen, wie der Mensch gerade die nächste Eiszeit verhindert.
+#### Heute streiken wieder Tausende Schweizer Schülerinnen und Schüler für den Klimaschutz. Warum sind die Proteste so erfolgreich, wie werden sie überleben – und was können sie bewirken?
 
-Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e), 03.06.2019
+Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 15.03.2019
 
 <hr /></section>
 
