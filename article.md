@@ -1670,8 +1670,6 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
 
 #### 
 
-
-
 <hr /></section>
 
 <hr /></section>
@@ -1688,7 +1686,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
   "props": {
     "item": {
       "color": "#FCFDDB",
-      "header": "Wissenschaftsgeschichte des Klimawandels",
+      "header": "Serie Wissenschaftsgeschichte des Klimawandels",
       "date": "Von Arian Bastiani, 4.12. – 27.17.2018",
       "url": "https://www.republik.ch/2019/03/19/das-versagen-der-eth",
       "textPosition": "topleft",
@@ -1726,7 +1724,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
 }.css-tyyox0, [data-css-tyyox0] { position: relative; }@media only screen and (min-width: 1174px) {
   .css-tyyox0, [data-css-tyyox0] { position: absolute; width: calc(50% - 50px); left: 50px; top: 50px; }
 }</style>
-<div data-css-1tqzily=""><div data-css-xi3jtf="" style="cursor: default;"><div style="position: relative; font-size: 0px;"><img data-css-1rozygh="" src="https://cdn.republik.space/s3/republik-assets/github/republik/article-klima-forschungsgeschichte-teil-1/images/2b0b82cc16d0baaf0491b5bf1e6e70c72cb435d3.jpeg" alt=""></div><div data-css-1fsg7ik=""><div data-css-12pf939=""><div data-css-tyyox0="" style="color: rgb(252, 253, 219);"><p data-css-rsf6dg="">Wissenschaftsgeschichte des Klimawandels</p><h1 data-css-17du2v3="" data-css-3487gh="" data-css-grr23q="">Geheimnisvolle Strahlen</h1><span data-css-1y8vuz5="" style="color: inherit;">Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen.</span><p data-css-1nsqbf7="" style="color: inherit;">Von Arian Bastiani, 4.12. – 27.17.2018</p></div></div></div></div></div>
+<div data-css-1tqzily=""><div data-css-xi3jtf="" style="cursor: default;"><div style="position: relative; font-size: 0px;"><img data-css-1rozygh="" src="https://cdn.republik.space/s3/republik-assets/github/republik/article-klima-forschungsgeschichte-teil-1/images/2b0b82cc16d0baaf0491b5bf1e6e70c72cb435d3.jpeg" alt=""></div><div data-css-1fsg7ik=""><div data-css-12pf939=""><div data-css-tyyox0="" style="color: rgb(252, 253, 219);"><p data-css-rsf6dg="">Serie Wissenschaftsgeschichte des Klimawandels</p><h1 data-css-17du2v3="" data-css-3487gh="" data-css-grr23q="">Geheimnisvolle Strahlen</h1><span data-css-1y8vuz5="" style="color: inherit;">Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen.</span><p data-css-1nsqbf7="" style="color: inherit;">Von Arian Bastiani, 4.12. – 27.17.2018</p></div></div></div></div></div>
 ```
 
 <hr /></section>
