@@ -1641,37 +1641,6 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
 
 <hr /></section>
 
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "onlyImage": false,
-  "url": null,
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "titleSize": "standard",
-  "id": "DwEz5qJDm4",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-###### 
-
-# 
-
-## 
-
-#### 
-
-<hr /></section>
-
 <hr /></section>
 
 <hr /></section>
@@ -2529,7 +2498,133 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. 
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. 
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## Die lange Sicht auf die Klimapolitik der Schweiz
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-co2-pro-kopf?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "mpFAm8IV7",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Das kleine Einmaleins der Klimapolitik
+
+## 
+
+#### Wie schnell muss die Schweiz ihre Treibhausgasemissionen reduzieren? Zwei Grafiken geben darauf eine intuitive Antwort.
+
+Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 26.11.2018
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#D44338",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-klima-ameise?autoSlug",
+  "kind": "scribble",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-aus-der-arena?autoSlug",
+  "titleSize": "standard",
+  "id": "CwhgqgGfmE",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Aus der Arena
+
+# Unser doppeltes Klimadilemma
+
+## 
+
+#### Weshalb es auch für die kleine Schweiz von grossem Interesse sein sollte, den Klimawandel zu bremsen.
+
+Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 14.11.2018
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-eine-kleine-energiegeschichte?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "gbQaIEfvxg",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Eine kleine Energiegeschichte
+
+## 
+
+#### Wie die Schweiz in nur 100 Jahren zum Vielverbraucher fossiler Treibstoffe wurde – und wie sich der Energiehaushalt des Landes in den nächsten Jahrzehnten verändern muss.
+
+Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 01.07.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
+
+
+
+Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. 
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -2582,133 +2677,59 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 
 <hr /></section>
 
+Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. 
 
-
-Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. 
-
-<section><h6>ARTICLECOLLECTION</h6>
+<section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
 {
-  "membersOnly": true,
-  "unauthorizedText": ""
+  "autoHtml": true,
+  "props": {
+    "item": {
+      "color": "#fff",
+      "date": "Von Elia Blülle, 15.03.2019",
+      "url": "https://www.republik.ch/2019/03/15/no-future-das-war-gestern",
+      "title": "No future, das war gestern",
+      "split": true,
+      "type": "Beitrag",
+      "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-aufstand-der-streber/images/bab62c96339c128d7e88d2288c92b7097b07deb8.jpeg",
+      "lead": "Die Schweiz wird zu einem mediterranen Land, nur leider ohne Meer. Für die Landwirtschaft ein Glück: Es werden Melonen, Reis und Topweine wachsen. Doch den Bauern fällt die Umstellung schwer, die der Klimawandel verlangt.",
+      "bgColor": "#47C8F0"
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v10",
+  "size": "breakout"
 }
 ```
 
-## 
-
-<section><h6>TEASERGROUP</h6>
-
-<section><h6>TEASER</h6>
-
+```html
+<style>.css-1rozygh, [data-css-1rozygh] { display: block; width: 100%; }.css-bv4hie, [data-css-bv4hie] { margin: 10px 0px 0px; font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; line-height: 17px; color: rgb(40, 40, 40); }@media only screen and (min-width: 768px) {
+  .css-bv4hie, [data-css-bv4hie] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 15px; line-height: 21px; margin: 20px 0px 0px; }
+}.css-avcph8 a, [data-css-avcph8] a { text-decoration: none; color: rgb(60, 173, 0); }.css-avcph8 a:visited, [data-css-avcph8] a:visited { color: rgb(60, 173, 0); }.css-avcph8 ul, [data-css-avcph8] ul, .css-avcph8 ol, [data-css-avcph8] ol { overflow: hidden; }@media (hover) {
+  .css-avcph8 a:hover, [data-css-avcph8] a:hover { color: rgb(75, 99, 89); }
+}@media only screen and (min-width: 1050px) {
+  .css-1tqzily, [data-css-1tqzily] { margin-left: -170px; margin-right: -170px; width: calc(100% + 340px); }
+}.css-13azwyo, [data-css-13azwyo] { position: relative; }.css-17du2v3, [data-css-17du2v3] { margin: 0px 0px 15px; }@media only screen and (min-width: 640px) {
+  .css-17du2v3, [data-css-17du2v3] { margin-bottom: 30px; }
+}.css-4ql49i, [data-css-4ql49i] { font-family: RepublikSerif-Black, Rubis-Bold, Georgia, serif; font-weight: 900; font-size: 58px; line-height: 60px; }.css-ypdpeg, [data-css-ypdpeg] { font-size: 38px; line-height: 43px; }@media only screen and (min-width: 640px) {
+  .css-ypdpeg, [data-css-ypdpeg] { font-size: 58px; line-height: 60px; }
+}@media only screen and (min-width: 1174px) {
+  .css-ypdpeg, [data-css-ypdpeg] { font-size: 80px; line-height: 90px; }
+}.css-4vuuf9, [data-css-4vuuf9] { margin: 0px; overflow: hidden; }@media only screen and (min-width: 640px) {
+  .css-4vuuf9, [data-css-4vuuf9] { display: flex; padding: 70px 5%; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; }
+}.css-1n95dyr, [data-css-1n95dyr] { padding: 15px 15px 40px; }@media only screen and (min-width: 640px) {
+  .css-1n95dyr, [data-css-1n95dyr] { padding: 0px 0px 0px 5%; width: 50%; }
+}.css-7moq6x, [data-css-7moq6x] { position: relative; }@media only screen and (min-width: 640px) {
+  .css-7moq6x, [data-css-7moq6x] { font-size: 0px; height: auto; width: 50%; flex-shrink: 0; }
+}.css-bnxy44, [data-css-bnxy44] { font-family: Rubis-Regular, Georgia, serif; font-size: 19px; line-height: 27px; margin: 0px 0px 10px; color: rgb(40, 40, 40); }@media only screen and (min-width: 640px) {
+  .css-bnxy44, [data-css-bnxy44] { font-family: Rubis-Regular, Georgia, serif; font-size: 23px; line-height: 30px; margin: 0px 0px 20px; }
+}.css-f1b3sd, [data-css-f1b3sd] { color: inherit; text-decoration: none; cursor: pointer; }.css-f1b3sd:visited, [data-css-f1b3sd]:visited { color: inherit; }.css-1aa4c3s a, [data-css-1aa4c3s] a { color: inherit; text-decoration: underline; }.css-1aa4c3s a:visited, [data-css-1aa4c3s] a:visited { color: inherit; }</style>
+<div data-css-1tqzily=""><div data-css-4vuuf9="" style="background: rgb(71, 200, 240); cursor: default;"><div data-css-7moq6x=""><img data-css-1rozygh="" src="https://cdn.republik.space/s3/republik-assets/github/republik/article-aufstand-der-streber/images/bab62c96339c128d7e88d2288c92b7097b07deb8.jpeg" alt=""></div><div data-css-1n95dyr=""><div><div data-css-13azwyo="" style="color: rgb(255, 255, 255);"><h1 data-css-17du2v3="" data-css-4ql49i="" data-css-ypdpeg=""><a data-css-f1b3sd="" href="https://www.republik.ch/2019/03/15/no-future-das-war-gestern">No future, das war gestern</a></h1><span data-css-bnxy44="" style="color: inherit;">Die Schweiz wird zu einem mediterranen Land, nur leider ohne Meer. Für die Landwirtschaft ein Glück: Es werden Melonen, Reis und Topweine wachsen. Doch den Bauern fällt die Umstellung schwer, die der Klimawandel verlangt.</span><p data-css-bv4hie="" style="color: inherit;"><div data-css-1aa4c3s=""><span data-css-avcph8=""></span></div></p></div></div></div></div></div>
 ```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "formatColor": "#08809A",
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-co2-pro-kopf?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
-  "titleSize": "standard",
-  "id": "nUNn5rJSu",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-###### Auf lange Sicht
-
-# Das kleine Einmaleins der Klimapolitik
-
-## 
-
-#### Wie schnell muss die Schweiz ihre Treibhausgasemissionen reduzieren? Zwei Grafiken geben darauf eine intuitive Antwort.
-
-Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 26.11.2018
 
 <hr /></section>
 
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "formatColor": "#D44338",
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-klima-ameise?autoSlug",
-  "kind": "scribble",
-  "center": false,
-  "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-aus-der-arena?autoSlug",
-  "titleSize": "standard",
-  "id": "g2ay6w5_ck",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-###### Aus der Arena
-
-# Unser doppeltes Klimadilemma
-
-## 
-
-#### Weshalb es auch für die kleine Schweiz von grossem Interesse sein sollte, den Klimawandel zu bremsen.
-
-Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 14.11.2018
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "formatColor": "#08809A",
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-aufstand-der-streber?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
-  "titleSize": "standard",
-  "id": "vfbko3zQ2H",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-![](images/85bd2986757b890776666dbbf6b719747354b988.jpeg?size=2500x1666)
-
-###### 
-
-# No future, das war gestern
-
-## 
-
-#### Heute streiken wieder Tausende Schweizer Schülerinnen und Schüler für den Klimaschutz. Warum sind die Proteste so erfolgreich, wie werden sie überleben – und was können sie bewirken?
-
-Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 15.03.2019
-
-<hr /></section>
-
-<hr /></section>
-
-<hr /></section>
+Nullam dictum felis eu pede mollis pretium.Integer tincidunt. 
 
 <section><h6>INFOBOX</h6>
 
