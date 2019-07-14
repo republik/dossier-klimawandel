@@ -2608,7 +2608,7 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 14.11.2018
 
 ###### Auf lange Sicht
 
-# Eine kleine Energiegeschichte
+# Eine kleine Energie-geschichte
 
 ## 
 
