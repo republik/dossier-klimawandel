@@ -3520,11 +3520,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 
 ```
 {
-  "autoHtml": true,
+  "autoHtml": false,
   "props": {
     "item": {
       "color": "#fff",
-      "date": "Von Urs Bruderer (Text) und Adam Higton (Illustrationen), 07.09.2018",
+      "author": "Von Urs Bruderer (Text) und Adam Higton (Illustrationen), 07.09.2018",
       "url": "https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn",
       "textPosition": "topright",
       "title": "Das Land, wo bald die Zitronen blühn",
@@ -3540,30 +3540,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-```html
-<style>.css-1rozygh, [data-css-1rozygh] { display: block; width: 100%; }.css-bv4hie, [data-css-bv4hie] { margin: 10px 0px 0px; font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; line-height: 17px; color: rgb(40, 40, 40); }@media only screen and (min-width: 768px) {
-  .css-bv4hie, [data-css-bv4hie] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 15px; line-height: 21px; margin: 20px 0px 0px; }
-}.css-avcph8 a, [data-css-avcph8] a { text-decoration: none; color: rgb(60, 173, 0); }.css-avcph8 a:visited, [data-css-avcph8] a:visited { color: rgb(60, 173, 0); }.css-avcph8 ul, [data-css-avcph8] ul, .css-avcph8 ol, [data-css-avcph8] ol { overflow: hidden; }@media (hover) {
-  .css-avcph8 a:hover, [data-css-avcph8] a:hover { color: rgb(75, 99, 89); }
-}@media only screen and (min-width: 1050px) {
-  .css-1tqzily, [data-css-1tqzily] { margin-left: -170px; margin-right: -170px; width: calc(100% + 340px); }
-}.css-13azwyo, [data-css-13azwyo] { position: relative; }.css-17du2v3, [data-css-17du2v3] { margin: 0px 0px 15px; }@media only screen and (min-width: 640px) {
-  .css-17du2v3, [data-css-17du2v3] { margin-bottom: 30px; }
-}.css-4ql49i, [data-css-4ql49i] { font-family: RepublikSerif-Black, Rubis-Bold, Georgia, serif; font-weight: 900; font-size: 58px; line-height: 60px; }.css-ypdpeg, [data-css-ypdpeg] { font-size: 38px; line-height: 43px; }@media only screen and (min-width: 640px) {
-  .css-ypdpeg, [data-css-ypdpeg] { font-size: 58px; line-height: 60px; }
-}@media only screen and (min-width: 1174px) {
-  .css-ypdpeg, [data-css-ypdpeg] { font-size: 80px; line-height: 90px; }
-}.css-4vuuf9, [data-css-4vuuf9] { margin: 0px; overflow: hidden; }@media only screen and (min-width: 640px) {
-  .css-4vuuf9, [data-css-4vuuf9] { display: flex; padding: 70px 5%; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; }
-}.css-1n95dyr, [data-css-1n95dyr] { padding: 15px 15px 40px; }@media only screen and (min-width: 640px) {
-  .css-1n95dyr, [data-css-1n95dyr] { padding: 0px 0px 0px 5%; width: 50%; }
-}.css-7moq6x, [data-css-7moq6x] { position: relative; }@media only screen and (min-width: 640px) {
-  .css-7moq6x, [data-css-7moq6x] { font-size: 0px; height: auto; width: 50%; flex-shrink: 0; }
-}.css-bnxy44, [data-css-bnxy44] { font-family: Rubis-Regular, Georgia, serif; font-size: 19px; line-height: 27px; margin: 0px 0px 10px; color: rgb(40, 40, 40); }@media only screen and (min-width: 640px) {
-  .css-bnxy44, [data-css-bnxy44] { font-family: Rubis-Regular, Georgia, serif; font-size: 23px; line-height: 30px; margin: 0px 0px 20px; }
-}.css-f1b3sd, [data-css-f1b3sd] { color: inherit; text-decoration: none; cursor: pointer; }.css-f1b3sd:visited, [data-css-f1b3sd]:visited { color: inherit; }.css-1aa4c3s a, [data-css-1aa4c3s] a { color: inherit; text-decoration: underline; }.css-1aa4c3s a:visited, [data-css-1aa4c3s] a:visited { color: inherit; }</style>
-<div data-css-1tqzily=""><div data-css-4vuuf9="" style="background: rgb(239, 206, 90); cursor: default;"><div data-css-7moq6x=""><img data-css-1rozygh="" src="https://cdn.republik.space/s3/republik-assets/github/republik/article-das-land-wo-die-zitronen-bluehn/images/cf31077d21d1e2accace0240a3b004e3b631eb39.gif" alt=""></div><div data-css-1n95dyr=""><div><div data-css-13azwyo="" style="color: rgb(255, 255, 255);"><h1 data-css-17du2v3="" data-css-4ql49i="" data-css-ypdpeg=""><a data-css-f1b3sd="" href="https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn">Das Land, wo bald die Zitronen blühn</a></h1><span data-css-bnxy44="" style="color: inherit;">Die Schweiz wird zu einem mediterranen Land, nur leider ohne Meer. Für die Landwirtschaft ein Glück: Es werden Melonen, Reis und Topweine wachsen. Doch den Bauern fällt die Umstellung schwer, die der Klimawandel verlangt.</span><p data-css-bv4hie="" style="color: inherit;"><div data-css-1aa4c3s=""><span data-css-avcph8=""></span></div></p></div></div></div></div></div>
-```
 
 <hr /></section>
 
@@ -3573,11 +3549,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 
 ```
 {
-  "autoHtml": true,
+  "autoHtml": false,
   "props": {
     "item": {
       "color": "#fff",
-      "date": "Von Elia Blülle, 15.03.2019",
+      "author": "Von Elia Blülle, 15.03.2019",
       "url": "https://www.republik.ch/2019/03/15/no-future-das-war-gestern",
       "title": "No future, das war gestern",
       "split": true,
@@ -3590,31 +3566,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v10",
   "size": "breakout"
 }
-```
-
-```html
-<style>.css-1rozygh, [data-css-1rozygh] { display: block; width: 100%; }.css-bv4hie, [data-css-bv4hie] { margin: 10px 0px 0px; font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; line-height: 17px; color: rgb(40, 40, 40); }@media only screen and (min-width: 768px) {
-  .css-bv4hie, [data-css-bv4hie] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 15px; line-height: 21px; margin: 20px 0px 0px; }
-}.css-avcph8 a, [data-css-avcph8] a { text-decoration: none; color: rgb(60, 173, 0); }.css-avcph8 a:visited, [data-css-avcph8] a:visited { color: rgb(60, 173, 0); }.css-avcph8 ul, [data-css-avcph8] ul, .css-avcph8 ol, [data-css-avcph8] ol { overflow: hidden; }@media (hover) {
-  .css-avcph8 a:hover, [data-css-avcph8] a:hover { color: rgb(75, 99, 89); }
-}@media only screen and (min-width: 1050px) {
-  .css-1tqzily, [data-css-1tqzily] { margin-left: -170px; margin-right: -170px; width: calc(100% + 340px); }
-}.css-13azwyo, [data-css-13azwyo] { position: relative; }.css-17du2v3, [data-css-17du2v3] { margin: 0px 0px 15px; }@media only screen and (min-width: 640px) {
-  .css-17du2v3, [data-css-17du2v3] { margin-bottom: 30px; }
-}.css-4ql49i, [data-css-4ql49i] { font-family: RepublikSerif-Black, Rubis-Bold, Georgia, serif; font-weight: 900; font-size: 58px; line-height: 60px; }.css-ypdpeg, [data-css-ypdpeg] { font-size: 38px; line-height: 43px; }@media only screen and (min-width: 640px) {
-  .css-ypdpeg, [data-css-ypdpeg] { font-size: 58px; line-height: 60px; }
-}@media only screen and (min-width: 1174px) {
-  .css-ypdpeg, [data-css-ypdpeg] { font-size: 80px; line-height: 90px; }
-}.css-4vuuf9, [data-css-4vuuf9] { margin: 0px; overflow: hidden; }@media only screen and (min-width: 640px) {
-  .css-4vuuf9, [data-css-4vuuf9] { display: flex; padding: 70px 5%; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; }
-}.css-1n95dyr, [data-css-1n95dyr] { padding: 15px 15px 40px; }@media only screen and (min-width: 640px) {
-  .css-1n95dyr, [data-css-1n95dyr] { padding: 0px 0px 0px 5%; width: 50%; }
-}.css-7moq6x, [data-css-7moq6x] { position: relative; }@media only screen and (min-width: 640px) {
-  .css-7moq6x, [data-css-7moq6x] { font-size: 0px; height: auto; width: 50%; flex-shrink: 0; }
-}.css-bnxy44, [data-css-bnxy44] { font-family: Rubis-Regular, Georgia, serif; font-size: 19px; line-height: 27px; margin: 0px 0px 10px; color: rgb(40, 40, 40); }@media only screen and (min-width: 640px) {
-  .css-bnxy44, [data-css-bnxy44] { font-family: Rubis-Regular, Georgia, serif; font-size: 23px; line-height: 30px; margin: 0px 0px 20px; }
-}.css-f1b3sd, [data-css-f1b3sd] { color: inherit; text-decoration: none; cursor: pointer; }.css-f1b3sd:visited, [data-css-f1b3sd]:visited { color: inherit; }.css-1aa4c3s a, [data-css-1aa4c3s] a { color: inherit; text-decoration: underline; }.css-1aa4c3s a:visited, [data-css-1aa4c3s] a:visited { color: inherit; }</style>
-<div data-css-1tqzily=""><div data-css-4vuuf9="" style="background: rgb(71, 200, 240); cursor: default;"><div data-css-7moq6x=""><img data-css-1rozygh="" src="https://cdn.republik.space/s3/republik-assets/github/republik/article-aufstand-der-streber/images/bab62c96339c128d7e88d2288c92b7097b07deb8.jpeg" alt=""></div><div data-css-1n95dyr=""><div><div data-css-13azwyo="" style="color: rgb(255, 255, 255);"><h1 data-css-17du2v3="" data-css-4ql49i="" data-css-ypdpeg=""><a data-css-f1b3sd="" href="https://www.republik.ch/2019/03/15/no-future-das-war-gestern">No future, das war gestern</a></h1><span data-css-bnxy44="" style="color: inherit;">Die Schweiz wird zu einem mediterranen Land, nur leider ohne Meer. Für die Landwirtschaft ein Glück: Es werden Melonen, Reis und Topweine wachsen. Doch den Bauern fällt die Umstellung schwer, die der Klimawandel verlangt.</span><p data-css-bv4hie="" style="color: inherit;"><div data-css-1aa4c3s=""><span data-css-avcph8=""></span></div></p></div></div></div></div></div>
 ```
 
 <hr /></section>
