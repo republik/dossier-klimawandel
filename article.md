@@ -1656,7 +1656,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
     "item": {
       "color": "#FCFDDB",
       "header": "Serie Wissenschaftsgeschichte des Klimawandels",
-      "date": "Von Arian Bastiani, 4.12. – 27.17.2018",
+      "author": "Von Arian Bastiani, 4.12. – 27.17.2018",
       "url": "https://www.republik.ch/2019/03/19/das-versagen-der-eth",
       "title": "Geheimnisvolle Strahlen",
       "textPosition": "topleft",
