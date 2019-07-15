@@ -1664,7 +1664,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
       "lead": "Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen."
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v5",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v10",
   "size": "breakout"
 }
 ```
