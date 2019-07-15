@@ -1651,7 +1651,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
 
 ```
 {
-  "autoHtml": true,
+  "autoHtml": false,
   "props": {
     "item": {
       "color": "#FCFDDB",
@@ -1668,33 +1668,6 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v5",
   "size": "breakout"
 }
-```
-
-```html
-<style>.css-1rozygh, [data-css-1rozygh] { display: block; width: 100%; }.css-bv4hie, [data-css-bv4hie] { margin: 10px 0px 0px; font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; line-height: 17px; color: rgb(40, 40, 40); }@media only screen and (min-width: 768px) {
-  .css-bv4hie, [data-css-bv4hie] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 15px; line-height: 21px; margin: 20px 0px 0px; }
-}.css-li28mw, [data-css-li28mw] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-size: 16px; line-height: 25px; margin: 0px 0px 18px; }@media only screen and (min-width: 768px) {
-  .css-li28mw, [data-css-li28mw] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-size: 20px; line-height: 24px; letter-spacing: normal; margin: 0px 0px 28px; }
-}@media only screen and (min-width: 1050px) {
-  .css-1tqzily, [data-css-1tqzily] { margin-left: -170px; margin-right: -170px; width: calc(100% + 340px); }
-}.css-17du2v3, [data-css-17du2v3] { margin: 0px 0px 15px; }@media only screen and (min-width: 640px) {
-  .css-17du2v3, [data-css-17du2v3] { margin-bottom: 30px; }
-}.css-4ql49i, [data-css-4ql49i] { font-family: RepublikSerif-Black, Rubis-Bold, Georgia, serif; font-weight: 900; font-size: 58px; line-height: 60px; }.css-grr23q, [data-css-grr23q] { font-size: 38px; line-height: 43px; }@media only screen and (min-width: 640px) {
-  .css-grr23q, [data-css-grr23q] { font-size: 58px; line-height: 60px; }
-}@media only screen and (min-width: 1174px) {
-  .css-12pf939, [data-css-12pf939] { position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; overflow: hidden; }
-}.css-xi3jtf, [data-css-xi3jtf] { position: relative; line-height: 0; margin: 0px; z-index: 1; }@media only screen and (min-width: 1174px) {
-  .css-xi3jtf, [data-css-xi3jtf] { background: none; }
-}.css-1fsg7ik, [data-css-1fsg7ik] { overflow: hidden; padding: 15px 15px 40px; }@media only screen and (min-width: 640px) {
-  .css-1fsg7ik, [data-css-1fsg7ik] { padding: 40px 15% 70px; }
-}@media only screen and (min-width: 1174px) {
-  .css-1fsg7ik, [data-css-1fsg7ik] { padding: 0px; }
-}.css-bnxy44, [data-css-bnxy44] { font-family: Rubis-Regular, Georgia, serif; font-size: 19px; line-height: 27px; margin: 0px 0px 10px; color: rgb(40, 40, 40); }@media only screen and (min-width: 640px) {
-  .css-bnxy44, [data-css-bnxy44] { font-family: Rubis-Regular, Georgia, serif; font-size: 23px; line-height: 30px; margin: 0px 0px 20px; }
-}.css-tyyox0, [data-css-tyyox0] { position: relative; }@media only screen and (min-width: 1174px) {
-  .css-tyyox0, [data-css-tyyox0] { position: absolute; width: calc(50% - 50px); left: 50px; top: 50px; }
-}</style>
-<div data-css-1tqzily=""><div data-css-xi3jtf="" style="cursor: default;"><div style="position: relative; font-size: 0px;"><img data-css-1rozygh="" src="https://cdn.republik.space/s3/republik-assets/github/republik/article-klima-forschungsgeschichte-teil-1/images/2b0b82cc16d0baaf0491b5bf1e6e70c72cb435d3.jpeg" alt=""></div><div data-css-1fsg7ik=""><div data-css-12pf939=""><div data-css-tyyox0="" style="color: rgb(252, 253, 219);"><p data-css-li28mw="">Serie Wissenschaftsgeschichte des Klimawandels</p><h1 data-css-17du2v3="" data-css-4ql49i="" data-css-grr23q="">Geheimnisvolle Strahlen</h1><span data-css-bnxy44="" style="color: inherit;">Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen.</span><p data-css-bv4hie="" style="color: inherit;">Von Arian Bastiani, 4.12. – 27.17.2018</p></div></div></div></div></div>
 ```
 
 <hr /></section>
