@@ -120,7 +120,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-### China am Aufholen
+### Aufholjagd
 
 Jährlicher CO₂-Ausstoss nach Region
 
@@ -401,7 +401,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-### It’s a match!
+### Hockey-Schläger
 
 Temperaturen und CO<sub>2</sub>-Konzentration
 
@@ -1788,7 +1788,7 @@ Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. AuCO₂-Auss
 
 ### Auf und ab
 
-Jährlicher CO₂-Ausstoss pro Einwohner in der Schweiz und den Nachbarländern
+CO₂-Ausstoss pro Einwohner in der Schweiz und den Nachbarländern
 
 ```
 year,label,value
@@ -2572,7 +2572,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-## Die lange Sicht auf die Klimapolitik der Schweiz
+## Die lange Sicht auf die schweizerische Klimapolitik
 
 <section><h6>TEASERGROUP</h6>
 
