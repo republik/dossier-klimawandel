@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       },
       {
         "label": "CO₂-Austoss pro Kopf",
-        "value": "4.97",
+        "value": "5",
         "unit": "Tonnen",
         "color": "rgb(187,21,26)"
       },
@@ -67,6 +67,33 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
   },
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2"
 }
+```
+
+```html
+<style>@media only screen and (min-width: 1050px) { 
+  .css-1tqzily, [data-css-1tqzily] { margin-left: -170px; margin-right: -170px; width: calc(100% + 340px); }
+}.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; -webkit-box-lines: multiple; flex-wrap: wrap; }@media only screen and (max-width: 767px) { 
+  .css-tdv8zt, [data-css-tdv8zt] { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
+}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
+  .css-z781yx, [data-css-z781yx] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
+}@media only screen and (min-width: 1025px) { 
+  .css-z781yx, [data-css-z781yx] { width: 25%; padding-left: 0px; }
+}@media only screen and (max-width: 767px) { 
+  .css-z781yx, [data-css-z781yx] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
+  .css-1akzvxi, [data-css-1akzvxi] { width: 50%; padding-bottom: 15px; padding-left: 15px; }
+}@media only screen and (min-width: 1025px) { 
+  .css-1akzvxi, [data-css-1akzvxi] { width: 25%; padding-left: 15px; }
+}@media only screen and (max-width: 767px) { 
+  .css-1akzvxi, [data-css-1akzvxi] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
+  .css-26u5fm, [data-css-26u5fm] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
+}@media only screen and (min-width: 1025px) { 
+  .css-26u5fm, [data-css-26u5fm] { width: 25%; padding-left: 15px; }
+}@media only screen and (max-width: 767px) { 
+  .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-fpex3d, [data-css-fpex3d] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-17mvhhs, [data-css-17mvhhs] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(151, 151, 151); }.css-1i7pivm, [data-css-1i7pivm] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: rgb(151, 151, 151); }.css-7r6ikw, [data-css-7r6ikw] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 12px; line-height: 16px; }.css-7r6ikw > a, [data-css-7r6ikw] > a { color: rgb(151, 151, 151); }.css-13vkft8, [data-css-13vkft8] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }</style>
+<div data-css-1tqzily=""><div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Dichte</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">441</span> <span data-css-17mvhhs="">ppm</span></div><div data-css-1i7pivm="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-7r6ikw=""> <a href="https://climate.nasa.gov/vital-signs/carbon-dioxide/">NASA, Mai 2019</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-fpex3d="">Veränderung seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+5.5</span> <span data-css-17mvhhs="">Prozent</span></div><div data-css-1i7pivm="">Zunahme der CO₂-Dichte in der Athmosphäre</div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">5</span> <span data-css-17mvhhs="">Tonnen</span></div><div data-css-1i7pivm=""></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-13vkft8="">Temperaturanstieg seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+0.8</span> <span data-css-17mvhhs="">Grad Celsius</span></div><div data-css-1i7pivm=""></div></div></div></div></div>
 ```
 
 <hr /></section>
@@ -333,7 +360,7 @@ year,label,value
 2017,Andere,17501.2946
 ```
 
-Quelle: Carbon Atlas
+Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas)
 
 <hr /></section>
 
@@ -1684,10 +1711,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
     "values": [
       {
         "label": "CO₂-Austoss pro Kopf",
-        "value": "4.54",
+        "value": "4.5",
         "unit": "Tonnen",
         "source": {
-          "name": "Bundesamt für Umwelt",
+          "name": "Bafu",
           "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040",
           "date": "2017"
         },
@@ -1695,8 +1722,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       },
       {
         "label": "Temperaturanstieg seit 1864",
-        "value": "+1°",
+        "value": "+2°",
         "unit": "Celsius",
+        "description": "Veränderung der Jahresmitteltemperatur",
         "source": {
           "name": "MeteoSchweiz",
           "url": "https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html",
@@ -1726,7 +1754,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }@media only screen and (max-width: 767px) { 
   .css-1iedtt5, [data-css-1iedtt5] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
 }</style>
-<div><div data-css-tdv8zt=""><div data-css-11vq7sg=""><div data-css-1afdx8t=""><div data-css-13vkft8="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">4.54</span> <span data-css-17mvhhs="">Tonnen</span></div><div data-css-1i7pivm=""></div><div><span data-css-7r6ikw=""> <a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bundesamt für Umwelt, 2017</a></span></div></div></div><div data-css-1iedtt5=""><div data-css-1afdx8t=""><div data-css-fpex3d="">Temperaturanstieg seit 1864</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+1°</span> <span data-css-17mvhhs="">Celsius</span></div><div data-css-1i7pivm=""></div><div><span data-css-7r6ikw=""> <a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div></div></div>
+<div><div data-css-tdv8zt=""><div data-css-11vq7sg=""><div data-css-1afdx8t=""><div data-css-13vkft8="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">4.5</span> <span data-css-17mvhhs="">Tonnen</span></div><div data-css-1i7pivm=""></div><div><span data-css-7r6ikw=""> <a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2017</a></span></div></div></div><div data-css-1iedtt5=""><div data-css-1afdx8t=""><div data-css-fpex3d="">Temperaturanstieg seit 1864</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+2°</span> <span data-css-17mvhhs="">Celsius</span></div><div data-css-1i7pivm="">Veränderung der Jahresmitteltemperatur</div><div><span data-css-7r6ikw=""> <a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div></div></div>
 ```
 
 <hr /></section>
@@ -2051,7 +2079,7 @@ year,label,value
 2017,Österreich,8.0067
 ```
 
-Quelle: Carbon Atlas. Berücksichtigt sind die Emissionen im Inland, ohne den Flugverkehr und die grauen Emissionen aus importierten Produkten.
+Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas). Berücksichtigt sind die Emissionen im Inland, ohne den Flugverkehr und die grauen Emissionen aus importierten Produkten.
 
 <hr /></section>
 
