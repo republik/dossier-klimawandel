@@ -17,7 +17,7 @@ slug: klimawandel
 
 ⁣
 
-Von [Andreas Moor](/~65b64225-3843-4e41-a7a6-716ae81a5d57), 21.05.2019
+Letzte Aktualisierung: 21.07.2019
 
 <hr /></section>
 
@@ -32,6 +32,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
   "autoHtml": true,
   "props": {
     "values": [
+      {
+        "label": "CO₂-Austoss pro Kopf",
+        "value": "5",
+        "unit": "Tonnen",
+        "color": "rgb(187,21,26)"
+      },
       {
         "label": "CO₂-Dichte",
         "value": 441,
@@ -49,12 +55,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
         "value": "+5.5",
         "unit": "Prozent",
         "description": "Zunahme der CO₂-Dichte in der Athmosphäre",
-        "color": "rgb(187,21,26)"
-      },
-      {
-        "label": "CO₂-Austoss pro Kopf",
-        "value": "5",
-        "unit": "Tonnen",
         "color": "rgb(187,21,26)"
       },
       {
@@ -93,7 +93,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }@media only screen and (max-width: 767px) { 
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
 }.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-fpex3d, [data-css-fpex3d] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-17mvhhs, [data-css-17mvhhs] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(151, 151, 151); }.css-1i7pivm, [data-css-1i7pivm] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: rgb(151, 151, 151); }.css-7r6ikw, [data-css-7r6ikw] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 12px; line-height: 16px; }.css-7r6ikw > a, [data-css-7r6ikw] > a { color: rgb(151, 151, 151); }.css-13vkft8, [data-css-13vkft8] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }</style>
-<div data-css-1tqzily=""><div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Dichte</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">441</span> <span data-css-17mvhhs="">ppm</span></div><div data-css-1i7pivm="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-7r6ikw=""> <a href="https://climate.nasa.gov/vital-signs/carbon-dioxide/">NASA, Mai 2019</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-fpex3d="">Veränderung seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+5.5</span> <span data-css-17mvhhs="">Prozent</span></div><div data-css-1i7pivm="">Zunahme der CO₂-Dichte in der Athmosphäre</div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">5</span> <span data-css-17mvhhs="">Tonnen</span></div><div data-css-1i7pivm=""></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-13vkft8="">Temperaturanstieg seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+0.8</span> <span data-css-17mvhhs="">Grad Celsius</span></div><div data-css-1i7pivm=""></div></div></div></div></div>
+<div data-css-1tqzily=""><div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">5</span> <span data-css-17mvhhs="">Tonnen</span></div><div data-css-1i7pivm=""></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Dichte</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">441</span> <span data-css-17mvhhs="">ppm</span></div><div data-css-1i7pivm="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-7r6ikw=""> <a href="https://climate.nasa.gov/vital-signs/carbon-dioxide/">NASA, Mai 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-fpex3d="">Veränderung seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+5.5</span> <span data-css-17mvhhs="">Prozent</span></div><div data-css-1i7pivm="">Zunahme der CO₂-Dichte in der Athmosphäre</div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-13vkft8="">Temperaturanstieg seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+0.8</span> <span data-css-17mvhhs="">Grad Celsius</span></div><div data-css-1i7pivm=""></div></div></div></div></div>
 ```
 
 <hr /></section>
@@ -120,9 +120,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-### Stetige Zunahme
+### China am Aufholen
 
-Weltweiter jährlicher CO₂-Ausstoss nach Regionen
+Jährlicher CO₂-Ausstoss nach Region
 
 ```
 year,label,value
@@ -394,8 +394,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
   ],
   "unit": "Grad Celsius",
   "colorRange": [
-    "rgb(8,48,107)",
-    "rgb(187,21,26)"
+    "rgb(187,21,26)",
+    "rgb(8,48,107)"
   ],
   "endLabel": false
 }
@@ -1428,7 +1428,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 ```
 {
   "type": "Line",
-  "y": "label"
+  "y": "label",
+  "unit": "Grad Celsius",
+  "numberFormat": "0.1f",
+  "colorRange": [
+    "rgb(187,21,26)"
+  ]
 }
 ```
 
@@ -1698,7 +1703,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
 
 <hr /></section>
 
-## Der Schweiz, vermeintlicher Musterknabe
+## Blick auf die Schweiz
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. 
 
@@ -3600,7 +3605,11 @@ date,category,value
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. 
+
+## Blick in die Zukunft
+
+Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
