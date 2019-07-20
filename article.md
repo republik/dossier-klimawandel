@@ -1673,7 +1673,65 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
 
 ## Der Schweiz, vermeintlicher Musterknabe
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. AuCO₂-Ausstoss pro Kopf der Schweiz und ihren Nachbarländern
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. 
+
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "autoHtml": true,
+  "props": {
+    "values": [
+      {
+        "label": "CO₂-Austoss pro Kopf",
+        "value": "4.54",
+        "unit": "Tonnen",
+        "source": {
+          "name": "Bundesamt für Umwelt",
+          "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040",
+          "date": "2017"
+        },
+        "color": "rgb(8,48,107)"
+      },
+      {
+        "label": "Temperaturanstieg seit 1864",
+        "value": "+1°",
+        "unit": "Celsius",
+        "source": {
+          "name": "MeteoSchweiz",
+          "url": "https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html",
+          "date": "2018"
+        },
+        "color": "rgb(187,21,26)"
+      }
+    ]
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2"
+}
+```
+
+```html
+<style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; -webkit-box-lines: multiple; flex-wrap: wrap; }@media only screen and (max-width: 767px) { 
+  .css-tdv8zt, [data-css-tdv8zt] { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
+}.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-fpex3d, [data-css-fpex3d] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-17mvhhs, [data-css-17mvhhs] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(151, 151, 151); }.css-1i7pivm, [data-css-1i7pivm] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: rgb(151, 151, 151); }.css-7r6ikw, [data-css-7r6ikw] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 12px; line-height: 16px; }.css-7r6ikw > a, [data-css-7r6ikw] > a { color: rgb(151, 151, 151); }.css-13vkft8, [data-css-13vkft8] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-11vq7sg, [data-css-11vq7sg] { box-sizing: border-box; width: 50%; }@media only screen and (min-width: 768px) { 
+  .css-11vq7sg, [data-css-11vq7sg] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
+}@media only screen and (min-width: 1025px) { 
+  .css-11vq7sg, [data-css-11vq7sg] { width: 50%; padding-left: 0px; }
+}@media only screen and (max-width: 767px) { 
+  .css-11vq7sg, [data-css-11vq7sg] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-1iedtt5, [data-css-1iedtt5] { box-sizing: border-box; width: 50%; }@media only screen and (min-width: 768px) { 
+  .css-1iedtt5, [data-css-1iedtt5] { width: 50%; padding-bottom: 15px; padding-left: 15px; }
+}@media only screen and (min-width: 1025px) { 
+  .css-1iedtt5, [data-css-1iedtt5] { width: 50%; padding-left: 15px; }
+}@media only screen and (max-width: 767px) { 
+  .css-1iedtt5, [data-css-1iedtt5] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}</style>
+<div><div data-css-tdv8zt=""><div data-css-11vq7sg=""><div data-css-1afdx8t=""><div data-css-13vkft8="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">4.54</span> <span data-css-17mvhhs="">Tonnen</span></div><div data-css-1i7pivm=""></div><div><span data-css-7r6ikw=""> <a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bundesamt für Umwelt, 2017</a></span></div></div></div><div data-css-1iedtt5=""><div data-css-1afdx8t=""><div data-css-fpex3d="">Temperaturanstieg seit 1864</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+1°</span> <span data-css-17mvhhs="">Celsius</span></div><div data-css-1i7pivm=""></div><div><span data-css-7r6ikw=""> <a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div></div></div>
+```
+
+<hr /></section>
+
+Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. AuCO₂-Ausstoss pro Kopf der Schweiz und ihren Nachbarländern
 
 <section><h6>CHART</h6>
 
@@ -3539,7 +3597,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
   "size": "breakout"
 }
 ```
-
 
 <hr /></section>
 
