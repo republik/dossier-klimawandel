@@ -1584,7 +1584,7 @@ year,value
 2018,0.93
 ```
 
-Quelle: [NASA](https://climate.nasa.gov/vital-signs/global-temperature/)
+Quelle: [NASA](https://climate.nasa.gov/vital-signs/global-temperature/). Kurve wurde geglättet.
 
 <hr /></section>
 
