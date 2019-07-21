@@ -2331,7 +2331,6 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
 {
   "type": "Bar",
   "color": "label",
-  "size": "narrow",
   "numberFormat": "%",
   "colorLegend": true,
   "sort": "none",
