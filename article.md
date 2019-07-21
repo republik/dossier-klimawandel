@@ -2151,7 +2151,6 @@ year,origin,value
 2014,Emissionen im Ausland,68.11
 2015,Emissionen im Inland,46.36
 2015,Emissionen im Ausland,69.58
-
 ```
 
 Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040).
@@ -2171,7 +2170,7 @@ Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla conseq
 }
 ```
 
-### Blühende Landschaften
+### Flachland
 
 Emissionen von Treibhausgasen im Inland nach Sektoren
 
@@ -3920,7 +3919,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       "split": true,
       "type": "Beitrag",
       "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-aufstand-der-streber/images/bab62c96339c128d7e88d2288c92b7097b07deb8.jpeg",
-      "lead": "Die Schweiz wird zu einem mediterranen Land, nur leider ohne Meer. Für die Landwirtschaft ein Glück: Es werden Melonen, Reis und Topweine wachsen. Doch den Bauern fällt die Umstellung schwer, die der Klimawandel verlangt.",
+      "lead": "Tausende Schweizer Schülerinnen und Schüler streiken für den Klimaschutz. Warum sind die Proteste so erfolgreich, wie werden sie überleben – und was können sie bewirken?",
       "bgColor": "#47C8F0"
     }
   },
@@ -4158,7 +4157,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       ]
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/quotes.js?v7"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/quotes.js?v11"
 }
 ```
 
@@ -4168,7 +4167,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 
 ### Über das Dossier «Klimawandel»
 
-Das Thema ist uns wichtig. Hier sagen wir warum. Zudem veröffentlichen wir Links zu Daten und Methoden.
+Das Dossier «Klimawandel» bündelt die wichtigsten Fakten zum Klimwandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwerpunkt des Dossiers liegt auf der Präsentation von Daten aus _Primärquellen_ und in der Zusammenstellung von _ausgewählten Beiträgen_ der Republik. Alle Quellen und Originaldaten, sowie die Methoden ihrer Aufbereitung, sind [ausführlich dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/Dossier%20Klimawandel.ipynb).
 
 <hr /></section>
 
