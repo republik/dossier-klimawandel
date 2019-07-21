@@ -64,8 +64,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       },
       {
         "label": "Temperaturanstieg seit 2005",
-        "value": "+0.8",
-        "unit": "Grad Celsius",
+        "value": "+0.8°",
+        "unit": "Celsius",
         "source": {
           "name": "NASA",
           "url": "https://climate.nasa.gov/vital-signs/carbon-dioxide/",
@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       }
     ]
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.3"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.4"
 }
 ```
 
@@ -1707,7 +1707,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
       "lead": "Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen."
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.3",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.4",
   "size": "breakout"
 }
 ```
@@ -1750,7 +1750,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       }
     ]
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.3"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.4"
 }
 ```
 
@@ -2984,7 +2984,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
       "bgColor": "#EFCE5A"
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.3",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.4",
   "size": "breakout"
 }
 ```
@@ -3011,7 +3011,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       "bgColor": "#47C8F0"
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.3",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.4",
   "size": "breakout"
 }
 ```
@@ -3245,7 +3245,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       ]
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/quotes.js?v2.3"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/quotes.js?v2.4"
 }
 ```
 
