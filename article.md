@@ -2994,6 +2994,18 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. 
 
+<section><h6>INFOBOX</h6>
+
+### Wo können wir 2060 noch Ski fahren?
+
+Die globale Erwärmung ist in vollem Gange. Wie sich der Klimawandel bereits heute auf den Schneefall ausgewirkt hat, [war 2018 im «Tages-Anzeiger» zu lesen](https://interaktiv.tagesanzeiger.ch/2018/schneetage): Minus 17 Prozent Schneetage werden heute etwa in Klosters gezählt.
+
+Blickt man in die Zukunft, verdüstern sich aber die Aussichten. Klima­berechnungen legen nahe, dass Winter wie dieser zunehmend zur Ausnahme werden. Die Flocken werden spärlicher vom Himmel fallen und durch milde Bodentemperaturen schneller zum Schmelzen gebracht, sagen Forscher: Die Schneedecke wird dünner, besonders in tiefen bis mittleren Lagen.
+
+Wo also ist Skifahren in vierzig Jahren noch möglich? Wo liegt genug, wo zu wenig Schnee? Um ein plastisches Bild zu zeichnen, haben wir ein drohendes Szenario interaktiv visualisiert – und zwar anhand der Schweizer Skigebiete.
+
+<hr /></section>
+
 <section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
