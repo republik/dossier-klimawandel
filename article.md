@@ -1703,7 +1703,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
 
 <hr /></section>
 
-## Blick auf die Schweiz
+## Die Schweiz, der Scheinzwerg
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. 
 
@@ -2088,7 +2088,77 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. 
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. 
+
+<section><h6>CHART</h6>
+
+```
+{
+  "type": "TimeBar",
+  "value": "label",
+  "unit": "Millionen Tonnen CO2-Äquivalente",
+  "color": "origin",
+  "colorRange": [
+    "#092F6B",
+    "#aaa"
+  ]
+}
+```
+
+### Graue Eminenz
+
+Treibhausgas-Emissionen durch inländischen Konsum
+
+```
+year,origin,value
+1996,Emissionen im Inland,50.85
+1996,Emissionen im Ausland,52.55
+1997,Emissionen im Inland,48.73
+1997,Emissionen im Ausland,51.40
+1998,Emissionen im Inland,50.67
+1998,Emissionen im Ausland,57.43
+1999,Emissionen im Inland,50.65
+1999,Emissionen im Ausland,58.70
+2000,Emissionen im Inland,50.05
+2000,Emissionen im Ausland,62.29
+2001,Emissionen im Inland,51.69
+2001,Emissionen im Ausland,69.09
+2002,Emissionen im Inland,49.76
+2002,Emissionen im Ausland,63.56
+2003,Emissionen im Inland,49.68
+2003,Emissionen im Ausland,62.55
+2004,Emissionen im Inland,49.28
+2004,Emissionen im Ausland,61.90
+2005,Emissionen im Inland,49.80
+2005,Emissionen im Ausland,62.87
+2006,Emissionen im Inland,49.23
+2006,Emissionen im Ausland,64.64
+2007,Emissionen im Inland,47.08
+2007,Emissionen im Ausland,65.38
+2008,Emissionen im Inland,48.61
+2008,Emissionen im Ausland,65.21
+2009,Emissionen im Inland,47.75
+2009,Emissionen im Ausland,60.97
+2010,Emissionen im Inland,48.79
+2010,Emissionen im Ausland,64.32
+2011,Emissionen im Inland,46.44
+2011,Emissionen im Ausland,65.33
+2012,Emissionen im Inland,48.01
+2012,Emissionen im Ausland,65.78
+2013,Emissionen im Inland,49.03
+2013,Emissionen im Ausland,67.82
+2014,Emissionen im Inland,45.52
+2014,Emissionen im Ausland,68.11
+2015,Emissionen im Inland,46.36
+2015,Emissionen im Ausland,69.58
+
+```
+
+Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040).
+
+<hr /></section>
+
+Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. 
 
 <section><h6>CHART</h6>
 
@@ -2101,7 +2171,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-### Sanfte Hügel
+### Blühende Landschaften
 
 Emissionen von Treibhausgasen im Inland nach Sektoren
 
