@@ -1,7 +1,4 @@
-<section><h6>CENTER</h6>
-
-
-v2---
+---
 template: dossier
 auto: true
 feed: true
@@ -68,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       }
     ]
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.3"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.1"
 }
 ```
 
@@ -1700,7 +1697,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
       "lead": "Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen."
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.3",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.1",
   "size": "breakout"
 }
 ```
@@ -1743,7 +1740,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       }
     ]
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.3"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.1"
 }
 ```
 
@@ -2977,7 +2974,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
       "bgColor": "#EFCE5A"
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.3",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.1",
   "size": "breakout"
 }
 ```
@@ -3004,7 +3001,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       "bgColor": "#47C8F0"
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.3",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.1",
   "size": "breakout"
 }
 ```
@@ -3238,7 +3235,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       ]
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/quotes.js?v2.3"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/quotes.js?v2.1"
 }
 ```
 
