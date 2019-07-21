@@ -105,8 +105,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 ```
 {
   "type": "TimeBar",
-  "y": "label",
   "color": "label",
+  "colorSort": "none",
+  "sort": "none",
   "xTicks": [
     1960,
     1970,
@@ -120,7 +121,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-### Aufholjagd
+### Stagnation in den Industriestaaten
 
 Jährlicher CO₂-Ausstoss nach Region
 
@@ -1632,7 +1633,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 
 ## 
 
-#### Nein, diese Schlagzeile ist kein Witz: Wir analysieren Temperatur­daten aus den vergangenen Jahrtausenden – und zeigen, wie der Mensch gerade die nächste Eiszeit verhindert.
+#### Wir analysieren Temperatur­daten aus den vergangenen Jahrtausenden – und zeigen, wie der Mensch gerade die nächste Eiszeit verhindert.
 
 Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e), 03.06.2019
 
@@ -1667,7 +1668,7 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e), 03.06.2019
 
 ## 
 
-#### Warum die Erdtemperatur nicht nur steigt, sondern auch schwankt: zwei Betrachtungen über 150 und 1500 Jahre.
+#### Warum die Erdtemperatur schwankt: zwei Betrachtungen über 150 und 1500 Jahre.
 
 Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.05.2019
 
@@ -2170,7 +2171,7 @@ Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla conseq
 }
 ```
 
-### Flachland
+### Sanfte Abnahme
 
 Emissionen von Treibhausgasen im Inland nach Sektoren
 
@@ -2952,7 +2953,6 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 01.07.2019
 <hr /></section>
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
-
 
 ## Blick in die Zukunft
 
