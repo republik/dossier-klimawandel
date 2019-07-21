@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
       },
       {
         "label": "Temperaturanstieg",
-        "value": "+0.8°",
+        "value": "+0.9°",
         "unit": "",
         "description": "Abweichung vom langjährigen Durchschnitt 1951–1980",
         "source": {
