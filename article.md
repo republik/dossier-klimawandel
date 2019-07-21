@@ -17,7 +17,7 @@ slug: klimawandel
 
 ⁣
 
-Von [Andreas Moor](/~65b64225-3843-4e41-a7a6-716ae81a5d57), 21.05.2019
+Letzte Aktualisierung: 21.07.2019
 
 <hr /></section>
 
@@ -32,6 +32,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
   "autoHtml": true,
   "props": {
     "values": [
+      {
+        "label": "CO₂-Austoss pro Kopf",
+        "value": "5",
+        "unit": "Tonnen",
+        "color": "rgb(187,21,26)"
+      },
       {
         "label": "CO₂-Dichte",
         "value": 441,
@@ -49,12 +55,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
         "value": "+5.5",
         "unit": "Prozent",
         "description": "Zunahme der CO₂-Dichte in der Athmosphäre",
-        "color": "rgb(187,21,26)"
-      },
-      {
-        "label": "CO₂-Austoss pro Kopf",
-        "value": "5",
-        "unit": "Tonnen",
         "color": "rgb(187,21,26)"
       },
       {
@@ -93,7 +93,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }@media only screen and (max-width: 767px) { 
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
 }.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-fpex3d, [data-css-fpex3d] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-17mvhhs, [data-css-17mvhhs] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(151, 151, 151); }.css-1i7pivm, [data-css-1i7pivm] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: rgb(151, 151, 151); }.css-7r6ikw, [data-css-7r6ikw] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 12px; line-height: 16px; }.css-7r6ikw > a, [data-css-7r6ikw] > a { color: rgb(151, 151, 151); }.css-13vkft8, [data-css-13vkft8] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }</style>
-<div data-css-1tqzily=""><div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Dichte</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">441</span> <span data-css-17mvhhs="">ppm</span></div><div data-css-1i7pivm="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-7r6ikw=""> <a href="https://climate.nasa.gov/vital-signs/carbon-dioxide/">NASA, Mai 2019</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-fpex3d="">Veränderung seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+5.5</span> <span data-css-17mvhhs="">Prozent</span></div><div data-css-1i7pivm="">Zunahme der CO₂-Dichte in der Athmosphäre</div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">5</span> <span data-css-17mvhhs="">Tonnen</span></div><div data-css-1i7pivm=""></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-13vkft8="">Temperaturanstieg seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+0.8</span> <span data-css-17mvhhs="">Grad Celsius</span></div><div data-css-1i7pivm=""></div></div></div></div></div>
+<div data-css-1tqzily=""><div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">5</span> <span data-css-17mvhhs="">Tonnen</span></div><div data-css-1i7pivm=""></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Dichte</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">441</span> <span data-css-17mvhhs="">ppm</span></div><div data-css-1i7pivm="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-7r6ikw=""> <a href="https://climate.nasa.gov/vital-signs/carbon-dioxide/">NASA, Mai 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-fpex3d="">Veränderung seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+5.5</span> <span data-css-17mvhhs="">Prozent</span></div><div data-css-1i7pivm="">Zunahme der CO₂-Dichte in der Athmosphäre</div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-13vkft8="">Temperaturanstieg seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+0.8</span> <span data-css-17mvhhs="">Grad Celsius</span></div><div data-css-1i7pivm=""></div></div></div></div></div>
 ```
 
 <hr /></section>
@@ -120,9 +120,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-### Stetige Zunahme
+### Aufholjagd
 
-Weltweiter jährlicher CO₂-Ausstoss nach Regionen
+Jährlicher CO₂-Ausstoss nach Region
 
 ```
 year,label,value
@@ -394,14 +394,14 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
   ],
   "unit": "Grad Celsius",
   "colorRange": [
-    "rgb(8,48,107)",
-    "rgb(187,21,26)"
+    "rgb(187,21,26)",
+    "rgb(8,48,107)"
   ],
   "endLabel": false
 }
 ```
 
-### It’s a match!
+### Hockey-Schläger
 
 Temperaturen und CO<sub>2</sub>-Konzentration
 
@@ -1428,7 +1428,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 ```
 {
   "type": "Line",
-  "y": "label"
+  "y": "label",
+  "unit": "Grad Celsius",
+  "numberFormat": "0.1f",
+  "colorRange": [
+    "rgb(187,21,26)"
+  ]
 }
 ```
 
@@ -1579,7 +1584,7 @@ year,value
 2018,0.93
 ```
 
-Quelle: [NASA](https://climate.nasa.gov/vital-signs/global-temperature/)
+Quelle: [NASA](https://climate.nasa.gov/vital-signs/global-temperature/). Kurve wurde geglättet.
 
 <hr /></section>
 
@@ -1698,7 +1703,7 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
 
 <hr /></section>
 
-## Der Schweiz, vermeintlicher Musterknabe
+## Die Schweiz, der Scheinzwerg
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. 
 
@@ -1783,7 +1788,7 @@ Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. AuCO₂-Auss
 
 ### Auf und ab
 
-Jährlicher CO₂-Ausstoss pro Einwohner in der Schweiz und den Nachbarländern
+CO₂-Ausstoss pro Einwohner in der Schweiz und den Nachbarländern
 
 ```
 year,label,value
@@ -2083,7 +2088,274 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue. 
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. 
+
+<section><h6>CHART</h6>
+
+```
+{
+  "type": "TimeBar",
+  "value": "label",
+  "unit": "Millionen Tonnen CO2-Äquivalente",
+  "color": "origin",
+  "colorRange": [
+    "#092F6B",
+    "#aaa"
+  ]
+}
+```
+
+### Graue Eminenz
+
+Treibhausgas-Emissionen durch inländischen Konsum
+
+```
+year,origin,value
+1996,Emissionen im Inland,50.85
+1996,Emissionen im Ausland,52.55
+1997,Emissionen im Inland,48.73
+1997,Emissionen im Ausland,51.40
+1998,Emissionen im Inland,50.67
+1998,Emissionen im Ausland,57.43
+1999,Emissionen im Inland,50.65
+1999,Emissionen im Ausland,58.70
+2000,Emissionen im Inland,50.05
+2000,Emissionen im Ausland,62.29
+2001,Emissionen im Inland,51.69
+2001,Emissionen im Ausland,69.09
+2002,Emissionen im Inland,49.76
+2002,Emissionen im Ausland,63.56
+2003,Emissionen im Inland,49.68
+2003,Emissionen im Ausland,62.55
+2004,Emissionen im Inland,49.28
+2004,Emissionen im Ausland,61.90
+2005,Emissionen im Inland,49.80
+2005,Emissionen im Ausland,62.87
+2006,Emissionen im Inland,49.23
+2006,Emissionen im Ausland,64.64
+2007,Emissionen im Inland,47.08
+2007,Emissionen im Ausland,65.38
+2008,Emissionen im Inland,48.61
+2008,Emissionen im Ausland,65.21
+2009,Emissionen im Inland,47.75
+2009,Emissionen im Ausland,60.97
+2010,Emissionen im Inland,48.79
+2010,Emissionen im Ausland,64.32
+2011,Emissionen im Inland,46.44
+2011,Emissionen im Ausland,65.33
+2012,Emissionen im Inland,48.01
+2012,Emissionen im Ausland,65.78
+2013,Emissionen im Inland,49.03
+2013,Emissionen im Ausland,67.82
+2014,Emissionen im Inland,45.52
+2014,Emissionen im Ausland,68.11
+2015,Emissionen im Inland,46.36
+2015,Emissionen im Ausland,69.58
+
+```
+
+Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040).
+
+<hr /></section>
+
+Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. 
+
+<section><h6>CHART</h6>
+
+```
+{
+  "type": "Line",
+  "unit": "Millionen Tonnen CO2-Äquivalente",
+  "numberFormat": ".1f",
+  "category": "datum.sector"
+}
+```
+
+### Blühende Landschaften
+
+Emissionen von Treibhausgasen im Inland nach Sektoren
+
+```
+year,sector,value
+1990,Industrie,11.56
+1990,Gebäude,17.10
+1990,Verkehr,14.86
+1990,Landwirtschaft,7.31
+1990,Abfall,2.82
+1991,Industrie,11.77
+1991,Gebäude,18.46
+1991,Verkehr,15.33
+1991,Landwirtschaft,7.25
+1991,Abfall,2.67
+1992,Industrie,11.25
+1992,Gebäude,18.50
+1992,Verkehr,15.65
+1992,Landwirtschaft,7.13
+1992,Abfall,2.69
+1993,Industrie,10.42
+1993,Gebäude,17.89
+1993,Verkehr,14.57
+1993,Landwirtschaft,7.11
+1993,Abfall,2.65
+1994,Industrie,10.58
+1994,Gebäude,16.61
+1994,Verkehr,14.75
+1994,Landwirtschaft,7.08
+1994,Abfall,2.58
+1995,Industrie,10.69
+1995,Gebäude,17.65
+1995,Verkehr,14.42
+1995,Landwirtschaft,7.06
+1995,Abfall,2.62
+1996,Industrie,10.44
+1996,Gebäude,18.50
+1996,Verkehr,14.47
+1996,Landwirtschaft,6.93
+1996,Abfall,2.68
+1997,Industrie,10.21
+1997,Gebäude,17.07
+1997,Verkehr,15.04
+1997,Landwirtschaft,6.76
+1997,Abfall,2.75
+1998,Industrie,10.68
+1998,Gebäude,17.89
+1998,Verkehr,15.25
+1998,Landwirtschaft,6.73
+1998,Abfall,2.90
+1999,Industrie,10.55
+1999,Gebäude,17.22
+1999,Verkehr,15.84
+1999,Landwirtschaft,6.60
+1999,Abfall,2.95
+2000,Industrie,10.46
+2000,Gebäude,16.12
+2000,Verkehr,16.08
+2000,Landwirtschaft,6.71
+2000,Abfall,3.14
+2001,Industrie,10.89
+2001,Gebäude,17.47
+2001,Verkehr,15.77
+2001,Landwirtschaft,6.70
+2001,Abfall,3.21
+2002,Industrie,10.45
+2002,Gebäude,16.33
+2002,Verkehr,15.71
+2002,Landwirtschaft,6.62
+2002,Abfall,3.30
+2003,Industrie,10.63
+2003,Gebäude,17.30
+2003,Verkehr,15.86
+2003,Landwirtschaft,6.49
+2003,Abfall,3.25
+2004,Industrie,11.22
+2004,Gebäude,17.17
+2004,Verkehr,15.92
+2004,Landwirtschaft,6.46
+2004,Abfall,3.37
+2005,Industrie,11.44
+2005,Gebäude,17.40
+2005,Verkehr,15.99
+2005,Landwirtschaft,6.58
+2005,Abfall,3.40
+2006,Industrie,11.68
+2006,Gebäude,16.54
+2006,Verkehr,16.11
+2006,Landwirtschaft,6.53
+2006,Abfall,3.58
+2007,Industrie,11.33
+2007,Gebäude,14.69
+2007,Verkehr,16.43
+2007,Landwirtschaft,6.63
+2007,Abfall,3.46
+2008,Industrie,11.48
+2008,Gebäude,15.57
+2008,Verkehr,16.77
+2008,Landwirtschaft,6.69
+2008,Abfall,3.51
+2009,Industrie,10.94
+2009,Gebäude,15.15
+2009,Verkehr,16.57
+2009,Landwirtschaft,6.61
+2009,Abfall,3.40
+2010,Industrie,11.29
+2010,Gebäude,16.33
+2010,Verkehr,16.46
+2010,Landwirtschaft,6.63
+2010,Abfall,3.50
+2011,Industrie,10.67
+2011,Gebäude,13.14
+2011,Verkehr,16.27
+2011,Landwirtschaft,6.59
+2011,Abfall,3.45
+2012,Industrie,10.66
+2012,Gebäude,14.39
+2012,Verkehr,16.39
+2012,Landwirtschaft,6.64
+2012,Abfall,3.46
+2013,Industrie,10.83
+2013,Gebäude,15.27
+2013,Verkehr,16.30
+2013,Landwirtschaft,6.49
+2013,Abfall,3.43
+2014,Industrie,10.33
+2014,Gebäude,11.86
+2014,Verkehr,16.20
+2014,Landwirtschaft,6.61
+2014,Abfall,3.45
+2015,Industrie,9.70
+2015,Gebäude,12.72
+2015,Verkehr,15.46
+2015,Landwirtschaft,6.52
+2015,Abfall,3.50
+2016,Industrie,9.67
+2016,Gebäude,13.18
+2016,Verkehr,15.29
+2016,Landwirtschaft,6.52
+2016,Abfall,3.61
+2017,Industrie,9.55
+2017,Gebäude,12.59
+2017,Verkehr,15.01
+2017,Landwirtschaft,6.51
+2017,Abfall,3.58
+```
+
+Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikatoren-karten/daten/treibhausgasinventar.html). Treibhausgasemissionen gemäss CO<sub>2</sub>-Gesetz und Kyoto-Protokoll, aufgeteilt nach Sektoren
+
+<hr /></section>
+
+Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. 
+
+<section><h6>CHART</h6>
+
+```
+{
+  "type": "Bar",
+  "color": "label",
+  "size": "narrow",
+  "numberFormat": "%",
+  "colorLegend": true,
+  "sort": "none",
+  "colorSort": "none"
+}
+```
+
+### Freie Fahrt
+
+CO<sub>2</sub>-Emissionen des Verkehrs nach Verkehrsmittel
+
+```
+label,value
+Personenwagen,0.75
+Transportfahrzeuge,0.19
+Busse,0.03
+Andere,0.03
+```
+
+Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html), 2017. Ohne internationalen Luftverkehr.
+
+<hr /></section>
+
+Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue. 
 
 <section><h6>CHART</h6>
 
@@ -2567,7 +2839,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-## Die lange Sicht auf die Klimapolitik der Schweiz
+## Die lange Sicht auf die schweizerische Klimapolitik
 
 <section><h6>TEASERGROUP</h6>
 
@@ -3600,7 +3872,11 @@ date,category,value
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. 
+
+## Blick in die Zukunft
+
+Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
