@@ -63,12 +63,13 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
         "color": "rgb(8,48,107)"
       },
       {
-        "label": "Temperaturanstieg seit 2005",
+        "label": "Temperaturanstieg",
         "value": "+0.8°",
-        "unit": "Celsius",
+        "unit": "",
+        "description": "Abweichung vom langjährigen Durchschnitt 1951–1980",
         "source": {
           "name": "NASA",
-          "url": "https://climate.nasa.gov/vital-signs/carbon-dioxide/",
+          "url": "https://climate.nasa.gov/vital-signs/global-temperature/",
           "date": "2018"
         },
         "color": "rgb(187,21,26)"
