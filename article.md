@@ -2101,9 +2101,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }
 ```
 
-### Flachland
+### Sanfte Hügel
 
-Emissionen von Treibausgasen nach Sektoren
+Emissionen von Treibhausgasen im Inland nach Sektoren
 
 ```
 year,sector,value
@@ -2247,14 +2247,45 @@ year,sector,value
 2017,Verkehr,15.01
 2017,Landwirtschaft,6.51
 2017,Abfall,3.58
-
 ```
 
 Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikatoren-karten/daten/treibhausgasinventar.html). Treibhausgasemissionen gemäss CO<sub>2</sub>-Gesetz und Kyoto-Protokoll, aufgeteilt nach Sektoren
 
 <hr /></section>
 
-Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue. 
+Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. 
+
+<section><h6>CHART</h6>
+
+```
+{
+  "type": "Bar",
+  "color": "label",
+  "size": "narrow",
+  "numberFormat": "%",
+  "colorLegend": true,
+  "sort": "none",
+  "colorSort": "none"
+}
+```
+
+### Freie Fahrt
+
+CO<sub>2</sub>-Emissionen des Verkehrs nach Verkehrsmittel
+
+```
+label,value
+Personenwagen,0.75
+Transportfahrzeuge,0.19
+Busse,0.03
+Andere,0.03
+```
+
+Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html), 2017. Ohne internationalen Luftverkehr.
+
+<hr /></section>
+
+Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue. 
 
 <section><h6>CHART</h6>
 
