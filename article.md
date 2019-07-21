@@ -1680,6 +1680,8 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
 
 Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
 
+<hr /></section>
+
 <section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
@@ -1703,6 +1705,8 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
 ```
 
 <hr /></section>
+
+<section><h6>CENTER</h6>
 
 ## Blick auf die Schweiz
 
