@@ -119,7 +119,7 @@ Die Wissenschaft erkannte die Gefahren vor langer Zeit, doch politische Fortschr
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. 
+Ein Grossteil der seit 1850 beobachteten Erwärmung ist dabei auf den menschlichen Einfluss und insbesondere auf den Ausstoss von Treibhausgasen zurückzuführen. Klimaszenarien für die Zukunft zeigen eine Fortsetzung des globalen Temperaturanstiegs und Auswirkungen auf viele weitere Aspekte des Klimas. Auch die Schweiz ist von dieser Entwicklung betroffen. Um den globalen Temperaturanstieg in Zukunft zu begrenzen, sind deutliche Anstrengungen zur Reduktion der Treibhausgasemissionen notwendig. 
 
 <section><h6>CHART</h6>
 
@@ -386,7 +386,7 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
+Auf globaler Skala, wie auch in der Schweiz, ist die oberflächennahe Erwärmung seit dem Beginn systematischer Messungen um 1850 unbestritten. Sie beträgt in etwa 1°C (Abb. 1). Die Mitteltemperaturen der letzten drei Jahrzehnte lagen dabei sukzessive höher als diejenigen aller vorangegangenen Jahrzehnte seit 1850.
 
 <section><h6>CHART</h6>
 
@@ -1443,7 +1443,9 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementar
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
+Temperatur und Kohlen­dioxid. Das ist kein Zufall, denn CO2 ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten (siehe dazu auch unsere vierteilige Serie über die Geschichte der Klimaforschung).
+
+Man sieht auch, dass der jüngste Anstieg der CO2-Konzentration um etwa 100 ppm in einer ähnlichen Grössen­ordnung wie die Differenz liegt, die jeweils zwischen den Kalt- und Warmzeiten bestand. Nun ist die Erde aktuell bereits in einer Warmzeit, dem sogenannten Holozän. Dass die CO2-Konzentration ausgehend von dieser Warmzeit nochmals um die besagte Grössen­ordnung steigt – und dies innerhalb nur weniger Jahre, quasi innerhalb eines erdgeschichtlichen Wimpern­schlags –, das ist wahrlich präzedenzlos.
 
 <section><h6>CHART</h6>
 
@@ -1610,7 +1612,7 @@ Quelle: [NASA](https://climate.nasa.gov/vital-signs/global-temperature/). Kurve 
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. 
+Wir beginnen mit einer Kurve, die Sie wahrscheinlich in ähnlicher Form schon einmal gesehen haben. Sie zeigt die Entwicklung der globalen Durchschnitts­temperatur, und zwar im Vergleich zu einer in der Klimatologie üblichen Referenz­periode (1961 bis 1990). Die Kurve ist unterlegt mit einer grauen Schattierung, die die Unsicherheit wiedergibt. Diese resultiert aus Mess­ungenauigkeiten oder zeitlichen und räumlichen Datenlücken.
 
 <section><h6>ARTICLECOLLECTION</h6>
 
@@ -1699,7 +1701,9 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
 
 <hr /></section>
 
-Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
+Über die Ursachen von Eis­zeiten hat die Wissenschaft lange gerätselt. Vieles wurde in Betracht gezogen: durch Platten­tektonik emporgehobene Berg- und Insel­ketten, die kühlende Strömungs­veränderungen bewirken, aber auch Vulkan­ausbrüche, deren Asche die Sonnen­einstrahlung vermindert. Doch was all diese Theorien nicht zu erklären vermochten, ist die Regel­mässigkeit, mit denen Kalt- und Warm­zeiten sich abgewechselt haben.
+
+Bereits im 18. Jahrhundert kam die Idee auf, dass die Sonne eine Rolle spielen könnte. Beziehungsweise: die Position, in der die Erde zu ihr steht. Die Ausrichtung und die Neigung der Erdachse sowie die Kreis­förmigkeit ihrer Umlauf­bahn um die Sonne sind nämlich nicht konstant. Sondern sie variieren über die Jahrtausende hinweg in sich überlagernden Zyklen.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -3005,13 +3009,13 @@ Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die inn
 
 Die [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html) zeigen, wo und wie der Klimawandel die Schweiz trifft und was weltweite Klimaschutzanstrengungen dagegen ausrichten können. Die absehbaren Folgen eines ungebremsten Klimawandels für die Schweiz sind mehr Hitzetage, trockene Sommer, heftige Niederschläge und schneearme Winter. Weltweite Klimaschutzanstrengungen können den Klimawandel jedoch entscheidend eindämmen.
 
-**Trockene Sommer:** Langfristig wird die mittlere Niederschlagsmenge in den Sommermonaten abnehmen und die Verdunstung zunehmen. Die Böden werden trockener, es gibt weniger Regentage, und die längste niederschlagsfreie Periode dauert länger.
+**Trockene Sommer:** Langfristig wird die mittlere Niederschlagsmenge in den Sommermonaten abnehmen und die Verdunstung zunehmen. Die Böden werden trockener, es gibt weniger Regentage, und die längste niederschlagsfreie Periode dauert länger.
 
-**Heftige Niederschläge:** Starkniederschläge werden in Zukunft wahrscheinlich merklich häufiger und intensiver als wir es heute erleben. Dies betrifft alle Jahreszeiten, aber besonders den Winter. Auch seltene Extremereignisse wie ein Jahrhundertniederschlag fallen deutlich heftiger aus.
+**Heftige Niederschläge:** Starkniederschläge werden in Zukunft wahrscheinlich merklich häufiger und intensiver als wir es heute erleben. Dies betrifft alle Jahreszeiten, aber besonders den Winter. Auch seltene Extremereignisse wie ein Jahrhundertniederschlag fallen deutlich heftiger aus.
 
-**Mehr Hitzetage:** Noch erheblich stärker als die Durchschnittstemperaturen steigen die Höchsttemperaturen. Hitzewellen sowie heisse Tage und Nächte werden häufiger und extremer. Am grössten ist die Hitzebelastung in den bevölkerungsreichen städtischen Gebieten in tiefen Lagen.
+**Mehr Hitzetage:** Noch erheblich stärker als die Durchschnittstemperaturen steigen die Höchsttemperaturen. Hitzewellen sowie heisse Tage und Nächte werden häufiger und extremer. Am grössten ist die Hitzebelastung in den bevölkerungsreichen städtischen Gebieten in tiefen Lagen.
 
-**Schneearme Winter:** Auch die Winter werden Mitte des Jahrhunderts deutlich wärmer sein als heute. Zwar fällt mehr Niederschlag – aber wegen der höheren Temperaturen eher als Regen. Besonders in tieferen Lagen schneit es seltener und weniger. Entsprechend schrumpfen die schneereichen Gebiete der Schweiz stark.
+**Schneearme Winter:** Auch die Winter werden Mitte des Jahrhunderts deutlich wärmer sein als heute. Zwar fällt mehr Niederschlag – aber wegen der höheren Temperaturen eher als Regen. Besonders in tieferen Lagen schneit es seltener und weniger. Entsprechend schrumpfen die schneereichen Gebiete der Schweiz stark.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
