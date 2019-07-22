@@ -2182,7 +2182,7 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. 
+Unsere Sommer werden künftig heisser und trockener, mit mehr Hitzetagen und längeren Phasen ohne Regen. Kommen die Niederschläge doch, vor allem im Winter, dann wird es öfter wie aus Kübeln giessen. Extreme Wetterereignisse nehmen zu, und zwar in allen Szenarien. Mehr Regen heisst aber nicht mehr Schnee. Mit den Temperaturen steigt auch die Nullgradgrenze an: um einige hundert Meter gegenüber vorindustriellen Zeiten, wenn die Welt den Klimaschutz ernst nimmt, und um fast einen Kilometer, wenn nicht.
 
 <section><h6>CHART</h6>
 
@@ -2347,7 +2347,9 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikat
 
 <hr /></section>
 
-Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. 
+Es geht um die Emission von Treibhausgasen wie CO2. Beziehungsweise: um ihre Reduktion. Um die grössten Schäden im Zuge des Klimawandels zu verhindern, muss der globale Ausstoss möglichst bald auf null sinken. So schreiben es die Wissenschaftler des Weltklimarates in ihren Berichten.
+
+Die Frist dafür läuft bis 2050. Ab diesem Zeitpunkt sollte unter dem Strich, also nach Abzug von CO2-senkenden Massnahmen wie etwa der Aufforstung, kein Gramm Kohlendioxid mehr in die Atmosphäre entweichen. 
 
 <section><h6>CHART</h6>
 
@@ -2378,7 +2380,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenban
 
 <hr /></section>
 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue. 
+Wie die Schweiz in nur 100 Jahren zum Vielverbraucher fossiler Treibstoffe wurde – und wie sich der Energiehaushalt des Landes in den nächsten Jahrzehnten verändern muss. 
 
 <section><h6>CHART</h6>
 
@@ -2851,7 +2853,9 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
+Wie kommt die Schweiz beim Klima zum Ziel? Man muss sich bewusst sein, dass es hierfür keine wissenschaftlich exakten Vorgaben geben kann. Denn der Klimawandel ist ein Risiko: Es gibt, ausgehend von einem bestimmten Emissionspfad, nicht nur eine Temperatur- und Niederschlagsentwicklung, sondern eine Bandbreite an Szenarien. Möglicherweise fallen die Schäden viel höher aus, als wir uns dies heute vorstellen können.
+
+Gerade deshalb nimmt das 1,5-Grad-Ziel in der Kommunikation derzeit einen so wichtigen Stellenwert ein: Es ist ein Mittel, um auszudrücken, dass sich Klimaschutz lohnt – und dass das Risiko irreversibler Umweltschäden deutlich abnimmt, wenn es gelingt, den Temperaturanstieg nicht nur auf 2 Grad zu beschränken, sondern ein ganzes Stück weit darunter zu halten. Die Formulierung, wonach die Emissionen zu diesem Zweck bis 2050 auf null sinken müssen, ist eine Faustregel. Sie dient der ungefähren Orientierung.
 
 <section><h6>ARTICLECOLLECTION</h6>
 
