@@ -1787,8 +1787,6 @@ Auf den ersten Blick gehört die Schweiz mit Treibhausgas-Emissionen im Inland T
 
 <hr /></section>
 
-Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die innovative, technologisch fortschrittliche Schweizer Wirtschaft – doch Teile von Politik und Gesellschaft verharren in einer Abwehrhaltung. «In der Schweiz hingegen bedeuten wärmere Temperaturen längere Vegetationsperioden, und die lassen sich ausnutzen», schreibt Urs Bruderer in [seiner Reportage über den Umgang der Bauern mit den sich wandelnden klimatischen Verhältnissen](https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn): «Doch statt neue Chancen auszuloten, haben viele Bauern den Klimawandel lange verdrängt. Unterstützt hat sie dabei die einstige Bauernpartei SVP, die den Klimawandel auch in ihrem aktuellen Programm kein einziges Mal erwähnt und stattdessen von ‹grünen Ideologen und Umwelttheoretikern› spricht, die ‹mit dauernder Schwarzmalerei den Leuten ein schlechtes Gewissen› einreden wollten.»
-
 <section><h6>CHART</h6>
 
 ```
@@ -1809,7 +1807,7 @@ Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die inn
 }
 ```
 
-### Auf und ab
+### Der Scheinzwerg
 
 CO₂-Ausstoss pro Einwohner in der Schweiz und den Nachbarländern
 
@@ -2973,9 +2971,21 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 01.07.2019
 
 <hr /></section>
 
-## Blick in die Zukunft
+## Zukunft
 
-Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
+Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die innovative, technologisch fortschrittliche Schweizer Wirtschaft – doch Teile von Politik und Gesellschaft verharren in einer Abwehrhaltung. «In der Schweiz hingegen bedeuten wärmere Temperaturen längere Vegetationsperioden, und die lassen sich ausnutzen», schreibt Urs Bruderer in [seiner Reportage über den Umgang der Bauern mit den sich wandelnden klimatischen Verhältnissen](https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn): «Doch statt neue Chancen auszuloten, haben viele Bauern den Klimawandel lange verdrängt. Unterstützt hat sie dabei die einstige Bauernpartei SVP, die den Klimawandel auch in ihrem aktuellen Programm kein einziges Mal erwähnt und stattdessen von ‹grünen Ideologen und Umwelttheoretikern› spricht, die ‹mit dauernder Schwarzmalerei den Leuten ein schlechtes Gewissen› einreden wollten.»
+
+### Klimaszenarien
+
+Die [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html) zeigen, wo und wie der Klimawandel die Schweiz trifft und was weltweite Klimaschutzanstrengungen dagegen ausrichten können. Die absehbaren Folgen eines ungebremsten Klimawandels für die Schweiz sind mehr Hitzetage, trockene Sommer, heftige Niederschläge und schneearme Winter. Weltweite Klimaschutzanstrengungen können den Klimawandel jedoch entscheidend eindämmen.
+
+**Trockene Sommer:** Langfristig wird die mittlere Niederschlagsmenge in den Sommermonaten abnehmen und die Verdunstung zunehmen. Die Böden werden trockener, es gibt weniger Regentage, und die längste niederschlagsfreie Periode dauert länger.
+
+**Heftige Niederschläge:** Starkniederschläge werden in Zukunft wahrscheinlich merklich häufiger und intensiver als wir es heute erleben. Dies betrifft alle Jahreszeiten, aber besonders den Winter. Auch seltene Extremereignisse wie ein Jahrhundertniederschlag fallen deutlich heftiger aus.
+
+**Mehr Hitzetage:** Noch erheblich stärker als die Durchschnittstemperaturen steigen die Höchsttemperaturen. Hitzewellen sowie heisse Tage und Nächte werden häufiger und extremer. Am grössten ist die Hitzebelastung in den bevölkerungsreichen städtischen Gebieten in tiefen Lagen.
+
+**Schneearme Winter:** Auch die Winter werden Mitte des Jahrhunderts deutlich wärmer sein als heute. Zwar fällt mehr Niederschlag – aber wegen der höheren Temperaturen eher als Regen. Besonders in tieferen Lagen schneit es seltener und weniger. Entsprechend schrumpfen die schneereichen Gebiete der Schweiz stark.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
