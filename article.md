@@ -2113,7 +2113,9 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. 
+Die Entwicklung in der Schweiz läuft nicht in allen Sektoren gleich. Die Emissionen aus dem Verkehr gehen erst seit wenigen Jahren leicht zurück. Sie liegen 2017 immer noch 1% über dem Niveau von 1990. Hingegen konnten die Emissionen in den Sektoren Gebäude und Industrie um 26% bzw. 18% gegenüber 1990 gesenkt werden.
+
+Die durchschnittliche Temperatur in der Schweiz hat seit Messbeginn (1864) um 2°C zugenommen und ist damit doppelt so hoch wie der globale Anstieg, der etwa 1°C beträgt. Die steigenden Temperaturen lassen sich seit Mitte des 19. Jahrhunderts mit natürlichen Faktoren (z.B. Schwankungen der Sonnenstrahlung) nicht mehr erklären. 9 der 10 wärmsten je gemessenen Jahre in der Schweiz wurden im 21. Jahrhundert registriert.
 
 <section><h6>CHART</h6>
 
