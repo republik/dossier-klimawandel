@@ -1727,21 +1727,22 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
   "props": {
     "values": [
       {
-        "label": "CO₂-Austoss pro Kopf",
-        "value": "4.5",
-        "unit": "Tonnen",
+        "label": "Treibhausgas-Fussabdruck",
+        "value": "13.6",
+        "unit": "Tonnen CO2-Äquivalente",
+        "description": "Emissionen pro Kopf im Inland aufgrund des in- und ausländischen Konsums",
         "source": {
           "name": "Bafu",
           "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040",
-          "date": "2017"
+          "date": "2016"
         },
         "color": "rgb(8,48,107)"
       },
       {
-        "label": "Temperaturanstieg seit 1864",
+        "label": "Temperaturanstieg",
         "value": "+2°",
         "unit": "Celsius",
-        "description": "Veränderung der Jahresmitteltemperatur",
+        "description": "Veränderung der Jahresmitteltemperatur seit 1864",
         "source": {
           "name": "MeteoSchweiz",
           "url": "https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html",
@@ -1758,7 +1759,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 ```html
 <style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; -webkit-box-lines: multiple; flex-wrap: wrap; }@media only screen and (max-width: 767px) { 
   .css-tdv8zt, [data-css-tdv8zt] { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
-}.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-fpex3d, [data-css-fpex3d] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-17mvhhs, [data-css-17mvhhs] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(151, 151, 151); }.css-1i7pivm, [data-css-1i7pivm] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: rgb(151, 151, 151); }.css-7r6ikw, [data-css-7r6ikw] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 12px; line-height: 16px; }.css-7r6ikw > a, [data-css-7r6ikw] > a { color: rgb(151, 151, 151); }.css-13vkft8, [data-css-13vkft8] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-11vq7sg, [data-css-11vq7sg] { box-sizing: border-box; width: 50%; }@media only screen and (min-width: 768px) { 
+}.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-8c19su, [data-css-8c19su] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }.css-11vq7sg, [data-css-11vq7sg] { box-sizing: border-box; width: 50%; }@media only screen and (min-width: 768px) { 
   .css-11vq7sg, [data-css-11vq7sg] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
 }@media only screen and (min-width: 1025px) { 
   .css-11vq7sg, [data-css-11vq7sg] { width: 50%; padding-left: 0px; }
@@ -1771,7 +1772,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 }@media only screen and (max-width: 767px) { 
   .css-1iedtt5, [data-css-1iedtt5] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
 }</style>
-<div><div data-css-tdv8zt=""><div data-css-11vq7sg=""><div data-css-1afdx8t=""><div data-css-13vkft8="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">4.5</span> <span data-css-17mvhhs="">Tonnen</span></div><div data-css-1i7pivm=""></div><div><span data-css-7r6ikw=""> <a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2017</a></span></div></div></div><div data-css-1iedtt5=""><div data-css-1afdx8t=""><div data-css-fpex3d="">Temperaturanstieg seit 1864</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+2°</span> <span data-css-17mvhhs="">Celsius</span></div><div data-css-1i7pivm="">Veränderung der Jahresmitteltemperatur</div><div><span data-css-7r6ikw=""> <a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div></div></div>
+<div><div data-css-tdv8zt=""><div data-css-11vq7sg=""><div data-css-1afdx8t=""><div data-css-sukgtj="">Treibhausgas-Fussabdruck</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">13.6</span> <span data-css-8c19su="">Tonnen CO2-Äquivalente</span></div><div data-css-8c19su="">Emissionen pro Kopf im Inland aufgrund des in- und ausländischen Konsums</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2016</a></span></div></div></div><div data-css-1iedtt5=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+2°</span> <span data-css-8c19su="">Celsius</span></div><div data-css-8c19su="">Veränderung der Jahresmitteltemperatur seit 1864</div><div><span data-css-18yx3y4=""><a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div></div></div>
 ```
 
 <hr /></section>
