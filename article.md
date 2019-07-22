@@ -25,7 +25,13 @@ Letzte Aktualisierung: 21.07.2019
 
 Der Klimawandel ist eine Realität – dass er menschengemacht ist, ist [unbestritten](#). Das Intergovernmental Panel on Climate Change warnt in seinem [jüngsten Bericht](https://www.ipcc.ch/sr15/) vor einer durchschnittlichen Erwärmung um mehr als 1.5°C:
 
->  Why is it necessary and even vital to maintain the global temperature increase below 1.5°C versus higher levels? Adaptation will be less difficult. Our world will suffer fewer negative impacts on intensity and frequency of extreme events, on resources, ecosystems, biodiversity, food security, cities, tourism and carbon removal.
+<section><h6>BLOCKQUOTE</h6>
+
+> Why is it necessary and even vital to maintain the global temperature increase below 1.5°C versus higher levels? Adaptation will be less difficult. Our world will suffer fewer negative impacts on intensity and frequency of extreme events, on resources, ecosystems, biodiversity, food security, cities, tourism and carbon removal.
+
+[IPCC Special Report: Global Warming of 1.5 ºC](https://www.ipcc.ch/sr15/)
+
+<hr /></section>
 
 Die Wissenschaft erkannte die Gefahren vor langer Zeit, doch politische Fortschritte sind nur wenige zu erkennen. «Doch darüber mag sich zu dieser Zeit noch niemand den Kopf zerbrechen. Die Atmosphäre wird als zu unermesslich betrachtet, als dass der Mensch darauf Einfluss nehmen könnte», schreibt Arian Bastiani in seiner [Serie über die Wissenschaftsgeschichte des Klimawandels](https://www.republik.ch/2018/12/05/geheimnisvolle-strahlen).
 
