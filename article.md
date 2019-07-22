@@ -23,7 +23,11 @@ Letzte Aktualisierung: 21.07.2019
 
 <section><h6>CENTER</h6>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. 
+Der Klimawandel ist eine Realität – dass er menschengemacht ist, ist [unbestritten](#). Das Intergovernmental Panel on Climate Change warnt in seinem [jüngsten Bericht](https://www.ipcc.ch/sr15/) vor einer durchschnittlichen Erwärmung um mehr als 1.5°C:
+
+>  Why is it necessary and even vital to maintain the global temperature increase below 1.5°C versus higher levels? Adaptation will be less difficult. Our world will suffer fewer negative impacts on intensity and frequency of extreme events, on resources, ecosystems, biodiversity, food security, cities, tourism and carbon removal.
+
+Die Wissenschaft erkannte die Gefahren vor langer Zeit, doch politische Fortschritte sind nur wenige zu erkennen. «Doch darüber mag sich zu dieser Zeit noch niemand den Kopf zerbrechen. Die Atmosphäre wird als zu unermesslich betrachtet, als dass der Mensch darauf Einfluss nehmen könnte», schreibt Arian Bastiani in seiner [Serie über die Wissenschaftsgeschichte des Klimawandels](https://www.republik.ch/2018/12/05/geheimnisvolle-strahlen).
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -1715,9 +1719,9 @@ Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Viva
 
 <hr /></section>
 
-## Blick auf die Schweiz
+## Schweiz
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. 
+Auf den ersten Blick gehört die Schweiz mit Treibhausgas-Emissionen im Inland Treibhausgas-Ausstoss von 5.6 Tonnen pro Kopf (davon 4.5 Tonnen CO₂) zu den internationalen Spitzenreitern. Die Emissionen sind seit 1990 um 12% gesunken. Doch der Schein trügt: Rechnet man den durch importierte Güter verursachten Ausstoss hinzu, dann liegt unser Land mit diesem «Treinhausgas-Fussabdruck» von 14 Tonnen CO₂-Äquivalenten weit über dem weltweiten Durchschnitt von 6 Tonnen.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -1728,20 +1732,20 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
     "values": [
       {
         "label": "Treibhausgas-Fussabdruck",
-        "value": "13.6",
+        "value": "14",
         "unit": "Tonnen CO2-Äquivalente",
         "description": "Emissionen pro Kopf im Inland aufgrund des in- und ausländischen Konsums",
         "source": {
           "name": "Bafu",
           "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040",
-          "date": "2016"
+          "date": "2015"
         },
         "color": "rgb(8,48,107)"
       },
       {
         "label": "Temperaturanstieg",
         "value": "+2°",
-        "unit": "Celsius",
+        "unit": "",
         "description": "Veränderung der Jahresmitteltemperatur seit 1864",
         "source": {
           "name": "MeteoSchweiz",
@@ -1777,7 +1781,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
 
 <hr /></section>
 
-Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. AuCO₂-Ausstoss pro Kopf der Schweiz und ihren Nachbarländern
+Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die innovative, technologisch fortschrittliche Schweizer Wirtschaft – doch Teile von Politik und Gesellschaft verharren in einer Abwehrhaltung. «In der Schweiz hingegen bedeuten wärmere Temperaturen längere Vegetationsperioden, und die lassen sich ausnutzen», schreibt Urs Bruderer in [seiner Reportage über den Umgang der Bauern mit den sich wandelnden klimatischen Verhältnissen](https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn): «Doch statt neue Chancen auszuloten, haben viele Bauern den Klimawandel lange verdrängt. Unterstützt hat sie dabei die einstige Bauernpartei SVP, die den Klimawandel auch in ihrem aktuellen Programm kein einziges Mal erwähnt und stattdessen von ‹grünen Ideologen und Umwelttheoretikern› spricht, die ‹mit dauernder Schwarzmalerei den Leuten ein schlechtes Gewissen› einreden wollten.»
 
 <section><h6>CHART</h6>
 
