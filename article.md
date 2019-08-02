@@ -129,6 +129,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulae
   "color": "label",
   "colorSort": "none",
   "sort": "none",
+  "xBandPadding": 0.1,
+  "padding": 10,
   "xTicks": [
     1960,
     1970,
@@ -1794,6 +1796,8 @@ Auf den ersten Blick gehört die Schweiz mit Treibhausgas-Emissionen im Inland T
   "type": "TimeBar",
   "y": "value",
   "color": "label",
+  "xBandPadding": 0.1,
+  "padding": 10,
   "xTicks": [
     1960,
     1970,
