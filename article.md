@@ -23,7 +23,7 @@ Letzte Aktualisierung: 07.09.2019
 
 <section><h6>CENTER</h6>
 
-Der Klimawandel ist eine Realität – dass er menschengemacht ist, ist [unbestritten](https://www.republik.ch/2019/04/25/keine-buehne-mehr-fuer-klimaleugner). Das Intergovernmental Panel on Climate Change warnt in seinem [jüngsten Bericht](https://www.ipcc.ch/sr15/) vor einer durchschnittlichen Erwärmung um mehr als 1.5°C:
+Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengemacht ist, ist [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Das Intergovernmental Panel on Climate Change warnt in seinem [jüngsten Bericht](https://www.ipcc.ch/sr15/) vor einer durchschnittlichen Erwärmung um mehr als 1.5°C:
 
 <section><h6>BLOCKQUOTE</h6>
 
@@ -33,7 +33,7 @@ Der Klimawandel ist eine Realität – dass er menschengemacht ist, ist [unbestr
 
 <hr /></section>
 
-Die Wissenschaft erkannte die Gefahren vor langer Zeit, doch politische Fortschritte sind nur wenige zu erkennen. «Doch darüber mag sich zu dieser Zeit noch niemand den Kopf zerbrechen. Die Atmosphäre wird als zu unermesslich betrachtet, als dass der Mensch darauf Einfluss nehmen könnte», schreibt Arian Bastiani in seiner [Serie über die Wissenschaftsgeschichte des Klimawandels](https://www.republik.ch/2018/12/05/geheimnisvolle-strahlen).
+Das Weltklima ist dauerndem Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dadurch erwärmt sich der Planet. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er Treibhausgase in die Atmosphäre entlässt.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
