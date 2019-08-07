@@ -33,7 +33,9 @@ Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengem
 
 <hr /></section>
 
-Das Weltklima ist dauerndem Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dadurch erwärmt sich der Planet. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er durch das Verbrennen fossiler Energieträger Treibhausgase wie Kohlendioxid und Methan in die Atmosphäre entlässt.
+Das Weltklima ist dauerndem, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dadurch erwärmt sich der Planet. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er durch das Verbrennen fossiler Energieträger zusätzliche Treibhausgase in die Atmosphäre entlässt.
+
+Das IPCC [nennt die Ursachen](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf): «Die anthropogenen Treibhausgasemissionen sind seit der vorindustriellen Zeit angestiegen, hauptsächlich angetrieben durch Wirtschafts- und Bevölkerungswachstum, und sind nun höher als jemals zuvor. Dies hat zu atmosphärischen Konzentrationen von Kohlendioxid, Methan und Lachgas geführt, wie sie seit mindestens 800 000 Jahren noch nie vorgekommen sind.»
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -123,7 +125,8 @@ Das Weltklima ist dauerndem Wandel unterworfen. Ein wichtiger Mechanismus ist da
 
 <hr /></section>
 
-Gemäss [IPCC-Bericht](https://www.ipcc.ch/sr15/chapter/spm/) sind  menschliche Aktivitäten verantwortlich für bisher rund 1° Erwärmung seit der Zeit vor der Industrialisierung. Mit hoher Gewissheit werde diese Erwärmung bis Mitte des Jahrhunderts auf 1.5° ansteigen.
+«Die anthropogenen Treibhausgasemissionen sind seit der vorindustriellen Zeit angestiegen, hauptsächlich angetrieben durch Wirtschafts- und Bevölkerungswachstum, und sind nun höher
+als jemals zuvor.» Gemäss [IPCC-Bericht](https://www.ipcc.ch/sr15/chapter/spm/) sind  menschliche Aktivitäten verantwortlich für bisher rund 1° Erwärmung seit der Zeit vor der Industrialisierung. Mit hoher Gewissheit werde diese Erwärmung bis Mitte des Jahrhunderts auf 1.5° ansteigen. 
 
 <section><h6>CHART</h6>
 
@@ -1459,7 +1462,7 @@ Wir beginnen mit einer Kurve, die Sie wahrscheinlich in ähnlicher Form schon ei
 
 ```
 {
-  "membersOnly": true,
+  "membersOnly": false,
   "unauthorizedText": ""
 }
 ```
@@ -3086,7 +3089,7 @@ https&#x3A;//twitter.com/meteoschweiz/status/1143450288776499200
 
 ```
 {
-  "membersOnly": true,
+  "membersOnly": false,
   "unauthorizedText": ""
 }
 ```
