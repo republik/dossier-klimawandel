@@ -43,8 +43,19 @@ Die Wissenschaft erkannte die Gefahren vor langer Zeit, doch politische Fortschr
   "props": {
     "values": [
       {
-        "label": "CO₂-Dichte in der Atmosphäre",
-        "value": 412,
+        "label": "CO₂-Austoss pro Kopf",
+        "value": "4.8",
+        "unit": "t",
+        "source": {
+          "name": "Global Carbon Project",
+          "url": "https://www.globalcarbonproject.org",
+          "date": "2017"
+        },
+        "color": "rgb(8,48,107)"
+      },
+      {
+        "label": "CO₂-Dichte",
+        "value": "412",
         "unit": "ppm",
         "description": "Millionstel CO₂-Moleküle in der Atmosphäre.",
         "source": {
@@ -55,25 +66,7 @@ Die Wissenschaft erkannte die Gefahren vor langer Zeit, doch politische Fortschr
         "color": "rgb(8,48,107)"
       },
       {
-        "label": "Veränderung seit 2005",
-        "value": "+5.5",
-        "unit": "Prozent",
-        "description": "Zunahme der CO₂-Dichte in der Atmosphäre",
-        "color": "rgb(8,48,107)"
-      },
-      {
-        "label": "CO₂-Austoss pro Kopf",
-        "value": "4.8",
-        "unit": "Tonnen",
-        "source": {
-          "name": "Global Carbon Project",
-          "url": "https://www.globalcarbonproject.org",
-          "date": "2017"
-        },
-        "color": "rgb(8,48,107)"
-      },
-      {
-        "label": "Temperaturanstieg",
+        "label": "Temperatur",
         "value": "+0.9°",
         "unit": "",
         "description": "Abweichung vom langjährigen Durchschnitt 1951–1980",
@@ -83,6 +76,13 @@ Die Wissenschaft erkannte die Gefahren vor langer Zeit, doch politische Fortschr
           "date": "2018"
         },
         "color": "rgb(187,21,26)"
+      },
+      {
+        "label": "Meeresspiegel",
+        "value": "+93",
+        "unit": "mm",
+        "description": "Anstieg seit 1993 ",
+        "color": "rgb(187,21,26)"
       }
     ]
   },
@@ -91,30 +91,30 @@ Die Wissenschaft erkannte die Gefahren vor langer Zeit, doch politische Fortschr
 ```
 
 ```html
-<style>@media only screen and (min-width: 1050px) { 
+<style>@media only screen and (min-width: 1050px) {
   .css-1tqzily, [data-css-1tqzily] { margin-left: -170px; margin-right: -170px; width: calc(100% + 340px); }
-}.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; -webkit-box-lines: multiple; flex-wrap: wrap; }@media only screen and (max-width: 767px) { 
+}.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; flex-wrap: wrap; }@media only screen and (max-width: 767px) {
   .css-tdv8zt, [data-css-tdv8zt] { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
-}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
+}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
   .css-z781yx, [data-css-z781yx] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
-}@media only screen and (min-width: 1025px) { 
+}@media only screen and (min-width: 1025px) {
   .css-z781yx, [data-css-z781yx] { width: 25%; padding-left: 0px; }
-}@media only screen and (max-width: 767px) { 
+}@media only screen and (max-width: 767px) {
   .css-z781yx, [data-css-z781yx] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
+}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
   .css-1akzvxi, [data-css-1akzvxi] { width: 50%; padding-bottom: 15px; padding-left: 15px; }
-}@media only screen and (min-width: 1025px) { 
+}@media only screen and (min-width: 1025px) {
   .css-1akzvxi, [data-css-1akzvxi] { width: 25%; padding-left: 15px; }
-}@media only screen and (max-width: 767px) { 
+}@media only screen and (max-width: 767px) {
   .css-1akzvxi, [data-css-1akzvxi] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
+}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
   .css-26u5fm, [data-css-26u5fm] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
-}@media only screen and (min-width: 1025px) { 
+}@media only screen and (min-width: 1025px) {
   .css-26u5fm, [data-css-26u5fm] { width: 25%; padding-left: 15px; }
-}@media only screen and (max-width: 767px) { 
+}@media only screen and (max-width: 767px) {
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-fpex3d, [data-css-fpex3d] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-17mvhhs, [data-css-17mvhhs] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(151, 151, 151); }.css-1i7pivm, [data-css-1i7pivm] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: rgb(151, 151, 151); }.css-7r6ikw, [data-css-7r6ikw] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-size: 12px; line-height: 16px; }.css-7r6ikw > a, [data-css-7r6ikw] > a { color: rgb(151, 151, 151); }.css-13vkft8, [data-css-13vkft8] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 700; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }</style>
-<div data-css-1tqzily=""><div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">5</span> <span data-css-17mvhhs="">Tonnen</span></div><div data-css-1i7pivm=""></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-fpex3d="">CO₂-Dichte</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">441</span> <span data-css-17mvhhs="">ppm</span></div><div data-css-1i7pivm="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-7r6ikw=""> <a href="https://climate.nasa.gov/vital-signs/carbon-dioxide/">NASA, Mai 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-fpex3d="">Veränderung seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+5.5</span> <span data-css-17mvhhs="">Prozent</span></div><div data-css-1i7pivm="">Zunahme der CO₂-Dichte in der Athmosphäre</div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-13vkft8="">Temperaturanstieg seit 2005</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+0.8</span> <span data-css-17mvhhs="">Grad Celsius</span></div><div data-css-1i7pivm=""></div></div></div></div></div>
+}.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-8c19su, [data-css-8c19su] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
+<div data-css-1tqzily=""><div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">4.8</span> <span data-css-8c19su="">t</span></div><div data-css-8c19su=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Dichte</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">412</span> <span data-css-8c19su="">ppm</span></div><div data-css-8c19su="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/carbon-dioxide/">NASA, Juni 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperatur</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+0.9°</span> <span data-css-8c19su=""></span></div><div data-css-8c19su="">Abweichung vom langjährigen Durchschnitt 1951–1980</div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/global-temperature/">NASA, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+93</span> <span data-css-8c19su="">mm</span></div><div data-css-8c19su="">Anstieg seit 1993 </div></div></div></div></div>
 ```
 
 <hr /></section>
@@ -3047,239 +3047,6 @@ Die [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-u
   },
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.4",
   "size": "breakout"
-}
-```
-
-<hr /></section>
-
-<section><h6>DYNAMIC_COMPONENT</h6>
-
-```
-{
-  "autoHtml": false,
-  "props": {
-    "comments": {
-      "label": "Aus den Debatten",
-      "entries": [
-        {
-          "id": "d2219a4a-6fd3-42ec-affe-9ee73af037fc",
-          "createdAt": "2019-03-16T14:01:17.118Z",
-          "content": {
-            "type": "root",
-            "children": [
-              {
-                "type": "paragraph",
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Vielen Dank für diese "
-                  },
-                  {
-                    "type": "strong",
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "umfassende Einordnung"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "text",
-                    "value": " und Würdigung der Klimabewegung der Jugendlichen in der Schweiz und der Welt, Elia! Es gelingt dir, die "
-                  },
-                  {
-                    "type": "strong",
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "Stärken der Bewegung"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "text",
-                    "value": " zu zeigen, ohne sie zu verklären, du zeigst auf, warum man sie ernst nehmen kann und sollte,  bietest Ideen und Fragen an, die der Bewegung als Gedankenanstoss für eine "
-                  },
-                  {
-                    "type": "strong",
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "erfolgreiche Weiterentwicklung"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "text",
-                    "value": " dienen können und zeigst "
-                  },
-                  {
-                    "type": "strong",
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "mögliche Absturzklippen"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "text",
-                    "value": " auf. "
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Der Titel irritierte mich erst, doch du löst ihn einleuchtend auf. "
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Wäre das nicht ein Text, den ihr allen Schulleitungen, Schulbibliotheken und den euch bekannten Protagonistinnen der Bewegung zustellen könntet? (Eventuell auch allen Parlamentariern) —> als Einordnung, aber vor allem auch als Einladung, Verlegerinnen der Republik zu werden? "
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Nochmals danke! Und "
-                  },
-                  {
-                    "type": "strong",
-                    "children": [
-                      {
-                        "type": "text",
-                        "value": "speziellen Dank an die Bildredaktion"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "text",
-                    "value": " für das Aufmacherbild. „Let’s make the earth cool again“ zeigt  schön, dass diese Bewegung auch mit Humor ans Werk geht, was erfrischend ist. "
-                  }
-                ]
-              }
-            ]
-          },
-          "displayAuthor": {
-            "name": "Nadja Schnetzler",
-            "profilePicture": "https://cdn.republik.space/s3/republik-assets/portraits/4c27f1ee3b331c07f106956085b27034.jpeg?size=5212x3468&resize=384x384&bw=true"
-          },
-          "preview": {
-            "string": "Vielen Dank für diese umfassende Einordnung und Würdigung der Klimabewegung der Jugendlichen in der Schweiz und der Welt, Elia! Es gelingt dir, die Stärken der Bewegung zu zeigen, ohne sie zu verklären, du zeigst auf, warum man sie ernst nehmen kann und sollte, bietest Ideen und Fragen an, die der Bewegung als Gedankenanstoss für eine erfolgreiche Weiterentwicklung dienen können und zeigst mögliche Absturzklippen auf. Der Titel irritierte mich erst, doch du löst ihn einleuchtend auf. Wäre das",
-            "more": true
-          },
-          "discussion": {
-            "id": "240280a7-d8f5-4332-a7b4-8c768bb70ec4",
-            "title": "Fordern können alle. Aber wer muss handeln?"
-          }
-        },
-        {
-          "id": "89b1aa3c-a4d0-4963-ad83-f338b2148fe5",
-          "createdAt": "2019-03-16T14:01:17.118Z",
-          "content": {
-            "type": "root",
-            "children": [
-              {
-                "type": "paragraph",
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Am Freitag nahm ich an der Klimastreikdemo in Zürich teil und war begeistert von diesem Engagement der jungen Menschen. Trotz orkanmässigem Wetter waren es abertausende motivierte Demonstrierende. Meine Begeisterung habe ich dann auch auf sozialen Medien geteilt und war erstaunt, welch kritische Bemerkungen es gab. Da wurde debattiert, dass die jungen Menschen selber, ein nicht umweltgerechtes Konsumverhalten hätten und dass nach den Demos Abfallberge zurückgelassen wurden. Es kursiert denn auch ein Bild in den sozialen Medien, das wenige Pappschilder neben einem überfüllten Abfalleimer zeigt. Ich habe weder auf der ETH-Polyterrasse noch später in der Stadt solche nAbfall gesehen und falls doch irgendwo ein paar Pappschilder nicht richtig entsorgt wurden, ist das wirklich ein Grund an den Motiven der Bewegung zu zweifeln? Ich habe grosse Hoffnung in diese Bewegung! Und möchte mich für das grosse Engagement bedanken, für unsere alle Zukunft. "
-                  }
-                ]
-              }
-            ]
-          },
-          "displayAuthor": {
-            "name": "Daniel Peter",
-            "profilePicture": null
-          },
-          "preview": {
-            "string": "Am Freitag nahm ich an der Klimastreikdemo in Zürich teil und war begeistert von diesem Engagement der jungen Menschen. Trotz orkanmässigem Wetter waren es abertausende motivierte Demonstrierende. Meine Begeisterung habe ich dann auch auf sozialen Medien geteilt und war erstaunt, welch kritische Bemerkungen es gab. Da wurde debattiert, dass die jungen Menschen selber, ein nicht umweltgerechtes Konsumverhalten hätten und dass nach den Demos Abfallberge zurückgelassen wurden. Es kursiert denn auch",
-            "more": true
-          },
-          "discussion": {
-            "id": "240280a7-d8f5-4332-a7b4-8c768bb70ec4",
-            "title": "Fordern können alle. Aber wer muss handeln?"
-          }
-        },
-        {
-          "id": "1dfb0e2b-bb3a-445c-b7b2-98e7824c736b",
-          "createdAt": "2019-03-16T14:01:17.118Z",
-          "content": {
-            "type": "root",
-            "children": [
-              {
-                "type": "paragraph",
-                "children": [
-                  {
-                    "type": "text",
-                    "value": "Das Klima und die Klimapolitik bewegt die Jungend. Das ist gut so! Dies sage ich auch als Freisinniger, der viele Ideen, welche aus dieser Jungendbewegung kommen, sehr kritisch sieht. Dass wir – jeder Einzelne, die Politik, die Schweiz, ja die ganze Welt – etwas tun müssen, steht für mich ausser Frage. Um zu diesem Schluss zukommen, muss man nicht Klimawissenschaftler sein. Nicht nur die IPCC-Berichte sind eindeutig. Auch die Entwicklungen der letzten 20 Jahre zeigen: Der Klimawandel ist Realität. Dass der Mensch dabei eine (zentrale) Rolle spielt, ist anhand der wissenschaftlichen Erkenntnisse eben so klar. Nun kommen wir zur Frage, was gilt es zu tun? Anders als bei den wissenschaftlichen Erkenntnissen gibt es darauf keine eindeutige Antwort. Bekanntlich führen viele Wege nach Rom. Und so ist es auch hier! Viele Massnahmen, welche heute in der Politik und den Medien diskutiert werden, sind nichts anderes als staatliche Verbote oder massive Einschränkungen für Wirtschaft und Gesellschaft. Als liberaler Mensch stört mich das. Dass es auch andere Ansätze gibt, wird leider sehr oft vergessen."
-                  },
-                  {
-                    "type": "break"
-                  },
-                  {
-                    "type": "text",
-                    "value": "Um Ihnen diese anderen Ansätze etwas näher zu bringen, muss ich zuerst etwas ausholen. Das Klimaproblem stellt aus ökonomischer Sicht ein Marktversagen dar. Dieses Marktversagen kommt deshalb zustande, weil bei der Luft anders als beim Boden, Kapital, etc. eine Zuteilung der Eigentumsrechte fehlt. Illustrieren lässt sich dies anhand eines Beispiels: Will ich ein Haus bauen, brauche ich ein Stück Land. Das Stück Land muss mir gehören, ansonsten kann ich kein Haus bauen. Bei der Luft ist dies anders. Sie gehört niemandem. Auch dem Staat nicht. Sie ist ein öffentliches Gut. Ich kann die Luft jederzeit und überall nutzen und brauche dazu kein Recht – sie muss mir nicht «gehören». Dies führt dazu, dass jedermann die Luft gratis verschmutzen kann. Wie lösen wir ein solches Problem aus ökonomischer und liberaler Sicht am besten? Nicht mit Verboten oder Steuern, sondern in dem der Staat bzw. die Staaten Gemeinschaft des Pariser Abkommens das Marktversagen durch die Schaffung eines Marktes für Verschmutzungsrechte löst. Nur wer ein entsprechendes Verschmutzungsrecht besitzt, darf die Luft entsprechend belasten. Die Anzahl der Verschmutzungsrechte sollte sich dabei an den Zielen des Pariser Abkommens orientieren. Um eine gewisse Sozialverträglichkeit zu gewährleisten, sollte eine Art Grundbedarf kostenlos an die Bürger verteilt werden. Die GLP wird nun fragen, wieso ein verbindlicher Markt für Verschmutzungsrechte anstatt einer CO2-Lenkungsabgabe. Das Problem an der CO2-Abgabe: Wir kennen den Preis nicht, welchen es braucht um die Ziele des Pariser Abkommens zu erreichen. Der Staat müsste dauernd Anmassung von Wissen betreiben. Beim Markt für Verschmutzungsrechte nutzen wir die Stärken des Marktes um die Ziele kostengünstig und effizient zu erreichen."
-                  }
-                ]
-              }
-            ]
-          },
-          "displayAuthor": {
-            "name": "Alain Schwald",
-            "profilePicture": null
-          },
-          "discussion": {
-            "id": "240280a7-d8f5-4332-a7b4-8c768bb70ec4",
-            "title": "Fordern können alle. Aber wer muss handeln?"
-          },
-          "preview": {
-            "string": "Das Klima und die Klimapolitik bewegt die Jungend. Das ist gut so! Dies sage ich auch als Freisinniger, der viele Ideen, welche aus dieser Jungendbewegung kommen, sehr kritisch sieht. Dass wir – jeder Einzelne, die Politik, die Schweiz, ja die ganze Welt – etwas tun müssen, steht für mich ausser Frage. Um zu diesem Schluss zukommen, muss man nicht Klimawissenschaftler sein. Nicht nur die IPCC-Berichte sind eindeutig. Auch die Entwicklungen der letzten 20 Jahre zeigen: Der Klimawandel ist",
-            "more": true
-          }
-        }
-      ]
-    },
-    "press": {
-      "label": "Das Beste der anderen",
-      "entries": [
-        {
-          "description": "Klimawandel erklären? So geht's!",
-          "source": "Die Zeit",
-          "url": "https://www.zeit.de/wissen/umwelt/2018-08/klimawandel-globale-erderwaermung-zweifel-argumente-klimamodelle",
-          "quote": "Wesenszug des Klimas ist Veränderung. Doch das, was wir seit wenigen Jahrzehnten beobachten, ist unnatürlich. Die Hauptursache für die Erwärmung ist die steigende Menge von Treibhausgasen in der Atmosphäre.",
-          "date": "19.08.2018"
-        },
-        {
-          "source": "NZZ",
-          "description": "«Klimahysterie!», «Klimapropaganda!» – was Klimaforscher zu den häufigsten Argumenten von Skeptikern sagen",
-          "url": "https://www.nzz.ch/wissenschaft/klimawandel-forscher-antworten-auf-die-argumente-von-skeptikern-ld.1468011",
-          "quote": "Der direkte Pro-Kopf-Ausstoss von CO2 liegt in der Schweiz bei über 6 Tonnen pro Jahr. Wenn man noch die sogenannten grauen Emissionen, die aufgrund von Importen im Ausland entstehen, berücksichtigt, sind wir bei über 10 Tonnen CO2 pro Kopf und Jahr. Damit stehen wir international nicht gut da.",
-          "date": "27.03.2019"
-        },
-        {
-          "source": "Bundesamt für Umwelt",
-          "description": "Klima: Das Wichtigste in Kürze",
-          "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html",
-          "quote": "Der Klimawandel äussert sich in der Schweiz überdurchschnittlich: Die mittlere Jahrestemperatur ist seit Messbeginn 1864 um 2°C gestiegen, gut doppelt so stark wie im globalen Mittel.",
-          "date": "2017-11-21"
-        }
-      ]
-    }
-  },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/quotes.js?v2.4"
 }
 ```
 
