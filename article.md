@@ -425,9 +425,9 @@ Der  [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281)
 }
 ```
 
-### Hockey-Schläger
+### Hockeyschläger und Sandwurm
 
-Temperaturen und CO<sub>2</sub>-Konzentration
+CO<sub>2</sub>-Konzentration und Temperatur
 
 ```
 year,category,value
@@ -1454,7 +1454,7 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementar
 }
 ```
 
-## Die lange Sicht auf die globale Erwärmung
+## Die ganz lange Sicht auf die globale Erwärmung
 
 <section><h6>TEASERGROUP</h6>
 
@@ -2899,7 +2899,7 @@ Wie kommt die Schweiz beim Klima zum Ziel? Man muss sich bewusst sein, dass es h
 }
 ```
 
-### Die schönste Klimagrafik der Welt
+### Tiefrot
 
 Temperatur­abweichungen in der Schweiz von 1864 bis 2018
 
@@ -3068,9 +3068,7 @@ Quelle: Meteo Schweiz. Dargestellt ist die Abweichung von der Normperiode 1961 b
 
 Gerade deshalb nimmt das 1,5-Grad-Ziel in der Kommunikation derzeit einen so wichtigen Stellenwert ein: Es ist ein Mittel, um auszudrücken, dass sich Klimaschutz lohnt – und dass das Risiko irreversibler Umweltschäden deutlich abnimmt, wenn es gelingt, den
 
-https&#x3A;//twitter.com/meteoschweiz/status/1143450288776499200
-
- Temperaturanstieg nicht nur auf 2 Grad zu beschränken, sondern ein ganzes Stück weit darunter zu halten. Die Formulierung, wonach die Emissionen zu diesem Zweck bis 2050 auf null sinken müssen, ist eine Faustregel. Sie dient der ungefähren Orientierung.
+Temperaturanstieg nicht nur auf 2 Grad zu beschränken, sondern ein ganzes Stück weit darunter zu halten. Die Formulierung, wonach die Emissionen zu diesem Zweck bis 2050 auf null sinken müssen, ist eine Faustregel. Sie dient der ungefähren Orientierung.
 
 <section><h6>ARTICLECOLLECTION</h6>
 
