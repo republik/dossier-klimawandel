@@ -90,9 +90,6 @@ Die Wissenschaft erkannte die Gefahren vor langer Zeit, doch politische Fortschr
 }
 ```
 
-```html
-```
-
 <hr /></section>
 
 Ein Grossteil der seit 1850 beobachteten Erwärmung ist dabei auf den menschlichen Einfluss und insbesondere auf den Ausstoss von Treibhausgasen zurückzuführen. Klimaszenarien für die Zukunft zeigen eine Fortsetzung des globalen Temperaturanstiegs und Auswirkungen auf viele weitere Aspekte des Klimas. Auch die Schweiz ist von dieser Entwicklung betroffen. Um den globalen Temperaturanstieg in Zukunft zu begrenzen, sind deutliche Anstrengungen zur Reduktion der Treibhausgasemissionen notwendig. 
@@ -1719,10 +1716,10 @@ Auf den ersten Blick gehört die Schweiz mit Treibhausgas-Emissionen im Inland T
   "props": {
     "values": [
       {
-        "label": "Treibhausgas-Fussabdruck",
-        "value": "14",
-        "unit": "Tonnen CO2-Äquivalente",
-        "description": "Emissionen pro Kopf im Inland aufgrund des in- und ausländischen Konsums",
+        "label": "CO₂-Austoss pro Kopf",
+        "value": "4.5",
+        "unit": " t",
+        "description": "Emissionen im Inland",
         "source": {
           "name": "Bafu",
           "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040",
@@ -1731,13 +1728,37 @@ Auf den ersten Blick gehört die Schweiz mit Treibhausgas-Emissionen im Inland T
         "color": "rgb(8,48,107)"
       },
       {
-        "label": "Temperaturanstieg",
-        "value": "+2°",
-        "unit": "",
+        "label": "Treibhausgas-Fussabdruck",
+        "value": "14",
+        "unit": " t",
+        "description": "Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums",
+        "source": {
+          "name": "Bafu",
+          "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040",
+          "date": "2015"
+        },
+        "color": "rgb(8,48,107)"
+      },
+      {
+        "label": "Temperatur",
+        "value": "+2",
+        "unit": "°",
         "description": "Veränderung der Jahresmitteltemperatur seit 1864",
         "source": {
           "name": "MeteoSchweiz",
           "url": "https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html",
+          "date": "2018"
+        },
+        "color": "rgb(187,21,26)"
+      },
+      {
+        "label": "Gletscher",
+        "value": "–25",
+        "unit": "%",
+        "description": "Veränderung des Eisvolumens der Schweizer Gletscher seit 2000",
+        "source": {
+          "name": "GLAMOS",
+          "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html",
           "date": "2018"
         },
         "color": "rgb(187,21,26)"
@@ -1749,22 +1770,30 @@ Auf den ersten Blick gehört die Schweiz mit Treibhausgas-Emissionen im Inland T
 ```
 
 ```html
-<style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; -webkit-box-lines: multiple; flex-wrap: wrap; }@media only screen and (max-width: 767px) { 
+<style>@media only screen and (min-width: 1050px) {
+  .css-1tqzily, [data-css-1tqzily] { margin-left: -170px; margin-right: -170px; width: calc(100% + 340px); }
+}.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; flex-wrap: wrap; }@media only screen and (max-width: 767px) {
   .css-tdv8zt, [data-css-tdv8zt] { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
-}.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-8c19su, [data-css-8c19su] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }.css-11vq7sg, [data-css-11vq7sg] { box-sizing: border-box; width: 50%; }@media only screen and (min-width: 768px) { 
-  .css-11vq7sg, [data-css-11vq7sg] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
-}@media only screen and (min-width: 1025px) { 
-  .css-11vq7sg, [data-css-11vq7sg] { width: 50%; padding-left: 0px; }
-}@media only screen and (max-width: 767px) { 
-  .css-11vq7sg, [data-css-11vq7sg] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1iedtt5, [data-css-1iedtt5] { box-sizing: border-box; width: 50%; }@media only screen and (min-width: 768px) { 
-  .css-1iedtt5, [data-css-1iedtt5] { width: 50%; padding-bottom: 15px; padding-left: 15px; }
-}@media only screen and (min-width: 1025px) { 
-  .css-1iedtt5, [data-css-1iedtt5] { width: 50%; padding-left: 15px; }
-}@media only screen and (max-width: 767px) { 
-  .css-1iedtt5, [data-css-1iedtt5] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}</style>
-<div><div data-css-tdv8zt=""><div data-css-11vq7sg=""><div data-css-1afdx8t=""><div data-css-sukgtj="">Treibhausgas-Fussabdruck</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">13.6</span> <span data-css-8c19su="">Tonnen CO2-Äquivalente</span></div><div data-css-8c19su="">Emissionen pro Kopf im Inland aufgrund des in- und ausländischen Konsums</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2016</a></span></div></div></div><div data-css-1iedtt5=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+2°</span> <span data-css-8c19su="">Celsius</span></div><div data-css-8c19su="">Veränderung der Jahresmitteltemperatur seit 1864</div><div><span data-css-18yx3y4=""><a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div></div></div>
+}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+  .css-z781yx, [data-css-z781yx] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
+}@media only screen and (min-width: 1025px) {
+  .css-z781yx, [data-css-z781yx] { width: 25%; padding-left: 0px; }
+}@media only screen and (max-width: 767px) {
+  .css-z781yx, [data-css-z781yx] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+  .css-1akzvxi, [data-css-1akzvxi] { width: 50%; padding-bottom: 15px; padding-left: 15px; }
+}@media only screen and (min-width: 1025px) {
+  .css-1akzvxi, [data-css-1akzvxi] { width: 25%; padding-left: 15px; }
+}@media only screen and (max-width: 767px) {
+  .css-1akzvxi, [data-css-1akzvxi] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+  .css-26u5fm, [data-css-26u5fm] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
+}@media only screen and (min-width: 1025px) {
+  .css-26u5fm, [data-css-26u5fm] { width: 25%; padding-left: 15px; }
+}@media only screen and (max-width: 767px) {
+  .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-8c19su, [data-css-8c19su] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
+<div data-css-1tqzily=""><div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">4.5</span> <span data-css-8c19su=""> t</span></div><div data-css-8c19su="">Emissionen im Inland</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">Treibhausgas-Fussabdruck</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">14</span> <span data-css-8c19su=""> t</span></div><div data-css-8c19su="">Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperatur</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+2</span> <span data-css-8c19su="">°</span></div><div data-css-8c19su="">Veränderung der Jahresmitteltemperatur seit 1864</div><div><span data-css-18yx3y4=""><a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Gletscher</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">–25</span> <span data-css-8c19su="">%</span></div><div data-css-8c19su="">Veränderung des Eisvolumens der Schweizer Gletscher seit 2000</div><div><span data-css-18yx3y4=""><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html">GLAMOS, 2018</a></span></div></div></div></div></div>
 ```
 
 <hr /></section>
@@ -2401,7 +2430,6 @@ Wie die Schweiz in nur 100 Jahren zum Vielverbraucher fossiler Treibstoffe wurde
     2080
   ],
   "endLabel": false,
-  "size": "breakout",
   "labelFilter": "false",
   "colorLegendValues": [
     "bisherige Entwicklung",
@@ -3181,7 +3209,6 @@ Quelle: Meteo Schweiz. Dargestellt ist die Abweichung von der Normperiode 1961 b
 
 <hr /></section>
 
-
 Gerade deshalb nimmt das 1,5-Grad-Ziel in der Kommunikation derzeit einen so wichtigen Stellenwert ein: Es ist ein Mittel, um auszudrücken, dass sich Klimaschutz lohnt – und dass das Risiko irreversibler Umweltschäden deutlich abnimmt, wenn es gelingt, den Temperaturanstieg nicht nur auf 2 Grad zu beschränken, sondern ein ganzes Stück weit darunter zu halten. Die Formulierung, wonach die Emissionen zu diesem Zweck bis 2050 auf null sinken müssen, ist eine Faustregel. Sie dient der ungefähren Orientierung.
 
 <section><h6>ARTICLECOLLECTION</h6>
@@ -3329,8 +3356,7 @@ Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die inn
       "bgColor": "#EFCE5A"
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.4",
-  "size": "breakout"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.4"
 }
 ```
 
@@ -3366,8 +3392,7 @@ Die [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-u
       "bgColor": "#47C8F0"
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.4",
-  "size": "breakout"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.4"
 }
 ```
 
