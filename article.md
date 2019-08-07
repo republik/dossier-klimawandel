@@ -23,19 +23,7 @@ Letzte Aktualisierung: 07.09.2019
 
 <section><h6>CENTER</h6>
 
-Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengemacht ist, ist [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Das Intergovernmental Panel on Climate Change warnt in seinem [jüngsten Bericht](https://www.ipcc.ch/sr15/) vor einer durchschnittlichen Erwärmung um mehr als 1.5°C:
-
-<section><h6>BLOCKQUOTE</h6>
-
-> Why is it necessary and even vital to maintain the global temperature increase below 1.5°C versus higher levels? Adaptation will be less difficult. Our world will suffer fewer negative impacts on intensity and frequency of extreme events, on resources, ecosystems, biodiversity, food security, cities, tourism and carbon removal.
-
-[IPCC Special Report: Global Warming of 1.5 ºC](https://www.ipcc.ch/sr15/)
-
-<hr /></section>
-
-Das Weltklima ist dauerndem, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dadurch erwärmt sich der Planet. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er durch das Verbrennen fossiler Energieträger zusätzliche Treibhausgase in die Atmosphäre entlässt.
-
-Das IPCC [nennt die Ursachen](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf): «Die anthropogenen Treibhausgasemissionen sind seit der vorindustriellen Zeit angestiegen, hauptsächlich angetrieben durch Wirtschafts- und Bevölkerungswachstum, und sind nun höher als jemals zuvor. Dies hat zu atmosphärischen Konzentrationen von Kohlendioxid, Methan und Lachgas geführt, wie sie seit mindestens 800 000 Jahren noch nie vorgekommen sind.»
+Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengemacht ist, ist [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Das Intergovernmental Panel on Climate Change stellt in seinem [Synthesebericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klimasystem ist klar und die jüngsten anthropogenen Emissionen von Treibhausgasen sind die höchsten in der Geschichte. Die jüngsten Klimaänderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -125,8 +113,11 @@ Das IPCC [nennt die Ursachen](https://www.ipcc.ch/site/assets/uploads/2018/02/IP
 
 <hr /></section>
 
-«Die anthropogenen Treibhausgasemissionen sind seit der vorindustriellen Zeit angestiegen, hauptsächlich angetrieben durch Wirtschafts- und Bevölkerungswachstum, und sind nun höher
-als jemals zuvor.» Gemäss [IPCC-Bericht](https://www.ipcc.ch/sr15/chapter/spm/) sind  menschliche Aktivitäten verantwortlich für bisher rund 1° Erwärmung seit der Zeit vor der Industrialisierung. Mit hoher Gewissheit werde diese Erwärmung bis Mitte des Jahrhunderts auf 1.5° ansteigen. 
+Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dadurch erwärmt sich der Planet. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er beispielsweise durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
+
+Gemäss IPCC: «Die anthropogenen Treibhausgasemissionen sind seit der vorindustriellen Zeit angestiegen, hauptsächlich angetrieben durch Wirtschafts- und Bevölkerungswachstum, und sind nun höher als jemals zuvor. Dies hat zu atmosphärischen Konzentrationen von Kohlendioxid, Methan und Lachgas geführt, wie sie seit mindestens 800 000 Jahren noch nie vorgekommen sind.»
+
+Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt das Gas _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 _vervierfacht_ – auf rund 36 000 Megatonnen. Kumuliert über diesen Zeitraum entfallen auf die Industrieländer der EU sowie die USA rund 40 Prozent der Emissionen. [Gemäss IEA](https://www.iea.org/statistics/co2emissions/) gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion.
 
 <section><h6>CHART</h6>
 
@@ -147,7 +138,7 @@ als jemals zuvor.» Gemäss [IPCC-Bericht](https://www.ipcc.ch/sr15/chapter/spm/
     2010,
     2017
   ],
-  "unit": "Millionen Tonnen CO2"
+  "unit": "Megatonnen CO₂"
 }
 ```
 
@@ -395,7 +386,7 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-«Man sieht sofort, wie die beiden Dinge zusammenhängen: Temperatur und Kohlen­dioxid. Das ist kein Zufall, denn CO2 ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten (siehe dazu auch unsere vierteilige Serie über die Geschichte der Klimaforschung).»
+«Man sieht sofort, wie die beiden Dinge zusammenhängen: Temperatur und Kohlen­dioxid», schreibt Republik-Autor Arian Bastani in seiner [Analyse historischer Temperatur­daten](https://www.republik.ch/2019/06/03/hoechste-tempertur-seit-120-000-jahren-gemessen). «Das ist kein Zufall, denn CO₂ ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten.»
 
 <section><h6>CHART</h6>
 
@@ -1452,11 +1443,7 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementar
 
 <hr /></section>
 
-Temperatur und Kohlen­dioxid. Das ist kein Zufall, denn CO2 ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten (siehe dazu auch unsere vierteilige Serie über die Geschichte der Klimaforschung).
-
-Man sieht auch, dass der jüngste Anstieg der CO2-Konzentration um etwa 100 ppm in einer ähnlichen Grössen­ordnung wie die Differenz liegt, die jeweils zwischen den Kalt- und Warmzeiten bestand. Nun ist die Erde aktuell bereits in einer Warmzeit, dem sogenannten Holozän. Dass die CO2-Konzentration ausgehend von dieser Warmzeit nochmals um die besagte Grössen­ordnung steigt – und dies innerhalb nur weniger Jahre, quasi innerhalb eines erdgeschichtlichen Wimpern­schlags –, das ist wahrlich präzedenzlos.
-
-Wir beginnen mit einer Kurve, die Sie wahrscheinlich in ähnlicher Form schon einmal gesehen haben. Sie zeigt die Entwicklung der globalen Durchschnitts­temperatur, und zwar im Vergleich zu einer in der Klimatologie üblichen Referenz­periode (1961 bis 1990). Die Kurve ist unterlegt mit einer grauen Schattierung, die die Unsicherheit wiedergibt. Diese resultiert aus Mess­ungenauigkeiten oder zeitlichen und räumlichen Datenlücken.
+Der  [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie CO₂-Konzentration und Temperatur verbunden sind. Der IPCC stellt [in seinem jüngsten Bericht](https://www.ipcc.ch/sr15/chapter/spm/) fest: «Menschliche Aktivitäten haben schätzungsweise 1.0°C Erwärmung gegenüber der vorindustriellen Zeit verursacht, der genaue Wert liegt mit hoher Wahrscheinlichkeit zwischen 0.8°C und 1.2°C. Die globale Erwärmung erreicht wahrscheinlich 1.5°C zwischen 2030 und 2052, wenn sie wie bisher ansteigt.»
 
 <section><h6>ARTICLECOLLECTION</h6>
 
