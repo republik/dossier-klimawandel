@@ -1461,7 +1461,7 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementar
 
 <hr /></section>
 
-Der  [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie CO₂-Konzentration und Temperatur verbunden sind. Der IPCC stellt [in seinem jüngsten Bericht](https://www.ipcc.ch/sr15/chapter/spm/) fest: «Menschliche Aktivitäten haben schätzungsweise 1.0°C Erwärmung gegenüber der vorindustriellen Zeit verursacht, der genaue Wert liegt mit hoher Wahrscheinlichkeit zwischen 0.8°C und 1.2°C. Die globale Erwärmung erreicht wahrscheinlich 1.5°C zwischen 2030 und 2052, wenn sie wie bisher ansteigt.»
+Der  [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie stark CO₂-Konzentration und Temperatur verknüpft sind. Die Ursache früherer Anstiege seien subtile Rückkoppelungsprozesse, schreibt Bastiani. «Wir haben es also mit einer Verschachtelung mehrerer Verstärkungs­prozesse zu tun. […] Der Mensch setzt mit seinem CO₂-Ausstoss also ein Gleich­gewicht ausser Kraft, das auf dem Zusammen­spiel von Erde und Sonne beruht.»
 
 
 <section><h6>ARTICLECOLLECTION</h6>
