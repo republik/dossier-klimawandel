@@ -86,11 +86,14 @@ Die Wissenschaft erkannte die Gefahren vor langer Zeit, doch politische Fortschr
       }
     ]
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.5"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.5",
+  "size": "breakout"
 }
 ```
 
 <hr /></section>
+
+
 
 Ein Grossteil der seit 1850 beobachteten Erwärmung ist dabei auf den menschlichen Einfluss und insbesondere auf den Ausstoss von Treibhausgasen zurückzuführen. Klimaszenarien für die Zukunft zeigen eine Fortsetzung des globalen Temperaturanstiegs und Auswirkungen auf viele weitere Aspekte des Klimas. Auch die Schweiz ist von dieser Entwicklung betroffen. Um den globalen Temperaturanstieg in Zukunft zu begrenzen, sind deutliche Anstrengungen zur Reduktion der Treibhausgasemissionen notwendig. 
 
@@ -1708,6 +1711,8 @@ Bereits im 18. Jahrhundert kam die Idee auf, dass die Sonne eine Rolle spielen k
 
 Auf den ersten Blick gehört die Schweiz mit Treibhausgas-Emissionen im Inland Treibhausgas-Ausstoss von 5.6 Tonnen pro Kopf (davon 4.5 Tonnen CO₂) zu den internationalen Spitzenreitern. Die Emissionen sind seit 1990 um 12% gesunken. Doch der Schein trügt: Rechnet man den durch importierte Güter verursachten Ausstoss hinzu, dann liegt unser Land mit diesem «Treinhausgas-Fussabdruck» von 14 Tonnen CO₂-Äquivalenten weit über dem weltweiten Durchschnitt von 6 Tonnen.
 
+<hr /></section>
+
 <section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
@@ -1797,6 +1802,8 @@ Auf den ersten Blick gehört die Schweiz mit Treibhausgas-Emissionen im Inland T
 ```
 
 <hr /></section>
+
+<section><h6>CENTER</h6>
 
 <section><h6>CHART</h6>
 
