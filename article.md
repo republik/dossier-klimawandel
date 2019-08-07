@@ -23,7 +23,7 @@ Letzte Aktualisierung: 07.09.2019
 
 <section><h6>CENTER</h6>
 
-Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengemacht ist, ist [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Das Intergovernmental Panel on Climate Change stellt in seinem [Synthesebericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klimasystem ist klar und die jüngsten anthropogenen Emissionen von Treibhausgasen sind die höchsten in der Geschichte. Die jüngsten Klimaänderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
+Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengemacht ist, ist [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Der _Weltklimarat_ IPCC stellt in seinem [Synthesebericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klimasystem ist klar und die jüngsten anthropogenen Emissionen von Treibhausgasen sind die höchsten in der Geschichte. Die jüngsten Klimaänderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -113,7 +113,7 @@ Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengem
 
 <hr /></section>
 
-Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dadurch erwärmt sich der Planet. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er beispielsweise durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
+Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er beispielsweise durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
 
 <section><h6>INFOBOX</h6>
 
@@ -1461,8 +1461,9 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementar
 
 <hr /></section>
 
-Der  [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie stark CO₂-Konzentration und Temperatur verknüpft sind. Die Ursache früherer Anstiege seien subtile Rückkoppelungsprozesse, schreibt Bastiani. «Wir haben es also mit einer Verschachtelung mehrerer Verstärkungs­prozesse zu tun. […] Der Mensch setzt mit seinem CO₂-Ausstoss also ein Gleich­gewicht ausser Kraft, das auf dem Zusammen­spiel von Erde und Sonne beruht.»
+Legt man das [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) der CO₂-Konzentration über die historische Zeitreihe der Temperatur, dann wird sichtbar, wie stark diese beiden Grössen verknüpft sind. 
 
+Die Ursache früherer Temperatur-Anstiege seien subtile Rückkoppelungsprozesse, schreibt Bastiani. «Wie so oft lässt sich ein bestimmtes Phänomen im komplexen Gebilde des Erdklimas also nicht durch eine einzelne Ursache erklären. [...] Wir haben es also mit einer Verschachtelung mehrerer Verstärkungs­prozesse zu tun. […] Der Mensch setzt mit seinem CO₂-Ausstoss also ein Gleich­gewicht ausser Kraft, das auf dem Zusammen­spiel von Erde und Sonne beruht.»
 
 <section><h6>ARTICLECOLLECTION</h6>
 
