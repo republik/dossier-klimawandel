@@ -1461,7 +1461,7 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementar
 
 <hr /></section>
 
-Legt man das [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) der CO₂-Konzentration über die historische Zeitreihe der Temperatur, dann wird sichtbar, wie stark diese beiden Grössen verknüpft sind. 
+Legt man das [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) der CO₂-Konzentration über die historische Zeitreihe der Temperatur, dann wird sichtbar, wie stark diese beiden Grössen verknüpft sind. Zudem drängt sich auf, welche Richtung die Kurve der Temperatur in den nächsten Jahren einschlagen wird: nach oben.
 
 Die Ursache früherer Temperatur-Anstiege seien subtile Rückkoppelungsprozesse, schreibt Bastiani. «Wie so oft lässt sich ein bestimmtes Phänomen im komplexen Gebilde des Erdklimas also nicht durch eine einzelne Ursache erklären. [...] Wir haben es also mit einer Verschachtelung mehrerer Verstärkungs­prozesse zu tun. […] Der Mensch setzt mit seinem CO₂-Ausstoss also ein Gleich­gewicht ausser Kraft, das auf dem Zusammen­spiel von Erde und Sonne beruht.»
 
