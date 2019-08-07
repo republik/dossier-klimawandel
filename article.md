@@ -3241,7 +3241,11 @@ Quelle: Meteo Schweiz. Dargestellt ist die Abweichung von der Normperiode 1961 b
 
 <hr /></section>
 
-Gerade deshalb nimmt das 1,5-Grad-Ziel in der Kommunikation derzeit einen so wichtigen Stellenwert ein: Es ist ein Mittel, um auszudrücken, dass sich Klimaschutz lohnt – und dass das Risiko irreversibler Umweltschäden deutlich abnimmt, wenn es gelingt, den Temperaturanstieg nicht nur auf 2 Grad zu beschränken, sondern ein ganzes Stück weit darunter zu halten. Die Formulierung, wonach die Emissionen zu diesem Zweck bis 2050 auf null sinken müssen, ist eine Faustregel. Sie dient der ungefähren Orientierung.
+Gerade deshalb nimmt das 1,5-Grad-Ziel in der Kommunikation derzeit einen so wichtigen Stellenwert ein: Es ist ein Mittel, um auszudrücken, dass sich Klimaschutz lohnt – und dass das Risiko irreversibler Umweltschäden deutlich abnimmt, wenn es gelingt, den
+
+https&#x3A;//twitter.com/meteoschweiz/status/1143450288776499200
+
+ Temperaturanstieg nicht nur auf 2 Grad zu beschränken, sondern ein ganzes Stück weit darunter zu halten. Die Formulierung, wonach die Emissionen zu diesem Zweck bis 2050 auf null sinken müssen, ist eine Faustregel. Sie dient der ungefähren Orientierung.
 
 <section><h6>ARTICLECOLLECTION</h6>
 
