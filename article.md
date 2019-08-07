@@ -1681,6 +1681,8 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
 
 Bereits im 18. Jahrhundert kam die Idee auf, dass die Sonne eine Rolle spielen könnte. Beziehungsweise: die Position, in der die Erde zu ihr steht. Die Ausrichtung und die Neigung der Erdachse sowie die Kreis­förmigkeit ihrer Umlauf­bahn um die Sonne sind nämlich nicht konstant. Sondern sie variieren über die Jahrtausende hinweg in sich überlagernden Zyklen.
 
+<hr /></section>
+
 <section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
@@ -1704,6 +1706,9 @@ Bereits im 18. Jahrhundert kam die Idee auf, dass die Sonne eine Rolle spielen k
 ```
 
 <hr /></section>
+
+<section><h6>CENTER</h6>
+
 
 ## Schweiz
 
