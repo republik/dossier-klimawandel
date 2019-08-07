@@ -23,7 +23,7 @@ Letzte Aktualisierung: 07.09.2019
 
 <section><h6>CENTER</h6>
 
-Der Klimawandel ist eine Realität – dass er menschengemacht ist, ist [unbestritten](#). Das Intergovernmental Panel on Climate Change warnt in seinem [jüngsten Bericht](https://www.ipcc.ch/sr15/) vor einer durchschnittlichen Erwärmung um mehr als 1.5°C:
+Der Klimawandel ist eine Realität – dass er menschengemacht ist, ist [unbestritten](https://www.republik.ch/2019/04/25/keine-buehne-mehr-fuer-klimaleugner). Das Intergovernmental Panel on Climate Change warnt in seinem [jüngsten Bericht](https://www.ipcc.ch/sr15/) vor einer durchschnittlichen Erwärmung um mehr als 1.5°C:
 
 <section><h6>BLOCKQUOTE</h6>
 
@@ -1831,8 +1831,6 @@ Auf den ersten Blick gehört die Schweiz mit Treibhausgas-Emissionen im Inland T
 
 <hr /></section>
 
-
-
 <section><h6>CHART</h6>
 
 ```
@@ -3402,7 +3400,14 @@ Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die inn
 
 ## Klimaszenarien
 
-Die [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html) zeigen, wo und wie der Klimawandel die Schweiz trifft und was weltweite Klimaschutzanstrengungen dagegen ausrichten können. Die absehbaren Folgen eines ungebremsten Klimawandels für die Schweiz sind mehr Hitzetage, trockene Sommer, heftige Niederschläge und schneearme Winter. Weltweite Klimaschutzanstrengungen können den Klimawandel jedoch entscheidend eindämmen.
+Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Je nachdem, ob und  in welchem Ausmass Klimaschutz-Massnahmen getroffen werden, sind die Auswirkungen mehr oder weniger stark. «Eine umfassende Senkung des weltweiten Treibhausgasausstosses», heisst es in der [Broschüre](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien/broschuere-bestellen.html), «könnte den zukünftigen Klimawandel eindämmen. So liesse sich bis Mitte des 21. Jahrhunderts rund die Hälfte, bis Ende  Jahrhundert zwei Drittel der möglichen Klimaveränderungen in der Schweiz vermeiden.»
+
+Findet kein wirksamer Klimaschutz statt,  
+
+*   Trockene Sommer
+*   Heftige Niederschläge
+*   Mehr Hitzetage
+*   Schneearme Winter
 
 **Trockene Sommer:** Langfristig wird die mittlere Niederschlagsmenge in den Sommermonaten abnehmen und die Verdunstung zunehmen. Die Böden werden trockener, es gibt weniger Regentage, und die längste niederschlagsfreie Periode dauert länger.
 
