@@ -33,7 +33,7 @@ Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengem
 
 <hr /></section>
 
-Das Weltklima ist dauerndem Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dadurch erwärmt sich der Planet. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er Treibhausgase in die Atmosphäre entlässt.
+Das Weltklima ist dauerndem Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dadurch erwärmt sich der Planet. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er durch das Verbrennen fossiler Energieträger Treibhausgase wie Kohlendioxid und Methan in die Atmosphäre entlässt.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -123,7 +123,7 @@ Das Weltklima ist dauerndem Wandel unterworfen. Ein wichtiger Mechanismus ist da
 
 <hr /></section>
 
-Ein Grossteil der seit 1850 beobachteten Erwärmung ist dabei auf den menschlichen Einfluss und insbesondere auf den Ausstoss von Treibhausgasen zurückzuführen. Klimaszenarien für die Zukunft zeigen eine Fortsetzung des globalen Temperaturanstiegs und Auswirkungen auf viele weitere Aspekte des Klimas. Auch die Schweiz ist von dieser Entwicklung betroffen. Um den globalen Temperaturanstieg in Zukunft zu begrenzen, sind deutliche Anstrengungen zur Reduktion der Treibhausgasemissionen notwendig. 
+Gemäss [IPCC-Bericht](https://www.ipcc.ch/sr15/chapter/spm/) sind  menschliche Aktivitäten verantwortlich für bisher rund 1° Erwärmung seit der Zeit vor der Industrialisierung. Mit hoher Gewissheit werde diese Erwärmung bis Mitte des Jahrhunderts auf 1.5° ansteigen.
 
 <section><h6>CHART</h6>
 
@@ -392,7 +392,7 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Auf globaler Skala, wie auch in der Schweiz, ist die oberflächennahe Erwärmung seit dem Beginn systematischer Messungen um 1850 unbestritten. Sie beträgt in etwa 1°C (Abb. 1). Die Mitteltemperaturen der letzten drei Jahrzehnte lagen dabei sukzessive höher als diejenigen aller vorangegangenen Jahrzehnte seit 1850.
+«Man sieht sofort, wie die beiden Dinge zusammenhängen: Temperatur und Kohlen­dioxid. Das ist kein Zufall, denn CO2 ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten (siehe dazu auch unsere vierteilige Serie über die Geschichte der Klimaforschung).»
 
 <section><h6>CHART</h6>
 
@@ -1452,171 +1452,6 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementar
 Temperatur und Kohlen­dioxid. Das ist kein Zufall, denn CO2 ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten (siehe dazu auch unsere vierteilige Serie über die Geschichte der Klimaforschung).
 
 Man sieht auch, dass der jüngste Anstieg der CO2-Konzentration um etwa 100 ppm in einer ähnlichen Grössen­ordnung wie die Differenz liegt, die jeweils zwischen den Kalt- und Warmzeiten bestand. Nun ist die Erde aktuell bereits in einer Warmzeit, dem sogenannten Holozän. Dass die CO2-Konzentration ausgehend von dieser Warmzeit nochmals um die besagte Grössen­ordnung steigt – und dies innerhalb nur weniger Jahre, quasi innerhalb eines erdgeschichtlichen Wimpern­schlags –, das ist wahrlich präzedenzlos.
-
-<section><h6>CHART</h6>
-
-```
-{
-  "type": "Line",
-  "y": "label",
-  "unit": "Grad Celsius",
-  "numberFormat": "0.1f",
-  "colorRange": [
-    "rgb(187,21,26)"
-  ]
-}
-```
-
-### Globaler Temperaturanstieg
-
-Abweichung vom langjährigen Durchschnitt 1951–1980
-
-```
-year,value
-1880,-0.11
-1881,-0.14
-1882,-0.18
-1883,-0.21
-1884,-0.24
-1885,-0.26
-1886,-0.27
-1887,-0.27
-1888,-0.27
-1889,-0.26
-1890,-0.25
-1891,-0.26
-1892,-0.27
-1893,-0.26
-1894,-0.24
-1895,-0.22
-1896,-0.21
-1897,-0.18
-1898,-0.17
-1899,-0.18
-1900,-0.2
-1901,-0.24
-1902,-0.26
-1903,-0.29
-1904,-0.32
-1905,-0.34
-1906,-0.36
-1907,-0.38
-1908,-0.39
-1909,-0.4
-1910,-0.41
-1911,-0.38
-1912,-0.34
-1913,-0.31
-1914,-0.3
-1915,-0.29
-1916,-0.28
-1917,-0.28
-1918,-0.28
-1919,-0.28
-1920,-0.26
-1921,-0.25
-1922,-0.24
-1923,-0.23
-1924,-0.22
-1925,-0.21
-1926,-0.21
-1927,-0.2
-1928,-0.18
-1929,-0.18
-1930,-0.18
-1931,-0.18
-1932,-0.18
-1933,-0.17
-1934,-0.16
-1935,-0.15
-1936,-0.12
-1937,-0.08
-1938,-0.03
-1939,0.02
-1940,0.05
-1941,0.08
-1942,0.1
-1943,0.09
-1944,0.07
-1945,0.04
-1946,0.0
-1947,-0.04
-1948,-0.07
-1949,-0.08
-1950,-0.08
-1951,-0.07
-1952,-0.07
-1953,-0.08
-1954,-0.07
-1955,-0.06
-1956,-0.05
-1957,-0.04
-1958,-0.01
-1959,0.02
-1960,0.03
-1961,0.02
-1962,-0.0
-1963,-0.02
-1964,-0.03
-1965,-0.04
-1966,-0.05
-1967,-0.04
-1968,-0.03
-1969,-0.01
-1970,-0.0
-1971,0.0
-1972,0.0
-1973,-0.01
-1974,-0.0
-1975,0.02
-1976,0.03
-1977,0.07
-1978,0.12
-1979,0.16
-1980,0.2
-1981,0.21
-1982,0.22
-1983,0.21
-1984,0.21
-1985,0.23
-1986,0.25
-1987,0.28
-1988,0.31
-1989,0.34
-1990,0.34
-1991,0.33
-1992,0.33
-1993,0.33
-1994,0.34
-1995,0.37
-1996,0.4
-1997,0.43
-1998,0.45
-1999,0.47
-2000,0.5
-2001,0.52
-2002,0.54
-2003,0.57
-2004,0.6
-2005,0.6
-2006,0.61
-2007,0.61
-2008,0.62
-2009,0.62
-2010,0.62
-2011,0.64
-2012,0.67
-2013,0.71
-2014,0.76
-2015,0.8
-2016,0.85
-2017,0.89
-2018,0.93
-```
-
-Quelle: [NASA](https://climate.nasa.gov/vital-signs/global-temperature/). Kurve wurde geglättet.
-
-<hr /></section>
 
 Wir beginnen mit einer Kurve, die Sie wahrscheinlich in ähnlicher Form schon einmal gesehen haben. Sie zeigt die Entwicklung der globalen Durchschnitts­temperatur, und zwar im Vergleich zu einer in der Klimatologie üblichen Referenz­periode (1961 bis 1990). Die Kurve ist unterlegt mit einer grauen Schattierung, die die Unsicherheit wiedergibt. Diese resultiert aus Mess­ungenauigkeiten oder zeitlichen und räumlichen Datenlücken.
 
