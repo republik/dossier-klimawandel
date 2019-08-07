@@ -123,11 +123,13 @@ Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtige
 }
 ```
 
-### Glossar: Anthropogen
+### Glossar
 
-Adjektiv – durch den Menschen beeinflusst, verursacht. 
+**Anthropogen:** durch den Menschen beeinflusst, verursacht. 
 
-Hat den gleichen Wortstamm (altgriechisch _ánthropos_ – «Mensch») wie der Begriff «Anthropozän», der eine Epoche bezeichnet, in der der Mensch zum wichtigsten Einflussfaktor wird.
+**Treibhausgas:** Nur Kohlendioxid CO₂, Methan CH₄ und Lachgas N₂O spielen in der Diskussion über Emissionen eine Rolle. Bei Vergleichen werden Mengen in bezüglich Wärmewirkung äquivalente Mengen Kohlendioxid umgerechnet (CO₂e).
+
+**Emissionen:** Durch menschliche Aktivität in die Atmosphäre gelangendes Treibhausgas. «Graue Emissionen» entstehen beim Konsum von Gütern, deren Produktion im Ausland Emissionen verursacht hat.
 
 <hr /></section>
 
