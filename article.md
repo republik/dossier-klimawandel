@@ -129,6 +129,8 @@ Ein Grossteil der seit 1850 beobachteten Erwärmung ist dabei auf den menschlich
   "color": "label",
   "colorSort": "none",
   "sort": "none",
+  "xBandPadding": 0.1,
+  "padding": 10,
   "xTicks": [
     1960,
     1970,
@@ -1798,6 +1800,8 @@ Auf den ersten Blick gehört die Schweiz mit Treibhausgas-Emissionen im Inland T
   "type": "TimeBar",
   "y": "value",
   "color": "label",
+  "xBandPadding": 0.1,
+  "padding": 10,
   "xTicks": [
     1960,
     1970,
