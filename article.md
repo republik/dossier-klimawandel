@@ -1550,10 +1550,6 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
 
 <hr /></section>
 
-Über die Ursachen von Eis­zeiten hat die Wissenschaft lange gerätselt. Vieles wurde in Betracht gezogen: durch Platten­tektonik emporgehobene Berg- und Insel­ketten, die kühlende Strömungs­veränderungen bewirken, aber auch Vulkan­ausbrüche, deren Asche die Sonnen­einstrahlung vermindert. Doch was all diese Theorien nicht zu erklären vermochten, ist die Regel­mässigkeit, mit denen Kalt- und Warm­zeiten sich abgewechselt haben.
-
-Bereits im 18. Jahrhundert kam die Idee auf, dass die Sonne eine Rolle spielen könnte. Beziehungsweise: die Position, in der die Erde zu ihr steht. Die Ausrichtung und die Neigung der Erdachse sowie die Kreis­förmigkeit ihrer Umlauf­bahn um die Sonne sind nämlich nicht konstant. Sondern sie variieren über die Jahrtausende hinweg in sich überlagernden Zyklen.
-
 <hr /></section>
 
 <section><h6>DYNAMIC_COMPONENT</h6>
