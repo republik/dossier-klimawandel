@@ -406,8 +406,6 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 «Man sieht sofort, wie die beiden Dinge zusammenhängen: Temperatur und Kohlen­dioxid», schreibt Republik-Autor Arian Bastani in seiner [Analyse historischer Temperatur­daten](https://www.republik.ch/2019/06/03/hoechste-tempertur-seit-120-000-jahren-gemessen). «Das ist kein Zufall, denn CO₂ ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten.»
 
-Der  [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie CO₂-Konzentration und Temperatur verbunden sind. Der IPCC stellt [in seinem jüngsten Bericht](https://www.ipcc.ch/sr15/chapter/spm/) fest: «Menschliche Aktivitäten haben schätzungsweise 1.0°C Erwärmung gegenüber der vorindustriellen Zeit verursacht, der genaue Wert liegt mit hoher Wahrscheinlichkeit zwischen 0.8°C und 1.2°C. Die globale Erwärmung erreicht wahrscheinlich 1.5°C zwischen 2030 und 2052, wenn sie wie bisher ansteigt.»
-
 <section><h6>CHART</h6>
 
 ```
@@ -1462,6 +1460,9 @@ year,category,value
 Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementary-information), [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html), [co2levels.org](https://www.co2levels.org/#sources). Die CO<sub>2</sub>-Kurve wurde auf der vertikalen Achse an die Temperaturkurve angeglichen.
 
 <hr /></section>
+
+Der  [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie CO₂-Konzentration und Temperatur verbunden sind. Der IPCC stellt [in seinem jüngsten Bericht](https://www.ipcc.ch/sr15/chapter/spm/) fest: «Menschliche Aktivitäten haben schätzungsweise 1.0°C Erwärmung gegenüber der vorindustriellen Zeit verursacht, der genaue Wert liegt mit hoher Wahrscheinlichkeit zwischen 0.8°C und 1.2°C. Die globale Erwärmung erreicht wahrscheinlich 1.5°C zwischen 2030 und 2052, wenn sie wie bisher ansteigt.»
+
 
 <section><h6>ARTICLECOLLECTION</h6>
 
