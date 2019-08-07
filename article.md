@@ -1700,8 +1700,7 @@ Bereits im 18. Jahrhundert kam die Idee auf, dass die Sonne eine Rolle spielen k
       "lead": "Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen."
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6",
-  "size": "breakout"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
 }
 ```
 
