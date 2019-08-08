@@ -382,6 +382,7 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
+Als Hauptverursacher der globalen Klimaveränderung gilt das Gas Kohlendioxid. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 vervierfacht – auf rund 36 000 Megatonnen. Gemäss IEA gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion. 
 
 <section><h6>INFOBOX</h6>
 
@@ -397,15 +398,19 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 **Treibhausgas:** Nur Kohlendioxid CO₂, Methan CH₄ und Lachgas N₂O spielen in der Klima-Diskussion eine Rolle. Bei Vergleichen werden alle Gase in bezüglich Wärmewirkung äquivalente Mengen CO₂ umgerechnet.
 
-**Emissionen:** Durch menschliche Aktivität in die Atmosphäre gelangendes Treibhausgas. «Graue Emissionen» entstehen beim Konsum von Gütern, deren Produktion im Ausland Emissionen verursacht hat.
+**Emissionen:** Durch menschliche Aktivität in die Atmosphäre gelangtes Treibhausgas. «Graue Emissionen» entstehen beim Konsum von im Ausland produzierten Gütern.
 
 <hr /></section>
 
-Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt das Gas _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 _vervierfacht_ – auf rund 36 000 Megatonnen. [Gemäss IEA](https://www.iea.org/statistics/co2emissions/) gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion. 
+Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller seit 1960 enstandenen Emissionen – obwohl in diesem Zeitraum deren Anteil an der Weltbevölkerung gerade mal [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. 
 
-Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller seit 1960 enstandenen Emissionen – obwohl in diesem Zeitraum deren Anteil an der Weltbevölkerung gerade mal [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. Betrachtet man [alle seit 1751](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) angefallenen 1.58 Billionen Tonnen CO₂-Emissionen, dann haben die USA davon ein Viertel und China ein Achtel zu verantworten.
+Betrachtet man [alle seit 1751](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) angefallenen 1.58 Billionen Tonnen CO₂-Emissionen, dann haben die USA davon ein Viertel und China ein Achtel zu verantworten.
 
 Bei den _Emissionen pro Kopf_ liegt der weltweite Durchschnitt bei 4.8 Tonnen CO₂ – allerdings verbirgt dieser Wert ein starkes Ungleichgewicht: So betrug er 2017 in Indien lediglich 1.8 Tonnen, in den Industrieländern der OECD jedoch 9.8 Tonnen. Auch das Wachstum der Emissionen pro Person ist ungleich verteilt: In Indien haben sie sich in den letzten fünfzig Jahren verdoppelt, in China beinahe verzehnfacht.
+
+## Zusammenhänge
+
+«Man sieht sofort, wie die beiden Dinge zusammenhängen: Temperatur und Kohlen­dioxid», schreibt Republik-Autor Arian Bastani in seiner Analyse historischer Temperatur­daten. «Das ist kein Zufall, denn CO₂ ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten.»
 
 <section><h6>CHART</h6>
 
@@ -1463,8 +1468,6 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementar
 <hr /></section>
 
 Legt man das [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) der CO₂-Konzentration über die historische Zeitreihe der Temperatur, dann wird sichtbar, wie stark diese beiden Grössen verknüpft sind. Zudem drängt sich auf, welche Richtung die Kurve der Temperatur in den nächsten Jahren einschlagen wird: nach oben.
-
-«Man sieht sofort, wie die beiden Dinge zusammenhängen: Temperatur und Kohlen­dioxid», schreibt Republik-Autor Arian Bastani in seiner [Analyse historischer Temperatur­daten](https://www.republik.ch/2019/06/03/hoechste-tempertur-seit-120-000-jahren-gemessen). «Das ist kein Zufall, denn CO₂ ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten.»
 
 Die Ursache früherer Temperatur-Anstiege seien subtile Rückkoppelungsprozesse, schreibt Bastiani. «Wie so oft lässt sich ein bestimmtes Phänomen im komplexen Gebilde des Erdklimas also nicht durch eine einzelne Ursache erklären. … Wir haben es also mit einer Verschachtelung mehrerer Verstärkungs­prozesse zu tun. … Der Mensch setzt mit seinem CO₂-Ausstoss also ein Gleich­gewicht ausser Kraft, das auf dem Zusammen­spiel von Erde und Sonne beruht.»
 
