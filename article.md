@@ -2007,6 +2007,12 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
+Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. 
+
+Je nachdem, ob und  in welchem Ausmass Klimaschutz-Massnahmen getroffen werden, sind die Auswirkungen mehr oder weniger stark. «Eine umfassende Senkung des weltweiten Treibhausgasausstosses», heisst es in der [Broschüre](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien/broschuere-bestellen.html), «könnte den zukünftigen Klimawandel eindämmen. So liesse sich bis Mitte des 21. Jahrhunderts rund die Hälfte, bis Ende  Jahrhundert zwei Drittel der möglichen Klimaveränderungen in der Schweiz vermeiden.»
+
+Findet kein wirksamer Klimaschutz statt, drohen Folgen: trockenere Sommer, schneearme Winter, mehr Hitztage und heftige Niederschläge.
+
 <section><h6>CHART</h6>
 
 ```
@@ -2841,7 +2847,9 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 01.07.2019
 
 ## Chancen
 
-Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die innovative, technologisch fortschrittliche Schweizer Wirtschaft – doch Teile von Politik und Gesellschaft verharren in einer Abwehrhaltung. «In der Schweiz hingegen bedeuten wärmere Temperaturen längere Vegetationsperioden, und die lassen sich ausnutzen», schreibt Urs Bruderer in [seiner Reportage über den Umgang der Bauern mit den sich wandelnden klimatischen Verhältnissen](https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn): «Doch statt neue Chancen auszuloten, haben viele Bauern den Klimawandel lange verdrängt. Unterstützt hat sie dabei die einstige Bauernpartei SVP, die den Klimawandel auch in ihrem aktuellen Programm kein einziges Mal erwähnt und stattdessen von ‹grünen Ideologen und Umwelttheoretikern› spricht, die ‹mit dauernder Schwarzmalerei den Leuten ein schlechtes Gewissen› einreden wollten.»
+Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die innovative, technologisch fortschrittliche Schweizer Wirtschaft – doch Teile von Politik und Gesellschaft verharren in einer Abwehrhaltung. 
+
+«In der Schweiz hingegen bedeuten wärmere Temperaturen längere Vegetationsperioden, und die lassen sich ausnutzen», schreibt Urs Bruderer in [seiner Reportage über den Umgang der Bauern mit den sich wandelnden klimatischen Verhältnissen](https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn): «Doch statt neue Chancen auszuloten, haben viele Bauern den Klimawandel lange verdrängt. Unterstützt hat sie dabei die einstige Bauernpartei SVP, die den Klimawandel auch in ihrem aktuellen Programm kein einziges Mal erwähnt und stattdessen von ‹grünen Ideologen und Umwelttheoretikern› spricht, die ‹mit dauernder Schwarzmalerei den Leuten ein schlechtes Gewissen› einreden wollten.»
 
 <hr /></section>
 
@@ -2872,14 +2880,137 @@ Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die inn
 
 <section><h6>CENTER</h6>
 
-Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Je nachdem, ob und  in welchem Ausmass Klimaschutz-Massnahmen getroffen werden, sind die Auswirkungen mehr oder weniger stark. «Eine umfassende Senkung des weltweiten Treibhausgasausstosses», heisst es in der [Broschüre](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien/broschuere-bestellen.html), «könnte den zukünftigen Klimawandel eindämmen. So liesse sich bis Mitte des 21. Jahrhunderts rund die Hälfte, bis Ende  Jahrhundert zwei Drittel der möglichen Klimaveränderungen in der Schweiz vermeiden.»
+## Die Jugend muss ran
 
-Findet kein wirksamer Klimaschutz statt, drohen Folgen 
+Unser Autor Elia Blülle beschreibt in seiner [Analyse der jüngsten Klimademonstrationen](https://github.com/republik/article-aufstand-der-streber?autoSlug "No future, das war gestern") durch junge Menschen ein Aufbäumen dieser Generation: «No future, das war gestern. Die Jugend rebelliert wieder und prägt damit die Politik.»  Die Schweizer Jungparteien erlebten ein noch nie da gewesenes Wachstum und gehen auf Konfrontation mit ihren Mutterparteien.
 
-*   **Trockene Sommer:** Abnehmende Niederschlagsmengen und zunehmende Verdunstung führt zu weniger Regentagen und trockeneren Böden. Dies hat Folgen für Landwirtschaft, die Energieproduktion und die Wasserwirtschaft.
-*   **Heftige Niederschläge:**
-*   **Mehr Hitzetage:**
-*   **Schneearme Winter**
+Lorem ipsum
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## Blick nach vorn
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-aufstand-der-streber?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "Oot50RsCU",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+![](images/85bd2986757b890776666dbbf6b719747354b988.jpeg?size=2500x1666)
+
+###### 
+
+# No future, das war gestern
+
+## 
+
+#### Heute streiken wieder Tausende Schweizer Schülerinnen und Schüler für den Klimaschutz. Warum sind die Proteste so erfolgreich, wie werden sie überleben – und was können sie bewirken?
+
+Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 15.03.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": null,
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "K40AWHLTys",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Klimajugend
+
+## 
+
+#### Entgegen den Prognosen vieler lebt die junge Klimabewegung immer noch – und ist bereit für den nächsten Angriff. Können sie mit ihren Protesten die Schweizer Politik verändern?
+
+#### 
+
+#### 
+
+
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#7C7C7C",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-wie-sag-ich-s-meinem-leser?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-theorie-praxis?autoSlug",
+  "titleSize": "standard",
+  "id": "SD2AeHPYlh",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+![](images/bd1ba782cb19a945348f6e8f1db5bed59c4b4a29.jpeg?size=2800x1867)
+
+###### Theorie & Praxis
+
+# Reiseführer in die Katastrophen­welt
+
+## David Wallace-Wells: «Die unbewohnbare Erde»
+
+#### Die Menschheit steckt mitten in der Klimakrise. Um deren schlimmste Folgen zu verhindern, braucht es das richtige Narrativ. Wie soll das aussehen? 
+
+Von Florian Oegerli, 05.08.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
 
 
 
