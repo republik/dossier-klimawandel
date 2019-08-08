@@ -1588,7 +1588,7 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
 
 ## Schweiz
 
-Auf den ersten Blick gehört die Schweiz mit Treibhausgas-Emissionen im Inland Treibhausgas-Ausstoss von 5.6 Tonnen pro Kopf (davon 4.5 Tonnen CO₂) zu den internationalen Spitzenreitern. Die Emissionen sind seit 1990 um 12% gesunken. Doch der Schein trügt: Rechnet man den durch importierte Güter verursachten Ausstoss hinzu, dann liegt unser Land mit diesem «Treinhausgas-Fussabdruck» von 14 Tonnen CO₂-Äquivalenten weit über dem weltweiten Durchschnitt von 6 Tonnen.
+Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas-Emissionen im Inland von 5.6 Tonnen pro Kopf (davon 4.5 Tonnen CO₂). Die Emissionen sind seit 1990 um 12% gesunken. Doch der Schein trügt: Rechnet man den durch importierte Güter verursachten «Grauen Emissionen» hinzu, dann liegt unser Land mit diesem «Treinhausgas-Fussabdruck» von 14 Tonnen CO₂-Äquivalenten weit über dem weltweiten Durchschnitt von 6 Tonnen.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -2003,9 +2003,7 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Die Entwicklung in der Schweiz läuft nicht in allen Sektoren gleich. Die Emissionen aus dem Verkehr gehen erst seit wenigen Jahren leicht zurück. Sie liegen 2017 immer noch 1% über dem Niveau von 1990. Hingegen konnten die Emissionen in den Sektoren Gebäude und Industrie um 26% bzw. 18% gegenüber 1990 gesenkt werden.
-
-Die durchschnittliche Temperatur in der Schweiz hat seit Messbeginn (1864) um 2°C zugenommen und ist damit doppelt so hoch wie der globale Anstieg, der etwa 1°C beträgt. Die steigenden Temperaturen lassen sich seit Mitte des 19. Jahrhunderts mit natürlichen Faktoren (z.B. Schwankungen der Sonnenstrahlung) nicht mehr erklären. 9 der 10 wärmsten je gemessenen Jahre in der Schweiz wurden im 21. Jahrhundert registriert.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
 
 <section><h6>CHART</h6>
 
@@ -2074,7 +2072,7 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Unsere Sommer werden künftig heisser und trockener, mit mehr Hitzetagen und längeren Phasen ohne Regen. Kommen die Niederschläge doch, vor allem im Winter, dann wird es öfter wie aus Kübeln giessen. Extreme Wetterereignisse nehmen zu, und zwar in allen Szenarien. Mehr Regen heisst aber nicht mehr Schnee. Mit den Temperaturen steigt auch die Nullgradgrenze an: um einige hundert Meter gegenüber vorindustriellen Zeiten, wenn die Welt den Klimaschutz ernst nimmt, und um fast einen Kilometer, wenn nicht.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
 
 <section><h6>CHART</h6>
 
@@ -2239,40 +2237,14 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikat
 
 <hr /></section>
 
-Es geht um die Emission von Treibhausgasen wie CO2. Beziehungsweise: um ihre Reduktion. Um die grössten Schäden im Zuge des Klimawandels zu verhindern, muss der globale Ausstoss möglichst bald auf null sinken. So schreiben es die Wissenschaftler des Weltklimarates in ihren Berichten.
+Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Je nachdem, ob und  in welchem Ausmass Klimaschutz-Massnahmen getroffen werden, sind die Auswirkungen mehr oder weniger stark. «Eine umfassende Senkung des weltweiten Treibhausgasausstosses», heisst es in der [Broschüre](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien/broschuere-bestellen.html), «könnte den zukünftigen Klimawandel eindämmen. So liesse sich bis Mitte des 21. Jahrhunderts rund die Hälfte, bis Ende  Jahrhundert zwei Drittel der möglichen Klimaveränderungen in der Schweiz vermeiden.»
 
-Die Frist dafür läuft bis 2050. Ab diesem Zeitpunkt sollte unter dem Strich, also nach Abzug von CO2-senkenden Massnahmen wie etwa der Aufforstung, kein Gramm Kohlendioxid mehr in die Atmosphäre entweichen. 
+Findet kein wirksamer Klimaschutz statt,  
 
-<section><h6>CHART</h6>
-
-```
-{
-  "type": "Bar",
-  "color": "label",
-  "numberFormat": "%",
-  "colorLegend": true,
-  "sort": "none",
-  "colorSort": "none"
-}
-```
-
-### Freie Fahrt
-
-CO<sub>2</sub>-Emissionen des Verkehrs nach Verkehrsmittel
-
-```
-label,value
-Personenwagen,0.75
-Transportfahrzeuge,0.19
-Busse,0.03
-Andere,0.03
-```
-
-Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html), 2017. Ohne internationalen Luftverkehr.
-
-<hr /></section>
-
-Wie die Schweiz in nur 100 Jahren zum Vielverbraucher fossiler Treibstoffe wurde – und wie sich der Energiehaushalt des Landes in den nächsten Jahrzehnten verändern muss. 
+*   Trockene Sommer
+*   Heftige Niederschläge
+*   Mehr Hitzetage
+*   Schneearme Winter
 
 <section><h6>CHART</h6>
 
@@ -2744,354 +2716,7 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Wie kommt die Schweiz beim Klima zum Ziel? Man muss sich bewusst sein, dass es hierfür keine wissenschaftlich exakten Vorgaben geben kann. Denn der Klimawandel ist ein Risiko: Es gibt, ausgehend von einem bestimmten Emissionspfad, nicht nur eine Temperatur- und Niederschlagsentwicklung, sondern eine Bandbreite an Szenarien. Möglicherweise fallen die Schäden viel höher aus, als wir uns dies heute vorstellen können.
-
-<section><h6>CHART</h6>
-
-```
-{
-  "type": "Bar",
-  "color": "time",
-  "barStyle": "large",
-  "highlight": "true",
-  "xTicks": [],
-  "domain": [
-    0,
-    155
-  ],
-  "colorSort": "none",
-  "sort": "none",
-  "columnSort": "none",
-  "colorRange": [
-    "#4f9bc7",
-    "#eaf1f5",
-    "#f7f6f6",
-    "#cfe4ef",
-    "#faeae1",
-    "#cce2ef",
-    "#6eaed2",
-    "#4393c3",
-    "#f8f2ef",
-    "#eaf1f5",
-    "#acd2e5",
-    "#b3d6e8",
-    "#ddebf2",
-    "#cfe4ef",
-    "#8ac0db",
-    "#337eb8",
-    "#f2f5f6",
-    "#c7e0ed",
-    "#d1e5f0",
-    "#7eb8d7",
-    "#dae9f2",
-    "#d2e6f0",
-    "#c5dfec",
-    "#3b88be",
-    "#5ca3cb",
-    "#3f8ec0",
-    "#4f9bc7",
-    "#5fa5cd",
-    "#c0dceb",
-    "#e0ecf3",
-    "#cae1ee",
-    "#a0cce2",
-    "#68abd0",
-    "#eff3f5",
-    "#f9eee7",
-    "#f7f5f4",
-    "#f2f5f6",
-    "#75b2d4",
-    "#b3d6e8",
-    "#bbdaea",
-    "#f7f6f6",
-    "#90c4dd",
-    "#bbdaea",
-    "#bbdaea",
-    "#a9d1e5",
-    "#569fc9",
-    "#a0cce2",
-    "#fae8de",
-    "#a9d1e5",
-    "#e3edf3",
-    "#c0dceb",
-    "#a9d1e5",
-    "#d5e7f1",
-    "#65a9cf",
-    "#e4eef4",
-    "#6eaed2",
-    "#fddcc9",
-    "#facab1",
-    "#a0cce2",
-    "#eaf1f5",
-    "#d1e5f0",
-    "#cce2ef",
-    "#f9eee7",
-    "#f2f5f6",
-    "#fae7dc",
-    "#d4e6f1",
-    "#fbe4d6",
-    "#a2cde3",
-    "#e0ecf3",
-    "#b1d5e7",
-    "#fcd5bf",
-    "#cae1ee",
-    "#e9f0f4",
-    "#f6f7f7",
-    "#eaf1f5",
-    "#cce2ef",
-    "#7eb8d7",
-    "#8dc2dc",
-    "#e3edf3",
-    "#f9c6ac",
-    "#c2ddec",
-    "#fbe4d6",
-    "#f9eee7",
-    "#f19e7d",
-    "#f9c4a9",
-    "#f7b596",
-    "#fdddcb",
-    "#f9efe9",
-    "#ecf2f5",
-    "#fbe5d8",
-    "#cce2ef",
-    "#dae9f2",
-    "#4695c4",
-    "#faeae1",
-    "#f8f2ef",
-    "#f9c4a9",
-    "#eaf1f5",
-    "#f5aa89",
-    "#a2cde3",
-    "#a2cde3",
-    "#fbe3d4",
-    "#a0cce2",
-    "#f8f3f0",
-    "#f9f0eb",
-    "#e4eef4",
-    "#d1e5f0",
-    "#d1e5f0",
-    "#f8f4f2",
-    "#ddebf2",
-    "#deebf2",
-    "#f0f4f6",
-    "#f9eee7",
-    "#f8f4f2",
-    "#f9eee7",
-    "#d7e8f1",
-    "#ecf2f5",
-    "#b3d6e8",
-    "#f0f4f6",
-    "#facab1",
-    "#f8bda1",
-    "#d4e6f1",
-    "#e7f0f4",
-    "#f7f5f4",
-    "#f8f1ed",
-    "#f8bda1",
-    "#e37e64",
-    "#ec9374",
-    "#fce0d0",
-    "#eb9172",
-    "#fbd0b9",
-    "#bf3338",
-    "#fbccb4",
-    "#f8f4f2",
-    "#e37e64",
-    "#f6b191",
-    "#f8bb9e",
-    "#db6b55",
-    "#f6b191",
-    "#d55d4c",
-    "#c94741",
-    "#f7b799",
-    "#fcdfcf",
-    "#dd7059",
-    "#d6604d",
-    "#f19e7d",
-    "#e58368",
-    "#f8f1ed",
-    "#ab162a",
-    "#e58368",
-    "#f9c6ac",
-    "#b61f2e",
-    "#a21328",
-    "#d6604d",
-    "#ce4f45",
-    "#810823"
-  ]
-}
-```
-
-### Tiefrot
-
-Temperatur­abweichungen in der Schweiz von 1864 bis 2018
-
-```
-time,value
-1864,1
-1865,1
-1866,1
-1867,1
-1868,1
-1869,1
-1870,1
-1871,1
-1872,1
-1873,1
-1874,1
-1875,1
-1876,1
-1877,1
-1878,1
-1879,1
-1880,1
-1881,1
-1882,1
-1883,1
-1884,1
-1885,1
-1886,1
-1887,1
-1888,1
-1889,1
-1890,1
-1891,1
-1892,1
-1893,1
-1894,1
-1895,1
-1896,1
-1897,1
-1898,1
-1899,1
-1900,1
-1901,1
-1902,1
-1903,1
-1904,1
-1905,1
-1906,1
-1907,1
-1908,1
-1909,1
-1910,1
-1911,1
-1912,1
-1913,1
-1914,1
-1915,1
-1916,1
-1917,1
-1918,1
-1919,1
-1920,1
-1921,1
-1922,1
-1923,1
-1924,1
-1925,1
-1926,1
-1927,1
-1928,1
-1929,1
-1930,1
-1931,1
-1932,1
-1933,1
-1934,1
-1935,1
-1936,1
-1937,1
-1938,1
-1939,1
-1940,1
-1941,1
-1942,1
-1943,1
-1944,1
-1945,1
-1946,1
-1947,1
-1948,1
-1949,1
-1950,1
-1951,1
-1952,1
-1953,1
-1954,1
-1955,1
-1956,1
-1957,1
-1958,1
-1959,1
-1960,1
-1961,1
-1962,1
-1963,1
-1964,1
-1965,1
-1966,1
-1967,1
-1968,1
-1969,1
-1970,1
-1971,1
-1972,1
-1973,1
-1974,1
-1975,1
-1976,1
-1977,1
-1978,1
-1979,1
-1980,1
-1981,1
-1982,1
-1983,1
-1984,1
-1985,1
-1986,1
-1987,1
-1988,1
-1989,1
-1990,1
-1991,1
-1992,1
-1993,1
-1994,1
-1995,1
-1996,1
-1997,1
-1998,1
-1999,1
-2000,1
-2001,1
-2002,1
-2003,1
-2004,1
-2005,1
-2006,1
-2007,1
-2008,1
-2009,1
-2010,1
-2011,1
-2012,1
-2013,1
-2014,1
-2015,1
-2016,1
-2017,1
-2018,1
-```
-
-Quelle: Meteo Schweiz. Dargestellt ist die Abweichung von der Normperiode 1961 bis 1990: Die Farbcodierung entspricht +/– 2,5 Grad.
-
-<hr /></section>
-
-Gerade deshalb nimmt das 1,5-Grad-Ziel in der Kommunikation derzeit einen so wichtigen Stellenwert ein: Es ist ein Mittel, um auszudrücken, dass sich Klimaschutz lohnt – und dass das Risiko irreversibler Umweltschäden deutlich abnimmt, wenn es gelingt, den
-
-Temperaturanstieg nicht nur auf 2 Grad zu beschränken, sondern ein ganzes Stück weit darunter zu halten. Die Formulierung, wonach die Emissionen zu diesem Zweck bis 2050 auf null sinken müssen, ist eine Faustregel. Sie dient der ungefähren Orientierung.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
 
 <section><h6>ARTICLECOLLECTION</h6>
 
@@ -3215,7 +2840,7 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 01.07.2019
 
 <hr /></section>
 
-## Zukunft
+## Chancen
 
 Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die innovative, technologisch fortschrittliche Schweizer Wirtschaft – doch Teile von Politik und Gesellschaft verharren in einer Abwehrhaltung. «In der Schweiz hingegen bedeuten wärmere Temperaturen längere Vegetationsperioden, und die lassen sich ausnutzen», schreibt Urs Bruderer in [seiner Reportage über den Umgang der Bauern mit den sich wandelnden klimatischen Verhältnissen](https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn): «Doch statt neue Chancen auszuloten, haben viele Bauern den Klimawandel lange verdrängt. Unterstützt hat sie dabei die einstige Bauernpartei SVP, die den Klimawandel auch in ihrem aktuellen Programm kein einziges Mal erwähnt und stattdessen von ‹grünen Ideologen und Umwelttheoretikern› spricht, die ‹mit dauernder Schwarzmalerei den Leuten ein schlechtes Gewissen› einreden wollten.»
 
@@ -3248,24 +2873,6 @@ Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die inn
 
 <section><h6>CENTER</h6>
 
-## Klimaszenarien
-
-Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Je nachdem, ob und  in welchem Ausmass Klimaschutz-Massnahmen getroffen werden, sind die Auswirkungen mehr oder weniger stark. «Eine umfassende Senkung des weltweiten Treibhausgasausstosses», heisst es in der [Broschüre](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien/broschuere-bestellen.html), «könnte den zukünftigen Klimawandel eindämmen. So liesse sich bis Mitte des 21. Jahrhunderts rund die Hälfte, bis Ende  Jahrhundert zwei Drittel der möglichen Klimaveränderungen in der Schweiz vermeiden.»
-
-Findet kein wirksamer Klimaschutz statt,  
-
-*   Trockene Sommer
-*   Heftige Niederschläge
-*   Mehr Hitzetage
-*   Schneearme Winter
-
-**Trockene Sommer:** Langfristig wird die mittlere Niederschlagsmenge in den Sommermonaten abnehmen und die Verdunstung zunehmen. Die Böden werden trockener, es gibt weniger Regentage, und die längste niederschlagsfreie Periode dauert länger.
-
-**Heftige Niederschläge:** Starkniederschläge werden in Zukunft wahrscheinlich merklich häufiger und intensiver als wir es heute erleben. Dies betrifft alle Jahreszeiten, aber besonders den Winter. Auch seltene Extremereignisse wie ein Jahrhundertniederschlag fallen deutlich heftiger aus.
-
-**Mehr Hitzetage:** Noch erheblich stärker als die Durchschnittstemperaturen steigen die Höchsttemperaturen. Hitzewellen sowie heisse Tage und Nächte werden häufiger und extremer. Am grössten ist die Hitzebelastung in den bevölkerungsreichen städtischen Gebieten in tiefen Lagen.
-
-**Schneearme Winter:** Auch die Winter werden Mitte des Jahrhunderts deutlich wärmer sein als heute. Zwar fällt mehr Niederschlag – aber wegen der höheren Temperaturen eher als Regen. Besonders in tieferen Lagen schneit es seltener und weniger. Entsprechend schrumpfen die schneereichen Gebiete der Schweiz stark.
 
 <hr /></section>
 
