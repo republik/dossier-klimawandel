@@ -2928,7 +2928,7 @@ Lorem ipsum
 
 ## 
 
-#### Heute streiken wieder Tausende Schweizer Schülerinnen und Schüler für den Klimaschutz. Warum sind die Proteste so erfolgreich, wie werden sie überleben – und was können sie bewirken?
+#### Tausende Schweizer Schülerinnen und Schüler streiken für den Klimaschutz. Warum sind die Proteste so erfolgreich, wie werden sie überleben – und was können sie bewirken?
 
 Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 15.03.2019
 
@@ -3002,7 +3002,7 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 15.03.2019
 
 ## David Wallace-Wells: «Die unbewohnbare Erde»
 
-#### Die Menschheit steckt mitten in der Klimakrise. Um deren schlimmste Folgen zu verhindern, braucht es das richtige Narrativ. Wie soll das aussehen? 
+#### Die Menschheit steckt mitten in der Klimakrise. Um deren schlimmste Folgen zu verhindern, braucht es das richtige Narrativ. Wie soll das aussehen?
 
 Von Florian Oegerli, 05.08.2019
 
