@@ -1,12 +1,11 @@
 ---
 template: dossier
-auto: true
-feed: true
+slug: klimawandel
+feed: false
 gallery: true
 title: Klimawandel
 subject: ''
 description: ''
-slug: klimawandel
 ---
 
 <section><h6>TITLE</h6>
@@ -394,7 +393,7 @@ Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-e
 
 ### Glossar
 
-**Anthropogen:** durch den Menschen beeinflusst, verursacht. 
+a**nthropogen:** durch den Menschen beeinflusst, verursacht. 
 
 **Treibhausgas:** Nur Kohlendioxid CO₂, Methan CH₄ und Lachgas N₂O spielen in der Klima-Diskussion eine Rolle. Bei Vergleichen werden alle Gase in bezüglich Wärmewirkung äquivalente Mengen CO₂ umgerechnet.
 
