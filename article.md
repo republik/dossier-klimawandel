@@ -1588,7 +1588,7 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
 
 ## Schweiz
 
-Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas-Emissionen im Inland von 5.6 Tonnen pro Kopf (davon 4.5 Tonnen CO₂). Die Emissionen sind seit 1990 um 12% gesunken. Doch der Schein trügt: Rechnet man den durch importierte Güter verursachten «Grauen Emissionen» hinzu, dann liegt unser Land mit diesem «Treinhausgas-Fussabdruck» von 14 Tonnen CO₂-Äquivalenten weit über dem weltweiten Durchschnitt von 6 Tonnen.
+Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas-Emissionen im Inland von 5.6 Tonnen pro Kopf (davon 4.5 Tonnen CO₂).  [Laut dem Treibhausgasinventar des Bundesamtes für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) Emissionen sind seit 1990 um 12% gesunken. Doch der Schein trügt: Rechnet man den durch importierte Güter verursachten «Grauen Emissionen» hinzu, dann liegt unser Land mit diesem «Treibhausgas-Fussabdruck» von 14 Tonnen CO₂-Äquivalenten weit über dem weltweiten Durchschnitt von 6 Tonnen.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -1678,6 +1678,10 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
 ```
 
 <hr /></section>
+
+Die Schweiz ist vom Klimawandel stark betroffen. Die Durchschnittstemperatur hat hierzulande seit 1864 mit 2° um doppelt soviel zugenommen wie im globalen Durchschnitt. «Erwärmt sich die Erde um x Grad Celsius, so steigen die lokalen Temperaturen in der Schweiz um fast das Doppelte an», schreibt unser Autor Simon Schmid in [Unser doppeltes Klimadilemma](https://www.republik.ch/2018/11/14/unser-doppeltes-klimadilemma): «Also um 2-mal x Grad. So lautet eine wissenschaftliche Faustregel zum Klimawandel, die sich über die vergangenen eineinhalb Jahrhunderte bewährt hat.»
+
+Die Hitzewellen der vergangenen Jahre zeichnen eine Entwicklung vor, die in der Zukunft zur [neuen Normalität](https://www.nytimes.com/2019/06/26/world/europe/europe-heat-wave.html) werden könnte. 
 
 <section><h6>CHART</h6>
 
@@ -2003,8 +2007,6 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
-
 <section><h6>CHART</h6>
 
 ```
@@ -2237,14 +2239,7 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikat
 
 <hr /></section>
 
-Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Je nachdem, ob und  in welchem Ausmass Klimaschutz-Massnahmen getroffen werden, sind die Auswirkungen mehr oder weniger stark. «Eine umfassende Senkung des weltweiten Treibhausgasausstosses», heisst es in der [Broschüre](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien/broschuere-bestellen.html), «könnte den zukünftigen Klimawandel eindämmen. So liesse sich bis Mitte des 21. Jahrhunderts rund die Hälfte, bis Ende  Jahrhundert zwei Drittel der möglichen Klimaveränderungen in der Schweiz vermeiden.»
-
-Findet kein wirksamer Klimaschutz statt,  
-
-*   Trockene Sommer
-*   Heftige Niederschläge
-*   Mehr Hitzetage
-*   Schneearme Winter
+Im Beitrag «[Eine kleine Energiegeschichte](https://www.republik.ch/2019/07/01/eine-kleine-energiegeschichte)» wirft unser Autor Simon Schmid einen Blick auf die Frage, wie die Schweiz in nur 100 Jahren zum Vielverbraucher fossiler Treibstoffe wurde. Er erkennt in diesem Zeitraum drei Phasen: das *Kohlezeitalter* im 18. Jahrhundert, den *Ölboom* nach dem Zweiten Weltkrieg, und die bis heute dauernde *Umschichtung*: «Die Jahrzehnte seit dem Ölschock lassen sich im Rückblick somit als Phase begreifen, in denen ein zaghafter Umbau des Energie­systems begonnen hat. Das erste Element dieses Umbaus ist: ein grösserer Fokus auf Effizienz.» 
 
 <section><h6>CHART</h6>
 
@@ -2716,7 +2711,9 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
+Wie schnell muss die Schweiz ihre Treibhausgasemissionen reduzieren, um die internationalen Klimaziele zu erreichen? 
+
+Simon Schmid erläutert in einem «[kleinen Einmaleins der Klimapolitik](https://www.republik.ch/2018/11/26/das-kleine-einmaleins-der-klimapolitik)» die Szenarien: «Um die grössten Schäden im Zuge des Klimawandels zu verhindern, muss der globale Ausstoss möglichst bald auf null sinken. So schreiben es die Wissenschaftler des Weltklimarates in ihren Berichten. Die Frist dafür läuft bis 2050. Ab diesem Zeitpunkt sollte unter dem Strich, also nach Abzug von CO₂-senkenden Massnahmen wie etwa der Aufforstung, kein Gramm Kohlendioxid mehr in die Atmosphäre entweichen.» Damit die Welt bis Mitte des Jahrhunderts auf null Emissionen komme, müsse jedes einzelne Land seine Emissionen herunterfahren – auch die Schweiz.
 
 <section><h6>ARTICLECOLLECTION</h6>
 
@@ -2873,6 +2870,14 @@ Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die inn
 
 <section><h6>CENTER</h6>
 
+Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Je nachdem, ob und  in welchem Ausmass Klimaschutz-Massnahmen getroffen werden, sind die Auswirkungen mehr oder weniger stark. «Eine umfassende Senkung des weltweiten Treibhausgasausstosses», heisst es in der [Broschüre](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien/broschuere-bestellen.html), «könnte den zukünftigen Klimawandel eindämmen. So liesse sich bis Mitte des 21. Jahrhunderts rund die Hälfte, bis Ende  Jahrhundert zwei Drittel der möglichen Klimaveränderungen in der Schweiz vermeiden.»
+
+Findet kein wirksamer Klimaschutz statt, drohen Folgen 
+
+*   **Trockene Sommer:** Abnehmende Niederschlagsmengen und zunehmende Verdunstung führt zu weniger Regentagen und trockeneren Böden. Dies hat Folgen für Landwirtschaft, die Energieproduktion und die Wasserwirtschaft.
+*   **Heftige Niederschläge:**
+*   **Mehr Hitzetage:**
+*   **Schneearme Winter**
 
 <hr /></section>
 
