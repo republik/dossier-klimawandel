@@ -424,7 +424,6 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
     8,
     12
   ],
-  "size": "breakout",
   "xTicks": [
     "-500k",
     "-250k",
@@ -1549,6 +1548,8 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
 <hr /></section>
 
 <hr /></section>
+
+
 
 <hr /></section>
 
