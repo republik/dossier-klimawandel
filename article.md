@@ -113,7 +113,7 @@ Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengem
 
 <hr /></section>
 
-Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er beispielsweise durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
+Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch _verstärkt den natürlichen Treibhauseffekt_, in dem er beispielsweise durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
 
 <section><h6>CHART</h6>
 
@@ -382,7 +382,7 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Als Hauptverursacher der globalen Klimaveränderung gilt das Gas Kohlendioxid. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 vervierfacht – auf rund 36 000 Megatonnen. Gemäss IEA gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion. 
+Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt das Gas _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 _vervierfacht_, auf rund 36 000 Megatonnen. [Gemäss der Internationalen Energiagentur](https://www.iea.org/statistics/co2emissions/) gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion. 
 
 <section><h6>INFOBOX</h6>
 
@@ -402,15 +402,15 @@ Als Hauptverursacher der globalen Klimaveränderung gilt das Gas Kohlendioxid. D
 
 <hr /></section>
 
-Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller seit 1960 enstandenen Emissionen – obwohl in diesem Zeitraum deren Anteil an der Weltbevölkerung gerade mal [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. 
+Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller seit 1960 enstandenen Emissionen – obwohl in diesem Zeitraum ihr Anteil an der Weltbevölkerung nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. 
 
-Betrachtet man [alle seit 1751](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) angefallenen 1.58 Billionen Tonnen CO₂-Emissionen, dann haben die USA davon ein Viertel und China ein Achtel zu verantworten.
+Betrachtet man [alle seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1.58 Billionen Tonnen CO₂-Emissionen, dann haben die USA davon ein Viertel und China ein Achtel zu verantworten.
 
-Bei den _Emissionen pro Kopf_ liegt der weltweite Durchschnitt bei 4.8 Tonnen CO₂ – allerdings verbirgt dieser Wert ein starkes Ungleichgewicht: So betrug er 2017 in Indien lediglich 1.8 Tonnen, in den Industrieländern der OECD jedoch 9.8 Tonnen. Auch das Wachstum der Emissionen pro Person ist ungleich verteilt: In Indien haben sie sich in den letzten fünfzig Jahren verdoppelt, in China beinahe verzehnfacht.
+Bei den _Emissionen pro Kopf_ liegt der weltweite Durchschnitt bei 4.8 Tonnen CO₂ – allerdings verbirgt dieser Wert ein starkes Ungleichgewicht: So betrug er 2017 in Indien lediglich 1.8 Tonnen, in den Industrieländern der OECD jedoch fast fünfmal soviel. Auch das Wachstum der Emissionen pro Person ist ungleich verteilt: In Indien haben sie sich in den letzten fünfzig Jahren verdoppelt, in China mehr als verzehnfacht.
 
 ## Zusammenhänge
 
-«Man sieht sofort, wie die beiden Dinge zusammenhängen: Temperatur und Kohlen­dioxid», schreibt Republik-Autor Arian Bastani in seiner Analyse historischer Temperatur­daten. «Das ist kein Zufall, denn CO₂ ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten.»
+«Man sieht sofort, wie die beiden Dinge zusammenhängen: Temperatur und Kohlen­dioxid», schreibt Republik-Autor Arian Bastani in seiner [Analyse historischer Temperatur­daten](https://www.republik.ch/2019/06/03/hoechste-tempertur-seit-120-000-jahren-gemessen). «Das ist kein Zufall, denn CO₂ ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten.»
 
 <section><h6>CHART</h6>
 
@@ -1468,7 +1468,7 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementar
 
 Legt man das [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) der CO₂-Konzentration über die historische Zeitreihe der Temperatur, dann wird sichtbar, wie stark diese beiden Grössen verknüpft sind. Zudem drängt sich auf, welche Richtung die Kurve der Temperatur in den nächsten Jahren einschlagen wird: nach oben.
 
-Die Ursache früherer Temperatur-Anstiege seien subtile Rückkoppelungsprozesse, schreibt Bastiani. «Wie so oft lässt sich ein bestimmtes Phänomen im komplexen Gebilde des Erdklimas also nicht durch eine einzelne Ursache erklären. … Wir haben es also mit einer Verschachtelung mehrerer Verstärkungs­prozesse zu tun. … Der Mensch setzt mit seinem CO₂-Ausstoss also ein Gleich­gewicht ausser Kraft, das auf dem Zusammen­spiel von Erde und Sonne beruht.»
+Die Ursache früherer Temperatur-Anstiege seien subtile Rückkoppelungsprozesse, schreibt Bastani. «Wie so oft lässt sich ein bestimmtes Phänomen im komplexen Gebilde des Erdklimas also nicht durch eine einzelne Ursache erklären. … Wir haben es also mit einer Verschachtelung mehrerer Verstärkungs­prozesse zu tun. … Der Mensch setzt mit seinem CO₂-Ausstoss also ein Gleich­gewicht ausser Kraft, das auf dem Zusammen­spiel von Erde und Sonne beruht.»
 
 <section><h6>ARTICLECOLLECTION</h6>
 
@@ -1570,12 +1570,12 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
     "item": {
       "color": "#FCFDDB",
       "header": "Serie Wissenschaftsgeschichte des Klimawandels",
-      "author": "Von Arian Bastiani, 4.12. – 27.17.2018",
+      "author": "Von <a href='/~abastani'>Arian Bastiani</a>, 4.12. – 27.17.2018",
       "url": "https://www.republik.ch/2018/12/05/geheimnisvolle-strahlen",
       "title": "Geheimnisvolle Strahlen",
       "textPosition": "topleft",
       "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-klima-forschungsgeschichte-teil-1/images/2b0b82cc16d0baaf0491b5bf1e6e70c72cb435d3.jpeg",
-      "lead": "Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen."
+      "lead": "Wie die Klimaforschung von der Entdeckung des Treibhauseffekts im 19. Jahrhundert den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen."
     }
   },
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
