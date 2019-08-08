@@ -133,9 +133,9 @@ Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtige
 
 <hr /></section>
 
-Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt das Gas _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 _vervierfacht_ – auf rund 36 000 Megatonnen. [Gemäss IEA](https://www.iea.org/statistics/co2emissions/) gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion. Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller sein 1960 enstandenen Emissionen – obwohl in diesem Zeitraum deren Anteil an der Weltbevölkerung zwischen gerade mal [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. 
+Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt das Gas _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 _vervierfacht_ – auf rund 36 000 Megatonnen. [Gemäss IEA](https://www.iea.org/statistics/co2emissions/) gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion. Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller seit 1960 enstandenen Emissionen – obwohl in diesem Zeitraum deren Anteil an der Weltbevölkerung gerade mal [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. 
 
-Bei den *Emissionen pro Kopf* liegt der weltweite Durchschnitt bei 4.8 Tonnen CO₂ – allerdings verbirgt dieser Wert ein starkes Ungleichgewicht: So betrug er 2017 in Indien lediglich 1.8 Tonnen, in den Industrieländern der OECD jedoch 9.8 Tonnen. Auch das Wachstum der Emissionen pro Person ist ungleich verteilt: In Indien haben sie sich in den letzten fünfzig Jahren verdoppelt, in China beinahe verzehnfacht.
+Bei den _Emissionen pro Kopf_ liegt der weltweite Durchschnitt bei 4.8 Tonnen CO₂ – allerdings verbirgt dieser Wert ein starkes Ungleichgewicht: So betrug er 2017 in Indien lediglich 1.8 Tonnen, in den Industrieländern der OECD jedoch 9.8 Tonnen. Auch das Wachstum der Emissionen pro Person ist ungleich verteilt: In Indien haben sie sich in den letzten fünfzig Jahren verdoppelt, in China beinahe verzehnfacht.
 
 <section><h6>CHART</h6>
 
@@ -1551,6 +1551,8 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
 <hr /></section>
 
 <hr /></section>
+
+
 
 <hr /></section>
 
