@@ -113,8 +113,6 @@ Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengem
 
 <hr /></section>
 
-Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er beispielsweise durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
-
 <section><h6>INFOBOX</h6>
 
 ```
@@ -133,7 +131,7 @@ Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtige
 
 <hr /></section>
 
-Gemäss IPCC: «Die anthropogenen Treibhausgasemissionen sind seit der vorindustriellen Zeit angestiegen, hauptsächlich angetrieben durch Wirtschafts- und Bevölkerungswachstum, und sind nun höher als jemals zuvor. Dies hat zu atmosphärischen Konzentrationen von Kohlendioxid, Methan und Lachgas geführt, wie sie seit mindestens 800 000 Jahren noch nie vorgekommen sind.»
+Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den _natürlichen Treibhauseffekt_, in dem er beispielsweise durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
 
 Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt das Gas _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 _vervierfacht_ – auf rund 36 000 Megatonnen. Kumuliert über diesen Zeitraum entfallen auf die Industrieländer der EU sowie die USA rund 40 Prozent der Emissionen. [Gemäss IEA](https://www.iea.org/statistics/co2emissions/) gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion.
 
