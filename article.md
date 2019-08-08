@@ -127,13 +127,15 @@ Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtige
 
 **Anthropogen:** durch den Menschen beeinflusst, verursacht. 
 
-**Treibhausgas:** Nur Kohlendioxid CO₂, Methan CH₄ und Lachgas N₂O spielen in der Diskussion über Emissionen eine Rolle. Bei Vergleichen werden Mengen in bezüglich Wärmewirkung äquivalente Mengen Kohlendioxid umgerechnet (CO₂e).
+**Treibhausgas:** Nur Kohlendioxid CO₂, Methan CH₄ und Lachgas N₂O spielen in der Klima-Diskussion eine Rolle. Bei Vergleichen werden alle Gase in bezüglich Wärmewirkung äquivalente Mengen CO₂ umgerechnet.
 
 **Emissionen:** Durch menschliche Aktivität in die Atmosphäre gelangendes Treibhausgas. «Graue Emissionen» entstehen beim Konsum von Gütern, deren Produktion im Ausland Emissionen verursacht hat.
 
 <hr /></section>
 
-Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt das Gas _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 _vervierfacht_ – auf rund 36 000 Megatonnen. [Gemäss IEA](https://www.iea.org/statistics/co2emissions/) gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion. Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller seit 1960 enstandenen Emissionen – obwohl in diesem Zeitraum deren Anteil an der Weltbevölkerung gerade mal [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. 
+Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt das Gas _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 _vervierfacht_ – auf rund 36 000 Megatonnen. [Gemäss IEA](https://www.iea.org/statistics/co2emissions/) gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion. 
+
+Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller seit 1960 enstandenen Emissionen – obwohl in diesem Zeitraum deren Anteil an der Weltbevölkerung gerade mal [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. Betrachtet man [alle seit 1751](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) angefallenen 1.58 Billionen Tonnen CO₂-Emissionen, dann haben die USA davon ein Viertel und China ein Achtel zu verantworten.
 
 Bei den _Emissionen pro Kopf_ liegt der weltweite Durchschnitt bei 4.8 Tonnen CO₂ – allerdings verbirgt dieser Wert ein starkes Ungleichgewicht: So betrug er 2017 in Indien lediglich 1.8 Tonnen, in den Industrieländern der OECD jedoch 9.8 Tonnen. Auch das Wachstum der Emissionen pro Person ist ungleich verteilt: In Indien haben sie sich in den letzten fünfzig Jahren verdoppelt, in China beinahe verzehnfacht.
 
