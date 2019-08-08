@@ -1469,6 +1469,24 @@ Legt man das [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r
 
 Die Ursache früherer Temperatur-Anstiege seien subtile Rückkoppelungsprozesse, schreibt Bastani. «Wie so oft lässt sich ein bestimmtes Phänomen im komplexen Gebilde des Erdklimas also nicht durch eine einzelne Ursache erklären. … Wir haben es also mit einer Verschachtelung mehrerer Verstärkungs­prozesse zu tun. … Der Mensch setzt mit seinem CO₂-Ausstoss also ein Gleich­gewicht ausser Kraft, das auf dem Zusammen­spiel von Erde und Sonne beruht.»
 
+<section><h6>QUOTE</h6>
+
+<section><h6>FIGURE</h6>
+
+![](images/236138b2bfe7d0c7b7b6f2f1416a53c5738d6ffb.png?size=665x577)
+
+_Christian Werner_
+
+<hr /></section>
+
+«Eine Hitzewelle wie diejenige von 2017 erwartet uns das nun alle zehn Jahre.»
+
+Die Physikerin Friederike Otto im [Interview mit der Republik](https://github.com/republik/article-inti-friederike-otto?autoSlug "«Extrem ist das neue Normal»"), 17.04.2019
+
+<hr /></section>
+
+Verheerende Stürme, Überschwemmungen, sengende Hitze: Kann man bei Wetterkatastrophen die Schuldigen ermitteln? «Extrem ist das neue Normal», sagt Physikerin Friederike Otto im [Interview mit der Republik](https://github.com/republik/article-inti-friederike-otto?autoSlug "«Extrem ist das neue Normal»"). Sie forscht auf dem Gebiet der _Attribution Science_, die darum bemüht ist, kausale Zusammenhänge zwischen Klimawandel und Extremwetter­ereignissen beweisen zu können.
+
 <section><h6>ARTICLECOLLECTION</h6>
 
 ```
@@ -1679,8 +1697,6 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
 <hr /></section>
 
 Die Schweiz ist vom Klimawandel stark betroffen. Die Durchschnittstemperatur hat hierzulande seit 1864 mit 2° um doppelt soviel zugenommen wie im globalen Durchschnitt. «Erwärmt sich die Erde um x Grad Celsius, so steigen die lokalen Temperaturen in der Schweiz um fast das Doppelte an», schreibt unser Autor Simon Schmid in [Unser doppeltes Klimadilemma](https://www.republik.ch/2018/11/14/unser-doppeltes-klimadilemma): «Also um 2-mal x Grad. So lautet eine wissenschaftliche Faustregel zum Klimawandel, die sich über die vergangenen eineinhalb Jahrhunderte bewährt hat.»
-
-Die Hitzewellen der vergangenen Jahre zeichnen eine Entwicklung vor, die in der Zukunft zur [neuen Normalität](https://www.nytimes.com/2019/06/26/world/europe/europe-heat-wave.html) werden könnte. 
 
 <section><h6>CHART</h6>
 
