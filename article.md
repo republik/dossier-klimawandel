@@ -2074,7 +2074,9 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellusviverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiamultricies nisi vel augue.
+Den grössten Beitrag zu den Emissionen in der Schweiz hat mit 32% der _Verkehr_ (ohne Flugverkehr), die Sektoren _Gebäude_ und _Industrie_ verursachen je rund ein Viertel.
+
+Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen der Sektoren Gebäude und Industrie um 26% bzw. 18% gegenüber 1990 gesenkt werden. Bei den Verkehrsmitteln sind die _Personenwagen_ mit [75% der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) klar Spitzenreiter. 
 
 <section><h6>CHART</h6>
 
@@ -2239,7 +2241,7 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikat
 
 <hr /></section>
 
-Im Beitrag «[Eine kleine Energiegeschichte](https://www.republik.ch/2019/07/01/eine-kleine-energiegeschichte)» wirft unser Autor Simon Schmid einen Blick auf die Frage, wie die Schweiz in nur 100 Jahren zum Vielverbraucher fossiler Treibstoffe wurde. Er erkennt in diesem Zeitraum drei Phasen: das *Kohlezeitalter* im 18. Jahrhundert, den *Ölboom* nach dem Zweiten Weltkrieg, und die bis heute dauernde *Umschichtung*: «Die Jahrzehnte seit dem Ölschock lassen sich im Rückblick somit als Phase begreifen, in denen ein zaghafter Umbau des Energie­systems begonnen hat. Das erste Element dieses Umbaus ist: ein grösserer Fokus auf Effizienz.» 
+Im Beitrag «[Eine kleine Energiegeschichte](https://www.republik.ch/2019/07/01/eine-kleine-energiegeschichte)» wirft unser Autor Simon Schmid einen Blick auf die Frage, wie die Schweiz in nur 100 Jahren zum Vielverbraucher fossiler Treibstoffe wurde. Er erkennt in diesem Zeitraum drei Phasen: das _Kohlezeitalter_ im 18. Jahrhundert, den _Ölboom_ nach dem Zweiten Weltkrieg, und die bis heute dauernde _Umschichtung_: «Die Jahrzehnte seit dem Ölschock lassen sich im Rückblick somit als Phase begreifen, in denen ein zaghafter Umbau des Energie­systems begonnen hat. Das erste Element dieses Umbaus ist: ein grösserer Fokus auf Effizienz.» 
 
 <section><h6>CHART</h6>
 
@@ -2879,6 +2881,8 @@ Findet kein wirksamer Klimaschutz statt, drohen Folgen
 *   **Mehr Hitzetage:**
 *   **Schneearme Winter**
 
+
+
 <hr /></section>
 
 <section><h6>DYNAMIC_COMPONENT</h6>
@@ -2911,7 +2915,9 @@ Findet kein wirksamer Klimaschutz statt, drohen Folgen
 
 ### Über das Dossier «Klimawandel»
 
-Das Dossier «Klimawandel» bündelt die wichtigsten Fakten zum Klimwandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwerpunkt des Dossiers liegt auf der Präsentation von Daten aus _Primärquellen_ und in der Zusammenstellung von _ausgewählten Beiträgen_ der Republik. Alle Quellen und Originaldaten, sowie die Methoden ihrer Aufbereitung, sind [ausführlich dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/Dossier%20Klimawandel.ipynb).
+Das Dossier «Klimawandel» bündelt die wichtigsten Fakten zum Klimwandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwerpunkt des Dossiers liegt auf der Präsentation von Daten aus _Primärquellen_ und in der Zusammenstellung von _ausgewählten Beiträgen_ der Republik. Alle Quellen und Originaldaten, sowie die Methoden ihrer Aufbereitung, sind [ausführlich dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/Dossier%20Klimawandel.ipynb). 
+
+Dieses Dossier wird laufend aktualisiert und verbessert – bitte senden Sie Kritik und Ideen an <mailto:andreas.moor@republik.ch>. An der Umsetzung waren beteiligt: Christof Moser und Andreas Moor (Redaktion und Umsetzung), XXX (Produktion), XXX (Korrektorat).
 
 <hr /></section>
 
