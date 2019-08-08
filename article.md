@@ -3012,44 +3012,5 @@ Von Florian Oegerli, 05.08.2019
 <hr /></section>
 
 
--<hr /></section>
-
-<section><h6>DYNAMIC_COMPONENT</h6>
-
-```
-{
-  "autoHtml": false,
-  "props": {
-    "item": {
-      "color": "#fff",
-      "author": "Von Elia Blülle, 15.03.2019",
-      "url": "https://www.republik.ch/2019/03/15/no-future-das-war-gestern",
-      "title": "No future, das war gestern",
-      "split": true,
-      "type": "Beitrag",
-      "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-aufstand-der-streber/images/bab62c96339c128d7e88d2288c92b7097b07deb8.jpeg",
-      "lead": "Tausende Schweizer Schülerinnen und Schüler streiken für den Klimaschutz. Warum sind die Proteste so erfolgreich, wie werden sie überleben – und was können sie bewirken?",
-      "bgColor": "#47C8F0"
-    }
-  },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
-}
-```
-
-<hr /></section>
-
-<section><h6>CENTER</h6>
-
-<section><h6>INFOBOX</h6>
-
-### Über das Dossier «Klimawandel»
-
-Das Dossier «Klimawandel» bündelt die wichtigsten Fakten zum Klimwandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwerpunkt des Dossiers liegt auf der Präsentation von Daten aus _Primärquellen_ und in der Zusammenstellung von _ausgewählten Beiträgen_ der Republik. Alle Quellen und Originaldaten, sowie die Methoden ihrer Aufbereitung, sind [ausführlich dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/Dossier%20Klimawandel.ipynb). 
-
-Dieses Dossier wird laufend aktualisiert und verbessert – bitte senden Sie Kritik und Ideen an <mailto:andreas.moor@republik.ch>. An der Umsetzung waren beteiligt: Christof Moser und Andreas Moor (Redaktion und Umsetzung), XXX (Produktion), XXX (Korrektorat).
-
-<hr /></section>
-
-
 
 <hr /></section>
