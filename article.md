@@ -432,7 +432,6 @@ Bei den _Emissionen pro Kopf_ liegt der weltweite Durchschnitt bei 4.8 Tonnen C
     8,
     12
   ],
-  "size": "breakout",
   "xTicks": [
     "-500k",
     "-250k",
@@ -447,7 +446,7 @@ Bei den _Emissionen pro Kopf_ liegt der weltweite Durchschnitt bei 4.8 Tonnen C
 }
 ```
 
-### Hockeyschläger und Sandwurm
+### Hockeyschläger trifft Sandwurm
 
 CO<sub>2</sub>-Konzentration und Temperatur
 
