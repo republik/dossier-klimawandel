@@ -1590,6 +1590,99 @@ Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.
 
 Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas-Emissionen im Inland von 5.6 Tonnen pro Kopf (davon 4.5 Tonnen CO₂).  [Laut dem Treibhausgasinventar des Bundesamtes für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) Emissionen sind seit 1990 um 12% gesunken. Doch der Schein trügt: Rechnet man den durch importierte Güter verursachten «Grauen Emissionen» hinzu, dann liegt unser Land mit diesem «Treibhausgas-Fussabdruck» von 14 Tonnen CO₂-Äquivalenten weit über dem weltweiten Durchschnitt von 6 Tonnen.
 
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "autoHtml": true,
+  "props": {
+    "values": [
+      {
+        "label": "CO₂-Austoss pro Kopf",
+        "value": "4.5",
+        "unit": " t",
+        "description": "Emissionen im Inland",
+        "source": {
+          "name": "Bafu",
+          "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040",
+          "date": "2015"
+        },
+        "color": "rgb(8,48,107)"
+      },
+      {
+        "label": "Treibhausgas-Fussabdruck",
+        "value": "14",
+        "unit": " t",
+        "description": "Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums",
+        "source": {
+          "name": "Bafu",
+          "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040",
+          "date": "2015"
+        },
+        "color": "rgb(8,48,107)"
+      },
+      {
+        "label": "Temperatur",
+        "value": "+2",
+        "unit": "°",
+        "description": "Veränderung der Jahresmitteltemperatur seit 1864",
+        "source": {
+          "name": "MeteoSchweiz",
+          "url": "https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html",
+          "date": "2018"
+        },
+        "color": "rgb(187,21,26)"
+      },
+      {
+        "label": "Gletscher",
+        "value": "–25",
+        "unit": "%",
+        "description": "Veränderung des Eisvolumens der Schweizer Gletscher seit 2000",
+        "source": {
+          "name": "GLAMOS",
+          "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html",
+          "date": "2018"
+        },
+        "color": "rgb(187,21,26)"
+      }
+    ]
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.6",
+  "size": "breakout"
+}
+```
+
+```html
+<style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; flex-wrap: wrap; }@media only screen and (max-width: 767px) {
+  .css-tdv8zt, [data-css-tdv8zt] { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
+}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+  .css-z781yx, [data-css-z781yx] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
+}@media only screen and (min-width: 1025px) {
+  .css-z781yx, [data-css-z781yx] { width: 25%; padding-left: 0px; }
+}@media only screen and (max-width: 767px) {
+  .css-z781yx, [data-css-z781yx] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+  .css-1akzvxi, [data-css-1akzvxi] { width: 50%; padding-bottom: 15px; padding-left: 15px; }
+}@media only screen and (min-width: 1025px) {
+  .css-1akzvxi, [data-css-1akzvxi] { width: 25%; padding-left: 15px; }
+}@media only screen and (max-width: 767px) {
+  .css-1akzvxi, [data-css-1akzvxi] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+  .css-26u5fm, [data-css-26u5fm] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
+}@media only screen and (min-width: 1025px) {
+  .css-26u5fm, [data-css-26u5fm] { width: 25%; padding-left: 15px; }
+}@media only screen and (max-width: 767px) {
+  .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
+<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">4.5</span><span data-css-15r0nsi=""> t</span></div><div data-css-1tzx89f="">Emissionen im Inland</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">Treibhausgas-Fussabdruck</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">14</span><span data-css-15r0nsi=""> t</span></div><div data-css-1tzx89f="">Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperatur</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+2</span><span data-css-15r0nsi="">°</span></div><div data-css-1tzx89f="">Veränderung der Jahresmitteltemperatur seit 1864</div><div><span data-css-18yx3y4=""><a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Gletscher</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">–25</span><span data-css-15r0nsi="">%</span></div><div data-css-1tzx89f="">Veränderung des Eisvolumens der Schweizer Gletscher seit 2000</div><div><span data-css-18yx3y4=""><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html">GLAMOS, 2018</a></span></div></div></div></div>
+```
+
+<hr /></section>
+
+Die Schweiz ist vom Klimawandel stark betroffen. Die Durchschnittstemperatur hat hierzulande seit 1864 mit 2° um doppelt soviel zugenommen wie im globalen Durchschnitt. «Erwärmt sich die Erde um x Grad Celsius, so steigen die lokalen Temperaturen in der Schweiz um fast das Doppelte an», schreibt unser Autor Simon Schmid in [Unser doppeltes Klimadilemma](https://www.republik.ch/2018/11/14/unser-doppeltes-klimadilemma): «Also um 2-mal x Grad. So lautet eine wissenschaftliche Faustregel zum Klimawandel, die sich über die vergangenen eineinhalb Jahrhunderte bewährt hat.»
+
+Die Hitzewellen der vergangenen Jahre zeichnen eine Entwicklung vor, die in der Zukunft zur [neuen Normalität](https://www.nytimes.com/2019/06/26/world/europe/europe-heat-wave.html) werden könnte. 
+
 <section><h6>CHART</h6>
 
 ```
@@ -1978,100 +2071,6 @@ year,origin,value
 ```
 
 Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040).
-
-<hr /></section>
-
-Die Schweiz ist vom Klimawandel stark betroffen. Die Durchschnittstemperatur hat hierzulande seit 1864 mit 2° um doppelt soviel zugenommen wie im globalen Durchschnitt. «Erwärmt sich die Erde um x Grad Celsius, so steigen die lokalen Temperaturen in der Schweiz um fast das Doppelte an», schreibt unser Autor Simon Schmid in [Unser doppeltes Klimadilemma](https://www.republik.ch/2018/11/14/unser-doppeltes-klimadilemma): «Also um 2-mal x Grad. So lautet eine wissenschaftliche Faustregel zum Klimawandel, die sich über die vergangenen eineinhalb Jahrhunderte bewährt hat.»
-
-Die Hitzewellen der vergangenen Jahre zeichnen eine Entwicklung vor, die in der Zukunft zur [neuen Normalität](https://www.nytimes.com/2019/06/26/world/europe/europe-heat-wave.html) werden könnte. 
-
-
-<section><h6>DYNAMIC_COMPONENT</h6>
-
-```
-{
-  "autoHtml": true,
-  "props": {
-    "values": [
-      {
-        "label": "CO₂-Austoss pro Kopf",
-        "value": "4.5",
-        "unit": " t",
-        "description": "Emissionen im Inland",
-        "source": {
-          "name": "Bafu",
-          "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040",
-          "date": "2015"
-        },
-        "color": "rgb(8,48,107)"
-      },
-      {
-        "label": "Treibhausgas-Fussabdruck",
-        "value": "14",
-        "unit": " t",
-        "description": "Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums",
-        "source": {
-          "name": "Bafu",
-          "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040",
-          "date": "2015"
-        },
-        "color": "rgb(8,48,107)"
-      },
-      {
-        "label": "Temperatur",
-        "value": "+2",
-        "unit": "°",
-        "description": "Veränderung der Jahresmitteltemperatur seit 1864",
-        "source": {
-          "name": "MeteoSchweiz",
-          "url": "https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html",
-          "date": "2018"
-        },
-        "color": "rgb(187,21,26)"
-      },
-      {
-        "label": "Gletscher",
-        "value": "–25",
-        "unit": "%",
-        "description": "Veränderung des Eisvolumens der Schweizer Gletscher seit 2000",
-        "source": {
-          "name": "GLAMOS",
-          "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html",
-          "date": "2018"
-        },
-        "color": "rgb(187,21,26)"
-      }
-    ]
-  },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.6",
-  "size": "breakout"
-}
-```
-
-```html
-<style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; flex-wrap: wrap; }@media only screen and (max-width: 767px) {
-  .css-tdv8zt, [data-css-tdv8zt] { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
-}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
-  .css-z781yx, [data-css-z781yx] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
-}@media only screen and (min-width: 1025px) {
-  .css-z781yx, [data-css-z781yx] { width: 25%; padding-left: 0px; }
-}@media only screen and (max-width: 767px) {
-  .css-z781yx, [data-css-z781yx] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
-  .css-1akzvxi, [data-css-1akzvxi] { width: 50%; padding-bottom: 15px; padding-left: 15px; }
-}@media only screen and (min-width: 1025px) {
-  .css-1akzvxi, [data-css-1akzvxi] { width: 25%; padding-left: 15px; }
-}@media only screen and (max-width: 767px) {
-  .css-1akzvxi, [data-css-1akzvxi] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
-  .css-26u5fm, [data-css-26u5fm] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
-}@media only screen and (min-width: 1025px) {
-  .css-26u5fm, [data-css-26u5fm] { width: 25%; padding-left: 15px; }
-}@media only screen and (max-width: 767px) {
-  .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">4.5</span><span data-css-15r0nsi=""> t</span></div><div data-css-1tzx89f="">Emissionen im Inland</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">Treibhausgas-Fussabdruck</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">14</span><span data-css-15r0nsi=""> t</span></div><div data-css-1tzx89f="">Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperatur</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+2</span><span data-css-15r0nsi="">°</span></div><div data-css-1tzx89f="">Veränderung der Jahresmitteltemperatur seit 1864</div><div><span data-css-18yx3y4=""><a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Gletscher</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">–25</span><span data-css-15r0nsi="">%</span></div><div data-css-1tzx89f="">Veränderung des Eisvolumens der Schweizer Gletscher seit 2000</div><div><span data-css-18yx3y4=""><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html">GLAMOS, 2018</a></span></div></div></div></div>
-```
 
 <hr /></section>
 
