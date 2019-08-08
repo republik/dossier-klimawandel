@@ -3012,6 +3012,29 @@ Von Florian Oegerli, 05.08.2019
 <hr /></section>
 
 
+-<hr /></section>
+
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "autoHtml": false,
+  "props": {
+    "item": {
+      "color": "#fff",
+      "author": "Von Elia Blülle, 15.03.2019",
+      "url": "https://www.republik.ch/2019/03/15/no-future-das-war-gestern",
+      "title": "No future, das war gestern",
+      "split": true,
+      "type": "Beitrag",
+      "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-aufstand-der-streber/images/bab62c96339c128d7e88d2288c92b7097b07deb8.jpeg",
+      "lead": "Tausende Schweizer Schülerinnen und Schüler streiken für den Klimaschutz. Warum sind die Proteste so erfolgreich, wie werden sie überleben – und was können sie bewirken?",
+      "bgColor": "#47C8F0"
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
+}
+```
 
 <hr /></section>
 
