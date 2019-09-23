@@ -383,24 +383,6 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt das Gas _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 _vervierfacht_, auf rund 36 Gigatonnen. [Gemäss der Internationalen Energiagentur](https://www.iea.org/statistics/co2emissions/) gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion. 
 
-<section><h6>INFOBOX</h6>
-
-```
-{
-  "size": "float"
-}
-```
-
-### Glossar
-
-a**nthropogen:** durch den Menschen beeinflusst, verursacht. 
-
-**Treibhausgas:** Nur Kohlendioxid CO₂, Methan CH₄ und Lachgas N₂O spielen in der Klima-Diskussion eine Rolle. Bei Vergleichen werden alle Gase in bezüglich Wärmewirkung äquivalente Mengen CO₂ umgerechnet.
-
-**Emissionen:** Durch menschliche Aktivität in die Atmosphäre gelangtes Treibhausgas. «Graue Emissionen» entstehen beim Konsum von im Ausland produzierten Gütern.
-
-<hr /></section>
-
 Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller seit 1960 enstandenen Emissionen – obwohl in diesem Zeitraum ihr Anteil an der Weltbevölkerung nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. 
 
 Betrachtet man [alle seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1.58 Billionen Tonnen CO₂-Emissionen, dann haben die USA davon ein Viertel und China ein Achtel zu verantworten.
@@ -1466,142 +1448,6 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementar
 <hr /></section>
 
 Legt man das [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) der CO₂-Konzentration über die historische Zeitreihe der Temperatur, dann wird sichtbar, wie stark diese beiden Grössen verknüpft sind. Zudem drängt sich auf, welche Richtung die Kurve der Temperatur in den nächsten Jahren einschlagen wird: nach oben.
-
-Die Ursache früherer Temperatur-Anstiege seien subtile Rückkoppelungsprozesse, schreibt Bastani. «Wie so oft lässt sich ein bestimmtes Phänomen im komplexen Gebilde des Erdklimas also nicht durch eine einzelne Ursache erklären. … Wir haben es also mit einer Verschachtelung mehrerer Verstärkungs­prozesse zu tun. … Der Mensch setzt mit seinem CO₂-Ausstoss also ein Gleich­gewicht ausser Kraft, das auf dem Zusammen­spiel von Erde und Sonne beruht.»
-
-<section><h6>QUOTE</h6>
-
-<section><h6>FIGURE</h6>
-
-![](images/236138b2bfe7d0c7b7b6f2f1416a53c5738d6ffb.png?size=665x577)
-
-_Christian Werner_
-
-<hr /></section>
-
-«Eine Hitzewelle wie diejenige von 2017 erwartet uns das nun alle zehn Jahre.»
-
-Die Physikerin Friederike Otto im [Interview mit der Republik](https://github.com/republik/article-inti-friederike-otto?autoSlug "«Extrem ist das neue Normal»"), 17.04.2019
-
-<hr /></section>
-
-Verheerende Stürme, Überschwemmungen, sengende Hitze: Kann man bei Wetterkatastrophen die Schuldigen ermitteln? «Extrem ist das neue Normal», sagt Physikerin Friederike Otto im [Interview mit der Republik](https://github.com/republik/article-inti-friederike-otto?autoSlug "«Extrem ist das neue Normal»"). Sie forscht auf dem Gebiet der _Attribution Science_, die darum bemüht ist, kausale Zusammenhänge zwischen Klimawandel und Extremwetter­ereignissen beweisen zu können.
-
-<section><h6>ARTICLECOLLECTION</h6>
-
-```
-{
-  "membersOnly": false,
-  "unauthorizedText": ""
-}
-```
-
-## Die ganz lange Sicht auf die globale Erwärmung
-
-<section><h6>TEASERGROUP</h6>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "formatColor": "#08809A",
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-ein-120-000-jahre-rekord?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
-  "titleSize": "standard",
-  "id": "O4b1BvaN-",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-###### Auf lange Sicht
-
-# Höchste Temperatur seit 120’000 Jahren gemessen!
-
-## 
-
-#### Wir analysieren Temperatur­daten aus den vergangenen Jahrtausenden – und zeigen, wie der Mensch gerade die nächste Eiszeit verhindert.
-
-Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e), 03.06.2019
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "formatColor": "#08809A",
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-klima-temperaturen?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
-  "titleSize": "standard",
-  "id": "nuFpFoL1XV",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-###### Auf lange Sicht
-
-# Wie El Niño und Vulkane das Klima beeinflussen
-
-## 
-
-#### Warum die Erdtemperatur schwankt: zwei Betrachtungen über 150 und 1500 Jahre.
-
-Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e "Arian Bastani"), 06.05.2019
-
-<hr /></section>
-
-<hr /></section>
-
-<hr /></section>
-
-
-
-<hr /></section>
-
-<section><h6>DYNAMIC_COMPONENT</h6>
-
-```
-{
-  "autoHtml": false,
-  "props": {
-    "item": {
-      "color": "#FCFDDB",
-      "header": "Serie Wissenschaftsgeschichte des Klimawandels",
-      "author": "Von <a href='/~abastani'>Arian Bastiani</a>, 4.12. – 27.17.2018",
-      "url": "https://www.republik.ch/2018/12/05/geheimnisvolle-strahlen",
-      "title": "Geheimnisvolle Strahlen",
-      "textPosition": "topleft",
-      "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-klima-forschungsgeschichte-teil-1/images/2b0b82cc16d0baaf0491b5bf1e6e70c72cb435d3.jpeg",
-      "lead": "Wie die Klimaforschung von der Entdeckung des Treibhauseffekts im 19. Jahrhundert den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen."
-    }
-  },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
-}
-```
-
-<hr /></section>
-
-<section><h6>CENTER</h6>
 
 ## Schweiz
 
@@ -2737,6 +2583,33 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 Wie schnell muss die Schweiz ihre Treibhausgasemissionen reduzieren, um die internationalen Klimaziele zu erreichen? 
 
 Simon Schmid erläutert in einem «[kleinen Einmaleins der Klimapolitik](https://www.republik.ch/2018/11/26/das-kleine-einmaleins-der-klimapolitik)» die Szenarien: «Um die grössten Schäden im Zuge des Klimawandels zu verhindern, muss der globale Ausstoss möglichst bald auf null sinken. So schreiben es die Wissenschaftler des Weltklimarates in ihren Berichten. Die Frist dafür läuft bis 2050. Ab diesem Zeitpunkt sollte unter dem Strich, also nach Abzug von CO₂-senkenden Massnahmen wie etwa der Aufforstung, kein Gramm Kohlendioxid mehr in die Atmosphäre entweichen.» Damit die Welt bis Mitte des Jahrhunderts auf null Emissionen komme, müsse jedes einzelne Land seine Emissionen herunterfahren – auch die Schweiz.
+
+<hr /></section>
+
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "autoHtml": false,
+  "props": {
+    "item": {
+      "color": "#FCFDDB",
+      "header": "Serie Wissenschaftsgeschichte des Klimawandels",
+      "author": "Von <a href='/~abastani'>Arian Bastiani</a>, 4.12. – 27.17.2018",
+      "url": "https://www.republik.ch/2018/12/05/geheimnisvolle-strahlen",
+      "title": "Geheimnisvolle Strahlen",
+      "textPosition": "topleft",
+      "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-klima-forschungsgeschichte-teil-1/images/2b0b82cc16d0baaf0491b5bf1e6e70c72cb435d3.jpeg",
+      "lead": "Wie die Klimaforschung von der Entdeckung des Treibhauseffekts im 19. Jahrhundert den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen."
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
+}
+```
+
+<hr /></section>
+
+<section><h6>CENTER</h6>
 
 <section><h6>ARTICLECOLLECTION</h6>
 
