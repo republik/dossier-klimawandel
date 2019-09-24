@@ -137,7 +137,7 @@ Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtige
 }
 ```
 
-### ￼Jährlicher CO₂-Ausstoss nach Region
+### Jährlicher CO₂-Ausstoss nach Region
 
 
 
@@ -2278,8 +2278,6 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 01.07.201
 <hr /></section>
 
 <section><h6>CENTER</h6>
-
-
 
 <section><h6>ARTICLECOLLECTION</h6>
 
