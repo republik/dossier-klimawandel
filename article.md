@@ -22,7 +22,7 @@ Letzte Aktualisierung: 25.09.2019
 
 <section><h6>CENTER</h6>
 
-Die Klimawandel ist eine Realität – und dass er zu einem grossen Teil menschengemacht ist, [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Der _Weltklimarat_ IPCC stellt in seinem [Bericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klimasystem ist klar und die jüngsten anthropogenen Emissionen von Treibhausgasen sind die höchsten in der Geschichte. Die jüngsten Klimaänderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
+Die Klimawandel ist eine Realität – und dass er zu einem grossen Teil menschengemacht ist, [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Der Weltklimarat IPCC stellt in seinem [Bericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klimasystem ist klar und die jüngsten anthropogenen Emissionen von Treibhausgasen sind die höchsten in der Geschichte. Die jüngsten Klimaänderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -112,7 +112,7 @@ Die Klimawandel ist eine Realität – und dass er zu einem grossen Teil mensche
 
 <hr /></section>
 
-Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Eine wichtige Rolle spielt dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den natürlichen Treibhauseffekt, in dem er zum Beispiel durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
+Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Eine wichtige Rolle spielt dabei der Treibhauseffekt: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch Treibhausgase absorbiert, anstatt dass sie ins Weltall entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den natürlichen Treibhauseffekt, in dem er zum Beispiel durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
 
 <section><h6>CHART</h6>
 
@@ -381,7 +381,7 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 auf rund 36 Gigatonnen _vervierfacht_. [Laut Internationaler Energiagentur](https://www.iea.org/statistics/co2emissions/) gingen davon 2014 rund 42 Prozent auf das Konto der Strom- und Wärmeproduktion. 
+Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt Kohlendioxid. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 auf rund 36 Gigatonnen vervierfacht. [Laut Internationaler Energiagentur](https://www.iea.org/statistics/co2emissions/) gingen davon 2014 rund 42 Prozent auf das Konto der Strom- und Wärmeproduktion. 
 
 Kumuliert entfallen auf die EU und die USA rund 40 Prozent aller seit 1960 entstandenen Emissionen – obwohl ihr Anteil an der Weltbevölkerung in diesem Zeitraum nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. Auf [alle seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1,58 Billionen Tonnen CO<sub>2</sub> sind die USA für einen Viertel und China für einen Achtel verantwortlich.
 
@@ -934,7 +934,7 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementar
 
 <hr /></section>
 
-Legt man das [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) der CO₂-Konzentration über die historische Zeitreihe der Temperatur, wird sichtbar, wie stark diese beiden Grössen verknüpft sind. Zudem zeigt sich auch, welche Richtung die Kurve der Temperatur in den nächsten Jahren einschlagen wird: nach oben.
+Legt man das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) der CO₂-Konzentration über die historische Zeitreihe der Temperatur, wird sichtbar, wie stark diese beiden Grössen verknüpft sind. Zudem zeigt sich auch, welche Richtung die Kurve der Temperatur in den nächsten Jahren einschlagen wird: nach oben.
 
 ## Schweiz
 
@@ -1318,7 +1318,7 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikat
 
 <hr /></section>
 
-Den grössten Beitrag zu den CO<sub>2</sub>-Emissionen in der Schweiz hat mit rund 32 Prozent der _Verkehr_ (ohne Flugverkehr). Die Sektoren _Gebäude_ und _Industrie_ verursachen je rund einen Viertel. Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen in den Sektoren Gebäude und Industrie um 26 Prozent beziehungsweise 18 Prozent gegenüber 1990 gesenkt werden. Beim Verkehr sind die _Personenwagen_ mit [75 Prozent der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) klar Spitzenreiter.
+Den grössten Beitrag zu den CO<sub>2</sub>-Emissionen in der Schweiz hat mit rund 32 Prozent der Verkehr (ohne Flugverkehr). Die Sektoren Gebäude und Industrie verursachen je rund einen Viertel. Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen in den Sektoren Gebäude und Industrie um 26 Prozent beziehungsweise 18 Prozent gegenüber 1990 gesenkt werden. Beim Verkehr sind die Personenwagen mit [75 Prozent der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) klar Spitzenreiter.
 
 <section><h6>CHART</h6>
 
@@ -1668,7 +1668,7 @@ Quelle: [Meteo Schweiz](https://www.meteoschweiz.admin.ch/home/klima/schweizer-k
 
 ### Zum Dossier Klimakrise
 
-Das Dossier bündelt die wichtigsten Fakten zum Klimawandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwerpunkt des Dossiers liegt auf der Präsentation von Daten aus Primärquellen und in der Zusammenstellung von ausgewählten Beiträgen der Republik. Alle Quellen und Originaldaten, sowie die Methoden ihrer Aufbereitung, sind [hier dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/).
+Das Dossier bündelt die wichtigsten Fakten zum Klimawandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwerpunkt liegt auf der Präsentation von Daten aus Primärquellen und in der Zusammenstellung von ausgewählten Beiträgen der Republik. Alle Quellen und Originaldaten, sowie die Methoden ihrer Aufbereitung, sind [hier dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/).
 
 <hr /></section>
 
