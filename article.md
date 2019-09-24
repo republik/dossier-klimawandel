@@ -10,7 +10,7 @@ description: ''
 
 <section><h6>TITLE</h6>
 
-# Klimawandel
+# Die Klimakrise
 
 ## 
 
@@ -22,7 +22,7 @@ Letzte Aktualisierung: 07.09.2019
 
 <section><h6>CENTER</h6>
 
-Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengemacht ist, ist [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Der _Weltklimarat_ IPCC stellt in seinem [Synthesebericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klimasystem ist klar und die jüngsten anthropogenen Emissionen von Treibhausgasen sind die höchsten in der Geschichte. Die jüngsten Klimaänderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
+Die Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengemacht ist, ist [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Der _Weltklimarat_ IPCC stellt in seinem [Synthesebericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klimasystem ist klar und die jüngsten anthropogenen Emissionen von Treibhausgasen sind die höchsten in der Geschichte. Die jüngsten Klimaänderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -112,7 +112,7 @@ Der Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengem
 
 <hr /></section>
 
-Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch _verstärkt den natürlichen Treibhauseffekt_, in dem er beispielsweise durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
+Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den natürlichen Treibhauseffekt, in dem er beispielsweise durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
 
 <section><h6>CHART</h6>
 
@@ -137,9 +137,9 @@ Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtige
 }
 ```
 
-### Aufholjagd
+### ￼Jährlicher CO₂-Ausstoss nach Region
 
-Jährlicher CO₂-Ausstoss nach Region
+
 
 ```
 year,label,value
@@ -383,15 +383,7 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt das Gas _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 _vervierfacht_, auf rund 36 Gigatonnen. [Gemäss der Internationalen Energiagentur](https://www.iea.org/statistics/co2emissions/) gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion. 
 
-Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller seit 1960 enstandenen Emissionen – obwohl in diesem Zeitraum ihr Anteil an der Weltbevölkerung nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. 
-
-Betrachtet man [alle seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1.58 Billionen Tonnen CO₂-Emissionen, dann haben die USA davon ein Viertel und China ein Achtel zu verantworten.
-
-Bei den _Emissionen pro Kopf_ liegt der weltweite Durchschnitt bei 4.8 Tonnen CO₂ – allerdings verbirgt dieser Wert ein starkes Ungleichgewicht: So betrug er 2017 in Indien lediglich 1.8 Tonnen, in den Industrieländern der OECD jedoch fast fünfmal soviel. Auch das Wachstum der Emissionen pro Person ist ungleich verteilt: In Indien haben sie sich in den letzten fünfzig Jahren verdoppelt, in China mehr als verzehnfacht.
-
-## Zusammenhänge
-
-«Man sieht sofort, wie die beiden Dinge zusammenhängen: Temperatur und Kohlen­dioxid», schreibt Republik-Autor Arian Bastani in seiner [Analyse historischer Temperatur­daten](https://www.republik.ch/2019/06/03/hoechste-tempertur-seit-120-000-jahren-gemessen). «Das ist kein Zufall, denn CO₂ ist ein Treibhaus­gas – je mehr es davon in der Atmosphäre hat, desto mehr abstrahlende Erdwärme wird zurückgehalten. Treibhaus­gase sind wie eine Decke um den Planeten.»
+Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller seit 1960 enstandenen Emissionen – obwohl in diesem Zeitraum ihr Anteil an der Weltbevölkerung nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. Betrachtet man [alle seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1.58 Billionen Tonnen CO₂-Emissionen, dann haben die USA davon ein Viertel und China ein Achtel zu verantworten.
 
 <section><h6>CHART</h6>
 
@@ -423,7 +415,8 @@ Bei den _Emissionen pro Kopf_ liegt der weltweite Durchschnitt bei 4.8 Tonnen C
     "rgb(187,21,26)",
     "rgb(8,48,107)"
   ],
-  "endLabel": false
+  "endLabel": false,
+  "size": "breakout"
 }
 ```
 
@@ -1451,7 +1444,7 @@ Legt man das [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r
 
 ## Schweiz
 
-Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas-Emissionen im Inland von 5.6 Tonnen pro Kopf (davon 4.5 Tonnen CO₂).  [Laut dem Treibhausgasinventar des Bundesamtes für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) Emissionen sind seit 1990 um 12% gesunken. Doch der Schein trügt: Rechnet man den durch importierte Güter verursachten «Grauen Emissionen» hinzu, dann liegt unser Land mit diesem «Treibhausgas-Fussabdruck» von 14 Tonnen CO₂-Äquivalenten weit über dem weltweiten Durchschnitt von 6 Tonnen.
+Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas-Emissionen im Inland von 5.6 Tonnen pro Kopf (davon 4.5 Tonnen CO₂).  [Laut dem Treibhausgasinventar des Bundesamtes für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) Emissionen sind seit 1990 um 12% gesunken. Doch der Schein trügt: Rechnet man den durch importierte Güter verursachten «Grauen Emissionen» hinzu, dann liegt unser Land mit diesem «Treibhausgas-Fussabdruck» von 14 Tonnen CO₂-Äquivalenten weit über dem weltweiten Durchschnitt von 6 Tonnen.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -1485,7 +1478,7 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
         "color": "rgb(8,48,107)"
       },
       {
-        "label": "Temperatur",
+        "label": "Temperaturanstieg",
         "value": "+2",
         "unit": "°",
         "description": "Veränderung der Jahresmitteltemperatur seit 1864",
@@ -1497,7 +1490,7 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
         "color": "rgb(187,21,26)"
       },
       {
-        "label": "Gletscher",
+        "label": "Gletscherschwund",
         "value": "–25",
         "unit": "%",
         "description": "Veränderung des Eisvolumens der Schweizer Gletscher seit 2000",
@@ -1536,13 +1529,13 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
   .css-26u5fm, [data-css-26u5fm] { width: 25%; padding-left: 15px; }
 }@media only screen and (max-width: 767px) {
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-15r0nsi, [data-css-15r0nsi] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; letter-spacing: -0.26px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">4.5</span><span data-css-15r0nsi=""> t</span></div><div data-css-1tzx89f="">Emissionen im Inland</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">Treibhausgas-Fussabdruck</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">14</span><span data-css-15r0nsi=""> t</span></div><div data-css-1tzx89f="">Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperatur</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">+2</span><span data-css-15r0nsi="">°</span></div><div data-css-1tzx89f="">Veränderung der Jahresmitteltemperatur seit 1864</div><div><span data-css-18yx3y4=""><a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Gletscher</div><div data-css-c1cd9h=""><span data-css-15r0nsi="">–25</span><span data-css-15r0nsi="">%</span></div><div data-css-1tzx89f="">Veränderung des Eisvolumens der Schweizer Gletscher seit 2000</div><div><span data-css-18yx3y4=""><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html">GLAMOS, 2018</a></span></div></div></div></div>
+}.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
+<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.5</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f="">Emissionen im Inland</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">Treibhausgas-Fussabdruck</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">14</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f="">Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+2</span><span data-css-1dsf54m="">°</span></div><div data-css-1tzx89f="">Veränderung der Jahresmitteltemperatur seit 1864</div><div><span data-css-18yx3y4=""><a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Gletscherschwund</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">–25</span><span data-css-1dsf54m="">%</span></div><div data-css-1tzx89f="">Veränderung des Eisvolumens der Schweizer Gletscher seit 2000</div><div><span data-css-18yx3y4=""><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html">GLAMOS, 2018</a></span></div></div></div></div>
 ```
 
 <hr /></section>
 
-Die Schweiz ist vom Klimawandel stark betroffen. Die Durchschnittstemperatur hat hierzulande seit 1864 mit 2° um doppelt soviel zugenommen wie im globalen Durchschnitt. «Erwärmt sich die Erde um x Grad Celsius, so steigen die lokalen Temperaturen in der Schweiz um fast das Doppelte an», schreibt unser Autor Simon Schmid in [Unser doppeltes Klimadilemma](https://www.republik.ch/2018/11/14/unser-doppeltes-klimadilemma): «Also um 2-mal x Grad. So lautet eine wissenschaftliche Faustregel zum Klimawandel, die sich über die vergangenen eineinhalb Jahrhunderte bewährt hat.»
+Die Schweiz ist vom Klimawandel stark betroffen. Die Durchschnittstemperatur hat hierzulande seit 1864 mit 2° um doppelt soviel zugenommen wie im globalen Durchschnitt.
 
 <section><h6>CHART</h6>
 
@@ -1568,7 +1561,7 @@ Die Schweiz ist vom Klimawandel stark betroffen. Die Durchschnittstemperatur hat
 
 ### Der Scheinzwerg
 
-CO₂-Ausstoss pro Einwohner in der Schweiz und den Nachbarländern
+CO₂-Ausstoss pro Einwohner in der Schweiz und in den Nachbarländern
 
 ```
 year,label,value
@@ -1868,11 +1861,7 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. 
-
-Je nachdem, ob und  in welchem Ausmass Klimaschutz-Massnahmen getroffen werden, sind die Auswirkungen mehr oder weniger stark. «Eine umfassende Senkung des weltweiten Treibhausgasausstosses», heisst es in der [Broschüre](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien/broschuere-bestellen.html), «könnte den zukünftigen Klimawandel eindämmen. So liesse sich bis Mitte des 21. Jahrhunderts rund die Hälfte, bis Ende  Jahrhundert zwei Drittel der möglichen Klimaveränderungen in der Schweiz vermeiden.»
-
-Findet kein wirksamer Klimaschutz statt, drohen Folgen: trockenere Sommer, schneearme Winter, mehr Hitztage und heftige Niederschläge.
+Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Findet kein wirksamer Klimaschutz statt, drohen Folgen: trockenere Sommer, schneearme Winter, mehr Hitztage und heftige Niederschläge.
 
 <section><h6>CHART</h6>
 
@@ -1941,9 +1930,7 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Den grössten Beitrag zu den Emissionen in der Schweiz hat mit 32% der _Verkehr_ (ohne Flugverkehr), die Sektoren _Gebäude_ und _Industrie_ verursachen je rund ein Viertel.
-
-Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen der Sektoren Gebäude und Industrie um 26% bzw. 18% gegenüber 1990 gesenkt werden. Bei den Verkehrsmitteln sind die _Personenwagen_ mit [75% der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) klar Spitzenreiter. 
+Den grössten Beitrag zu den Emissionen in der Schweiz hat mit 32% der _Verkehr_ (ohne Flugverkehr), die Sektoren _Gebäude_ und _Industrie_ verursachen je rund ein Viertel. Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen der Sektoren Gebäude und Industrie um 26% bzw. 18% gegenüber 1990 gesenkt werden. Bei den Verkehrsmitteln sind die _Personenwagen_ mit [75% der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) klar Spitzenreiter. 
 
 <section><h6>CHART</h6>
 
@@ -2108,481 +2095,7 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikat
 
 <hr /></section>
 
-Im Beitrag «[Eine kleine Energiegeschichte](https://www.republik.ch/2019/07/01/eine-kleine-energiegeschichte)» wirft unser Autor Simon Schmid einen Blick auf die Frage, wie die Schweiz in nur 100 Jahren zum Vielverbraucher fossiler Treibstoffe wurde. Er erkennt in diesem Zeitraum drei Phasen: das _Kohlezeitalter_ im 18. Jahrhundert, den _Ölboom_ nach dem Zweiten Weltkrieg, und die bis heute dauernde _Umschichtung_: «Die Jahrzehnte seit dem Ölschock lassen sich im Rückblick somit als Phase begreifen, in denen ein zaghafter Umbau des Energie­systems begonnen hat. Das erste Element dieses Umbaus ist: ein grösserer Fokus auf Effizienz.» 
 
-<section><h6>CHART</h6>
-
-```
-{
-  "type": "Line",
-  "color": "category",
-  "x": "date",
-  "numberFormat": ".1f",
-  "yNice": 0,
-  "yTicks": [
-    0,
-    20,
-    40,
-    60
-  ],
-  "colorRange": [
-    "#444444",
-    "#ff7f0e",
-    "#d62728",
-    "#e377c2",
-    "#9467bd",
-    "#1f77b4",
-    "#17becf",
-    "#bcbd22",
-    "#2ca02c"
-  ],
-  "colorSort": "none",
-  "stroke": "datum.category[0] == '-'",
-  "xTicks": [
-    1990,
-    2016,
-    2041,
-    2050,
-    2066,
-    2080
-  ],
-  "endLabel": false,
-  "labelFilter": "false",
-  "colorLegendValues": [
-    "bisherige Entwicklung",
-    "-0.5%",
-    "-1%",
-    "-1.5%",
-    "-2%",
-    "-2.5%",
-    "-3%",
-    "-3.5%",
-    "-4% pro Jahr"
-  ],
-  "unit": "Millionen Tonnen CO2-Äquivalente"
-}
-```
-
-### Minus 3 Prozent sind nötig für das Ziel
-
-Treibhausgasausstoss der Schweiz: bisherige Entwicklung und mögliche Absenkpfade
-
-```
-date,category,value
-1990,bisherige Entwicklung,53.59
-1991,bisherige Entwicklung,55.44
-1992,bisherige Entwicklung,55.18
-1993,bisherige Entwicklung,52.51
-1994,bisherige Entwicklung,51.49
-1995,bisherige Entwicklung,52.33
-1996,bisherige Entwicklung,53.01
-1997,bisherige Entwicklung,51.78
-1998,bisherige Entwicklung,53.39
-1999,bisherige Entwicklung,53.13
-2000,bisherige Entwicklung,52.36
-2001,bisherige Entwicklung,53.94
-2002,bisherige Entwicklung,52.34
-2003,bisherige Entwicklung,53.5
-2004,bisherige Entwicklung,54.13
-2005,bisherige Entwicklung,54.73
-2006,bisherige Entwicklung,54.41
-2007,bisherige Entwicklung,52.48
-2008,bisherige Entwicklung,54.01
-2009,bisherige Entwicklung,52.66
-2010,bisherige Entwicklung,54.24
-2011,bisherige Entwicklung,50.19
-2012,bisherige Entwicklung,51.53
-2013,bisherige Entwicklung,52.38
-2014,bisherige Entwicklung,48.46
-2015,bisherige Entwicklung,47.91
-2016,bisherige Entwicklung,48.29
-2016,-0.5%,48.29
-2016,-1%,48.29
-2016,-1.5%,48.29
-2016,-2%,48.29
-2016,-2.5%,48.29
-2016,-3%,48.29
-2016,-3.5%,48.29
-2016,-4% pro Jahr,48.29
-2017,-0.5%,48.04855
-2017,-1%,47.8071
-2017,-1.5%,47.56565
-2017,-2%,47.3242
-2017,-2.5%,47.08275
-2017,-3%,46.8413
-2017,-3.5%,46.599849999999996
-2017,-4% pro Jahr,46.358399999999996
-2018,-0.5%,47.8071
-2018,-1%,47.3242
-2018,-1.5%,46.8413
-2018,-2%,46.358399999999996
-2018,-2.5%,45.875499999999995
-2018,-3%,45.392599999999995
-2018,-3.5%,44.909699999999994
-2018,-4% pro Jahr,44.42679999999999
-2019,-0.5%,47.56565
-2019,-1%,46.8413
-2019,-1.5%,46.116949999999996
-2019,-2%,45.392599999999995
-2019,-2.5%,44.66824999999999
-2019,-3%,43.94389999999999
-2019,-3.5%,43.21954999999999
-2019,-4% pro Jahr,42.49519999999999
-2020,-0.5%,47.3242
-2020,-1%,46.358399999999996
-2020,-1.5%,45.392599999999995
-2020,-2%,44.42679999999999
-2020,-2.5%,43.46099999999999
-2020,-3%,42.49519999999999
-2020,-3.5%,41.52939999999999
-2020,-4% pro Jahr,40.56359999999999
-2021,-0.5%,47.08275
-2021,-1%,45.875499999999995
-2021,-1.5%,44.66824999999999
-2021,-2%,43.46099999999999
-2021,-2.5%,42.25374999999999
-2021,-3%,41.04649999999999
-2021,-3.5%,39.839249999999986
-2021,-4% pro Jahr,38.631999999999984
-2022,-0.5%,46.8413
-2022,-1%,45.392599999999995
-2022,-1.5%,43.94389999999999
-2022,-2%,42.49519999999999
-2022,-2.5%,41.04649999999999
-2022,-3%,39.597799999999985
-2022,-3.5%,38.14909999999998
-2022,-4% pro Jahr,36.70039999999998
-2023,-0.5%,46.599849999999996
-2023,-1%,44.909699999999994
-2023,-1.5%,43.21954999999999
-2023,-2%,41.52939999999999
-2023,-2.5%,39.839249999999986
-2023,-3%,38.14909999999998
-2023,-3.5%,36.45894999999998
-2023,-4% pro Jahr,34.76879999999998
-2024,-0.5%,46.358399999999996
-2024,-1%,44.42679999999999
-2024,-1.5%,42.49519999999999
-2024,-2%,40.56359999999999
-2024,-2.5%,38.631999999999984
-2024,-3%,36.70039999999998
-2024,-3.5%,34.76879999999998
-2024,-4% pro Jahr,32.837199999999974
-2025,-0.5%,46.116949999999996
-2025,-1%,43.94389999999999
-2025,-1.5%,41.77084999999999
-2025,-2%,39.597799999999985
-2025,-2.5%,37.42474999999998
-2025,-3%,35.25169999999998
-2025,-3.5%,33.078649999999975
-2025,-4% pro Jahr,30.905599999999975
-2026,-0.5%,45.875499999999995
-2026,-1%,43.46099999999999
-2026,-1.5%,41.04649999999999
-2026,-2%,38.631999999999984
-2026,-2.5%,36.21749999999998
-2026,-3%,33.802999999999976
-2026,-3.5%,31.388499999999976
-2026,-4% pro Jahr,28.973999999999975
-2027,-0.5%,45.634049999999995
-2027,-1%,42.97809999999999
-2027,-1.5%,40.322149999999986
-2027,-2%,37.66619999999998
-2027,-2.5%,35.01024999999998
-2027,-3%,32.354299999999974
-2027,-3.5%,29.698349999999976
-2027,-4% pro Jahr,27.042399999999976
-2028,-0.5%,45.392599999999995
-2028,-1%,42.49519999999999
-2028,-1.5%,39.597799999999985
-2028,-2%,36.70039999999998
-2028,-2.5%,33.802999999999976
-2028,-3%,30.905599999999975
-2028,-3.5%,28.008199999999977
-2028,-4% pro Jahr,25.110799999999976
-2029,-0.5%,45.151149999999994
-2029,-1%,42.01229999999999
-2029,-1.5%,38.873449999999984
-2029,-2%,35.73459999999998
-2029,-2.5%,32.595749999999974
-2029,-3%,29.456899999999976
-2029,-3.5%,26.318049999999978
-2029,-4% pro Jahr,23.179199999999977
-2030,-0.5%,44.909699999999994
-2030,-1%,41.52939999999999
-2030,-1.5%,38.14909999999998
-2030,-2%,34.76879999999998
-2030,-2.5%,31.388499999999976
-2030,-3%,28.008199999999977
-2030,-3.5%,24.62789999999998
-2030,-4% pro Jahr,21.247599999999977
-2031,-0.5%,44.66824999999999
-2031,-1%,41.04649999999999
-2031,-1.5%,37.42474999999998
-2031,-2%,33.802999999999976
-2031,-2.5%,30.181249999999977
-2031,-3%,26.55949999999998
-2031,-3.5%,22.93774999999998
-2031,-4% pro Jahr,19.315999999999978
-2032,-0.5%,44.42679999999999
-2032,-1%,40.56359999999999
-2032,-1.5%,36.70039999999998
-2032,-2%,32.837199999999974
-2032,-2.5%,28.97399999999998
-2032,-3%,25.11079999999998
-2032,-3.5%,21.24759999999998
-2032,-4% pro Jahr,17.384399999999978
-2033,-0.5%,44.18534999999999
-2033,-1%,40.080699999999986
-2033,-1.5%,35.97604999999998
-2033,-2%,31.871399999999973
-2033,-2.5%,27.76674999999998
-2033,-3%,23.66209999999998
-2033,-3.5%,19.55744999999998
-2033,-4% pro Jahr,15.452799999999979
-2034,-0.5%,43.94389999999999
-2034,-1%,39.597799999999985
-2034,-1.5%,35.25169999999998
-2034,-2%,30.90559999999997
-2034,-2.5%,26.559499999999982
-2034,-3%,22.213399999999982
-2034,-3.5%,17.867299999999982
-2034,-4% pro Jahr,13.521199999999979
-2035,-0.5%,43.70244999999999
-2035,-1%,39.114899999999984
-2035,-1.5%,34.52734999999998
-2035,-2%,29.93979999999997
-2035,-2.5%,25.352249999999984
-2035,-3%,20.764699999999984
-2035,-3.5%,16.177149999999983
-2035,-4% pro Jahr,11.58959999999998
-2036,-0.5%,43.46099999999999
-2036,-1%,38.631999999999984
-2036,-1.5%,33.802999999999976
-2036,-2%,28.97399999999997
-2036,-2.5%,24.144999999999985
-2036,-3%,19.315999999999985
-2036,-3.5%,14.486999999999984
-2036,-4% pro Jahr,9.65799999999998
-2037,-0.5%,43.21954999999999
-2037,-1%,38.14909999999998
-2037,-1.5%,33.078649999999975
-2037,-2%,28.008199999999967
-2037,-2.5%,22.937749999999987
-2037,-3%,17.867299999999986
-2037,-3.5%,12.796849999999985
-2037,-4% pro Jahr,7.72639999999998
-2038,-0.5%,42.97809999999999
-2038,-1%,37.66619999999998
-2038,-1.5%,32.354299999999974
-2038,-2%,27.042399999999965
-2038,-2.5%,21.73049999999999
-2038,-3%,16.418599999999987
-2038,-3.5%,11.106699999999986
-2038,-4% pro Jahr,5.794799999999981
-2039,-0.5%,42.73664999999999
-2039,-1%,37.18329999999998
-2039,-1.5%,31.629949999999972
-2039,-2%,26.076599999999964
-2039,-2.5%,20.52324999999999
-2039,-3%,14.969899999999987
-2039,-3.5%,9.416549999999987
-2039,-4% pro Jahr,3.863199999999981
-2040,-0.5%,42.49519999999999
-2040,-1%,36.70039999999998
-2040,-1.5%,30.90559999999997
-2040,-2%,25.110799999999962
-2040,-2.5%,19.315999999999992
-2040,-3%,13.521199999999986
-2040,-3.5%,7.726399999999987
-2040,-4% pro Jahr,1.9315999999999809
-2041,-0.5%,42.25374999999999
-2041,-1%,36.21749999999998
-2041,-1.5%,30.18124999999997
-2041,-2%,24.14499999999996
-2041,-2.5%,18.108749999999993
-2041,-3%,12.072499999999986
-2041,-3.5%,6.036249999999987
-2041,-4% pro Jahr,-1.9095836023552692e-14
-2042,-0.5%,42.01229999999999
-2042,-1%,35.73459999999998
-2042,-1.5%,29.45689999999997
-2042,-2%,23.17919999999996
-2042,-2.5%,16.901499999999995
-2042,-3%,10.623799999999985
-2042,-3.5%,4.3460999999999865
-2043,-0.5%,41.77084999999999
-2043,-1%,35.25169999999998
-2043,-1.5%,28.732549999999968
-2043,-2%,22.213399999999957
-2043,-2.5%,15.694249999999995
-2043,-3%,9.175099999999984
-2043,-3.5%,2.6559499999999865
-2044,-0.5%,41.52939999999999
-2044,-1%,34.76879999999998
-2044,-1.5%,28.008199999999967
-2044,-2%,21.247599999999956
-2044,-2.5%,14.486999999999995
-2044,-3%,7.726399999999984
-2044,-3.5%,0.9657999999999867
-2045,-0.5%,41.28794999999999
-2045,-1%,34.28589999999998
-2045,-1.5%,27.283849999999966
-2045,-2%,20.281799999999954
-2045,-2.5%,13.279749999999995
-2045,-3%,6.277699999999983
-2045,-3.5%,-0.7243500000000132
-2046,-0.5%,41.04649999999999
-2046,-1%,33.802999999999976
-2046,-1.5%,26.559499999999964
-2046,-2%,19.315999999999953
-2046,-2.5%,12.072499999999994
-2046,-3%,4.828999999999983
-2047,-0.5%,40.80504999999999
-2047,-1%,33.320099999999975
-2047,-1.5%,25.835149999999963
-2047,-2%,18.35019999999995
-2047,-2.5%,10.865249999999994
-2047,-3%,3.3802999999999828
-2048,-0.5%,40.56359999999999
-2048,-1%,32.837199999999974
-2048,-1.5%,25.110799999999962
-2048,-2%,17.38439999999995
-2048,-2.5%,9.657999999999994
-2048,-3%,1.9315999999999827
-2049,-0.5%,40.322149999999986
-2049,-1%,32.354299999999974
-2049,-1.5%,24.38644999999996
-2049,-2%,16.418599999999948
-2049,-2.5%,8.450749999999994
-2049,-3%,0.48289999999998257
-2050,-0.5%,40.080699999999986
-2050,-1%,31.871399999999973
-2050,-1.5%,23.66209999999996
-2050,-2%,15.452799999999948
-2050,-2.5%,7.243499999999994
-2050,-3%,-0.9658000000000175
-2051,-0.5%,39.839249999999986
-2051,-1%,31.388499999999972
-2051,-1.5%,22.93774999999996
-2051,-2%,14.486999999999949
-2051,-2.5%,6.036249999999994
-2052,-0.5%,39.597799999999985
-2052,-1%,30.90559999999997
-2052,-1.5%,22.213399999999957
-2052,-2%,13.521199999999949
-2052,-2.5%,4.8289999999999935
-2053,-0.5%,39.356349999999985
-2053,-1%,30.42269999999997
-2053,-1.5%,21.489049999999956
-2053,-2%,12.555399999999949
-2053,-2.5%,3.6217499999999934
-2054,-0.5%,39.114899999999984
-2054,-1%,29.93979999999997
-2054,-1.5%,20.764699999999955
-2054,-2%,11.58959999999995
-2054,-2.5%,2.414499999999993
-2055,-0.5%,38.873449999999984
-2055,-1%,29.45689999999997
-2055,-1.5%,20.040349999999954
-2055,-2%,10.62379999999995
-2055,-2.5%,1.2072499999999933
-2056,-0.5%,38.631999999999984
-2056,-1%,28.97399999999997
-2056,-1.5%,19.315999999999953
-2056,-2%,9.65799999999995
-2056,-2.5%,-6.661338147750939e-15
-2057,-0.5%,38.39054999999998
-2057,-1%,28.491099999999967
-2057,-1.5%,18.59164999999995
-2057,-2%,8.69219999999995
-2058,-0.5%,38.14909999999998
-2058,-1%,28.008199999999967
-2058,-1.5%,17.86729999999995
-2058,-2%,7.72639999999995
-2059,-0.5%,37.90764999999998
-2059,-1%,27.525299999999966
-2059,-1.5%,17.14294999999995
-2059,-2%,6.76059999999995
-2060,-0.5%,37.66619999999998
-2060,-1%,27.042399999999965
-2060,-1.5%,16.418599999999948
-2060,-2%,5.794799999999951
-2061,-0.5%,37.42474999999998
-2061,-1%,26.559499999999964
-2061,-1.5%,15.694249999999949
-2061,-2%,4.828999999999951
-2062,-0.5%,37.18329999999998
-2062,-1%,26.076599999999964
-2062,-1.5%,14.96989999999995
-2062,-2%,3.863199999999951
-2063,-0.5%,36.94184999999998
-2063,-1%,25.593699999999963
-2063,-1.5%,14.24554999999995
-2063,-2%,2.8973999999999513
-2064,-0.5%,36.70039999999998
-2064,-1%,25.110799999999962
-2064,-1.5%,13.52119999999995
-2064,-2%,1.9315999999999514
-2065,-0.5%,36.45894999999998
-2065,-1%,24.62789999999996
-2065,-1.5%,12.796849999999951
-2065,-2%,0.9657999999999514
-2066,-0.5%,36.21749999999998
-2066,-1%,24.14499999999996
-2066,-1.5%,12.072499999999952
-2066,-2%,-4.8627768478581856e-14
-2067,-0.5%,35.97604999999998
-2067,-1%,23.66209999999996
-2067,-1.5%,11.348149999999952
-2068,-0.5%,35.73459999999998
-2068,-1%,23.17919999999996
-2068,-1.5%,10.623799999999953
-2069,-0.5%,35.49314999999998
-2069,-1%,22.696299999999958
-2069,-1.5%,9.899449999999954
-2070,-0.5%,35.25169999999998
-2070,-1%,22.213399999999957
-2070,-1.5%,9.175099999999954
-2071,-0.5%,35.01024999999998
-2071,-1%,21.730499999999957
-2071,-1.5%,8.450749999999955
-2072,-0.5%,34.76879999999998
-2072,-1%,21.247599999999956
-2072,-1.5%,7.726399999999955
-2073,-0.5%,34.52734999999998
-2073,-1%,20.764699999999955
-2073,-1.5%,7.002049999999954
-2074,-0.5%,34.28589999999998
-2074,-1%,20.281799999999954
-2074,-1.5%,6.277699999999954
-2075,-0.5%,34.044449999999976
-2075,-1%,19.798899999999954
-2075,-1.5%,5.553349999999954
-2076,-0.5%,33.802999999999976
-2076,-1%,19.315999999999953
-2076,-1.5%,4.8289999999999536
-2077,-0.5%,33.561549999999976
-2077,-1%,18.833099999999952
-2077,-1.5%,4.104649999999953
-2078,-0.5%,33.320099999999975
-2078,-1%,18.35019999999995
-2078,-1.5%,3.380299999999953
-2079,-0.5%,33.078649999999975
-2079,-1%,17.86729999999995
-2079,-1.5%,2.6559499999999527
-2080,-0.5%,32.837199999999974
-2080,-1%,17.38439999999995
-2080,-1.5%,1.9315999999999527
-```
-
-Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html). Berücksichtigt sind die Emissionen im Inland, ohne den Flugverkehr und die grauen Emissionen aus importierten Produkten.
-
-<hr /></section>
-
-Wie schnell muss die Schweiz ihre Treibhausgasemissionen reduzieren, um die internationalen Klimaziele zu erreichen? 
-
-Simon Schmid erläutert in einem «[kleinen Einmaleins der Klimapolitik](https://www.republik.ch/2018/11/26/das-kleine-einmaleins-der-klimapolitik)» die Szenarien: «Um die grössten Schäden im Zuge des Klimawandels zu verhindern, muss der globale Ausstoss möglichst bald auf null sinken. So schreiben es die Wissenschaftler des Weltklimarates in ihren Berichten. Die Frist dafür läuft bis 2050. Ab diesem Zeitpunkt sollte unter dem Strich, also nach Abzug von CO₂-senkenden Massnahmen wie etwa der Aufforstung, kein Gramm Kohlendioxid mehr in die Atmosphäre entweichen.» Damit die Welt bis Mitte des Jahrhunderts auf null Emissionen komme, müsse jedes einzelne Land seine Emissionen herunterfahren – auch die Schweiz.
 
 <hr /></section>
 
@@ -2725,7 +2238,7 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 14.11.2018
 
 #### Wie die Schweiz in nur 100 Jahren zum Vielverbraucher fossiler Treibstoffe wurde – und wie sich der Energiehaushalt des Landes in den nächsten Jahrzehnten verändern muss.
 
-Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 01.07.2019
+Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 01.07.201
 
 <hr /></section>
 
@@ -2733,11 +2246,9 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 01.07.2019
 
 <hr /></section>
 
-## Chancen
+## 
 
-Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die innovative, technologisch fortschrittliche Schweizer Wirtschaft – doch Teile von Politik und Gesellschaft verharren in einer Abwehrhaltung. 
 
-«In der Schweiz hingegen bedeuten wärmere Temperaturen längere Vegetationsperioden, und die lassen sich ausnutzen», schreibt Urs Bruderer in [seiner Reportage über den Umgang der Bauern mit den sich wandelnden klimatischen Verhältnissen](https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn): «Doch statt neue Chancen auszuloten, haben viele Bauern den Klimawandel lange verdrängt. Unterstützt hat sie dabei die einstige Bauernpartei SVP, die den Klimawandel auch in ihrem aktuellen Programm kein einziges Mal erwähnt und stattdessen von ‹grünen Ideologen und Umwelttheoretikern› spricht, die ‹mit dauernder Schwarzmalerei den Leuten ein schlechtes Gewissen› einreden wollten.»
 
 <hr /></section>
 
@@ -2768,11 +2279,7 @@ Zwar erkennen weite Teile der Wirtschaft den Klimawandel als Chance für die inn
 
 <section><h6>CENTER</h6>
 
-## Die Jugend muss ran
 
-Unser Autor Elia Blülle beschreibt in seiner [Analyse der jüngsten Klimademonstrationen](https://github.com/republik/article-aufstand-der-streber?autoSlug "No future, das war gestern") durch junge Menschen ein Aufbäumen dieser Generation: «No future, das war gestern. Die Jugend rebelliert wieder und prägt damit die Politik.»  Die Schweizer Jungparteien erlebten ein noch nie da gewesenes Wachstum und gehen auf Konfrontation mit ihren Mutterparteien.
-
-Lorem ipsum
 
 <section><h6>ARTICLECOLLECTION</h6>
 
