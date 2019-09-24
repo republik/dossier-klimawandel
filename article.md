@@ -1590,6 +1590,9 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikat
 
 <hr /></section>
 
+### Über das Dossier «Klimawandel»
+
+Das Dossier «Die Klimakrise» bündelt die wichtigsten Fakten zum Klimwandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwerpunkt des Dossiers liegt auf der Präsentation von Daten aus _Primärquellen_ und in der Zusammenstellung von _ausgewählten Beiträgen_ der Republik. Alle Quellen und Originaldaten, sowie die Methoden ihrer Aufbereitung, sind [ausführlich dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/Dossier%20Klimawandel.ipynb).
 
 
 <hr /></section>
