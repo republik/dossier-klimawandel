@@ -55,7 +55,7 @@ Die Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengem
         "color": "rgb(8,48,107)"
       },
       {
-        "label": "Temperatur",
+        "label": "Temperaturanstieg",
         "value": "+0.8°",
         "unit": "",
         "description": "Abweichung vom langjährigen Durchschnitt 1951–1980",
@@ -107,7 +107,7 @@ Die Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengem
 }@media only screen and (max-width: 767px) {
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
 }.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">409</span><span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, September 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperatur</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+0.8°</span><span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1951–1980</div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/global-temperature/">NASA, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+94</span><span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">NASA, Mai 2019</a></span></div></div></div></div>
+<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">409</span><span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, September 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+0.8°</span><span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1951–1980</div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/global-temperature/">NASA, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+94</span><span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">NASA, Mai 2019</a></span></div></div></div></div>
 ```
 
 <hr /></section>
@@ -412,7 +412,7 @@ Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 4
   ],
   "unit": "Teile pro Million",
   "colorRange": [
-    "rgb(187,21,26)"
+    "rgb(8,48,107)"
   ],
   "size": "breakout"
 }
@@ -955,7 +955,7 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
         "source": {
           "name": "Bafu",
           "url": "https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040",
-          "date": "2015"
+          "date": "2017"
         },
         "color": "rgb(8,48,107)"
       },
@@ -1024,338 +1024,12 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
 }@media only screen and (max-width: 767px) {
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
 }.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.5</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f="">Emissionen im Inland</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">Treibhausgas-Fussabdruck</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">14</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f="">Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+2</span><span data-css-1dsf54m="">°</span></div><div data-css-1tzx89f="">Veränderung der Jahresmitteltemperatur seit 1864</div><div><span data-css-18yx3y4=""><a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Gletscherschwund</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">–25</span><span data-css-1dsf54m="">%</span></div><div data-css-1tzx89f="">Veränderung des Eisvolumens der Schweizer Gletscher seit 2000</div><div><span data-css-18yx3y4=""><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html">GLAMOS, 2018</a></span></div></div></div></div>
+<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.5</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f="">Emissionen im Inland</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">Treibhausgas-Fussabdruck</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">14</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f="">Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+2</span><span data-css-1dsf54m="">°</span></div><div data-css-1tzx89f="">Veränderung der Jahresmitteltemperatur seit 1864</div><div><span data-css-18yx3y4=""><a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Gletscherschwund</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">–25</span><span data-css-1dsf54m="">%</span></div><div data-css-1tzx89f="">Veränderung des Eisvolumens der Schweizer Gletscher seit 2000</div><div><span data-css-18yx3y4=""><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html">GLAMOS, 2018</a></span></div></div></div></div>
 ```
 
 <hr /></section>
 
 Die Schweiz ist vom Klimawandel stark betroffen. Die Durchschnittstemperatur hat hierzulande seit 1864 mit 2° um doppelt soviel zugenommen wie im globalen Durchschnitt.
-
-<section><h6>CHART</h6>
-
-```
-{
-  "type": "TimeBar",
-  "y": "value",
-  "color": "label",
-  "xBandPadding": 0.1,
-  "padding": 10,
-  "xTicks": [
-    1960,
-    1970,
-    1980,
-    1990,
-    2000,
-    2010,
-    2017
-  ],
-  "unit": "Tonnen CO₂"
-}
-```
-
-### CO₂-Ausstoss pro Einwohner
-
-
-
-```
-year,label,value
-1960,Schweiz,3.6810
-1960,Deutschland,11.0871
-1960,Frankreich,5.9165
-1960,Italien,2.1954
-1960,Österreich,4.3538
-1961,Schweiz,3.7745
-1961,Deutschland,11.2926
-1961,Frankreich,6.0548
-1961,Italien,2.4828
-1961,Österreich,4.4752
-1962,Schweiz,4.3830
-1962,Deutschland,11.8563
-1962,Frankreich,6.3425
-1962,Italien,2.8969
-1962,Österreich,4.7318
-1963,Schweiz,5.1737
-1963,Deutschland,12.5932
-1963,Frankreich,6.9949
-1963,Italien,3.2327
-1963,Österreich,5.1276
-1964,Schweiz,4.9090
-1964,Deutschland,12.8035
-1964,Frankreich,7.1388
-1964,Italien,3.4239
-1964,Österreich,5.3605
-1965,Schweiz,5.2023
-1965,Deutschland,12.5905
-1965,Frankreich,7.1930
-1965,Italien,3.6639
-1965,Österreich,5.2211
-1966,Schweiz,5.3213
-1966,Deutschland,12.3857
-1966,Frankreich,7.0349
-1966,Italien,4.1059
-1966,Österreich,5.3329
-1967,Schweiz,5.4274
-1967,Deutschland,12.1034
-1967,Frankreich,7.4806
-1967,Italien,4.4606
-1967,Österreich,5.3961
-1968,Schweiz,5.9411
-1968,Deutschland,12.6512
-1968,Frankreich,7.6825
-1968,Italien,4.7146
-1968,Österreich,5.6854
-1969,Schweiz,6.2222
-1969,Deutschland,13.4433
-1969,Frankreich,8.1987
-1969,Italien,5.0676
-1969,Österreich,5.9682
-1970,Schweiz,6.5233
-1970,Deutschland,13.0582
-1970,Frankreich,8.6466
-1970,Italien,5.5314
-1970,Österreich,6.7363
-1971,Schweiz,6.7326
-1971,Deutschland,13.1651
-1971,Frankreich,9.0328
-1971,Italien,5.7655
-1971,Österreich,6.8963
-1972,Schweiz,6.8445
-1972,Deutschland,13.1997
-1972,Frankreich,9.3083
-1972,Italien,6.0426
-1972,Österreich,7.3962
-1973,Schweiz,7.3204
-1973,Deutschland,13.7546
-1973,Frankreich,9.9130
-1973,Italien,6.4618
-1973,Österreich,7.8895
-1974,Schweiz,6.5331
-1974,Deutschland,13.4663
-1974,Frankreich,9.4977
-1974,Italien,6.5111
-1974,Österreich,7.5128
-1975,Schweiz,6.1438
-1975,Deutschland,12.7106
-1975,Frankreich,8.4475
-1975,Italien,6.1639
-1975,Österreich,7.0982
-1976,Schweiz,6.3628
-1976,Deutschland,13.8441
-1976,Frankreich,9.5070
-1976,Italien,6.5786
-1976,Österreich,7.6176
-1977,Schweiz,6.4716
-1977,Deutschland,13.3746
-1977,Frankreich,9.0064
-1977,Italien,6.3464
-1977,Österreich,7.3324
-1978,Schweiz,6.6708
-1978,Deutschland,13.7312
-1978,Frankreich,9.4388
-1978,Italien,6.6232
-1978,Österreich,7.5025
-1979,Schweiz,6.3211
-1979,Deutschland,14.2487
-1979,Frankreich,9.8451
-1979,Italien,6.8494
-1979,Österreich,8.0497
-1980,Schweiz,6.4233
-1980,Deutschland,14.0492
-1980,Frankreich,9.3618
-1980,Italien,6.8493
-1980,Österreich,6.8367
-1981,Schweiz,6.1451
-1981,Deutschland,13.4208
-1981,Frankreich,8.3910
-1981,Italien,6.6335
-1981,Österreich,7.3422
-1982,Schweiz,5.7691
-1982,Deutschland,13.0314
-1982,Frankreich,8.0299
-1982,Italien,6.4686
-1982,Österreich,7.0461
-1983,Schweiz,6.2759
-1983,Deutschland,13.0042
-1983,Frankreich,7.7338
-1983,Italien,6.3057
-1983,Österreich,6.7958
-1984,Schweiz,6.0978
-1984,Deutschland,13.2970
-1984,Frankreich,7.3917
-1984,Italien,6.4035
-1984,Österreich,7.1267
-1985,Schweiz,6.1615
-1985,Deutschland,13.4347
-1985,Frankreich,7.2649
-1985,Italien,6.4720
-1985,Österreich,7.1396
-1986,Schweiz,6.5052
-1986,Deutschland,13.4571
-1986,Frankreich,6.9549
-1986,Italien,6.3648
-1986,Österreich,7.0461
-1987,Schweiz,6.1550
-1987,Deutschland,13.2272
-1987,Frankreich,6.7773
-1987,Italien,6.6580
-1987,Österreich,7.5105
-1988,Schweiz,6.1868
-1988,Deutschland,13.1329
-1988,Frankreich,6.6490
-1988,Italien,6.7591
-1988,Österreich,6.9121
-1989,Schweiz,5.9551
-1989,Deutschland,12.8659
-1989,Frankreich,6.9347
-1989,Italien,7.0867
-1989,Österreich,6.9859
-1990,Schweiz,6.6161
-1990,Deutschland,13.3091
-1990,Frankreich,7.0768
-1990,Italien,7.7011
-1990,Österreich,8.0648
-1991,Schweiz,6.8446
-1991,Deutschland,12.7566
-1991,Frankreich,7.4889
-1991,Italien,7.7004
-1991,Österreich,8.4784
-1992,Schweiz,6.7517
-1992,Deutschland,12.0769
-1992,Frankreich,7.2777
-1992,Italien,7.6800
-1992,Österreich,7.7170
-1993,Schweiz,6.3272
-1993,Deutschland,11.8852
-1993,Frankreich,6.9036
-1993,Italien,7.5420
-1993,Österreich,7.7024
-1994,Schweiz,6.1309
-1994,Deutschland,11.6199
-1994,Frankreich,6.7838
-1994,Italien,7.4320
-1994,Österreich,7.6996
-1995,Schweiz,6.1856
-1995,Deutschland,11.5716
-1995,Frankreich,6.8776
-1995,Italien,7.8941
-1995,Österreich,8.0357
-1996,Schweiz,6.2452
-1996,Deutschland,11.7919
-1996,Frankreich,7.1144
-1996,Italien,7.7680
-1996,Österreich,8.4404
-1997,Schweiz,6.0683
-1997,Deutschland,11.4399
-1997,Frankreich,6.9678
-1997,Italien,7.8599
-1997,Österreich,8.3971
-1998,Schweiz,6.2701
-1998,Deutschland,11.3425
-1998,Frankreich,7.2803
-1998,Italien,8.0527
-1998,Österreich,8.3390
-1999,Schweiz,6.2257
-1999,Deutschland,11.0072
-1999,Frankreich,7.1764
-1999,Italien,8.1252
-1999,Österreich,8.1506
-2000,Schweiz,6.0849
-2000,Deutschland,11.0564
-2000,Frankreich,7.0570
-2000,Italien,8.2167
-2000,Österreich,8.2116
-2001,Schweiz,6.2582
-2001,Deutschland,11.2524
-2001,Frankreich,7.1086
-2001,Italien,8.2809
-2001,Österreich,8.6927
-2002,Schweiz,5.9993
-2002,Deutschland,11.0395
-2002,Frankreich,6.9891
-2002,Italien,8.2646
-2002,Österreich,8.8693
-2003,Schweiz,6.1224
-2003,Deutschland,11.0418
-2003,Frankreich,7.0686
-2003,Italien,8.4524
-2003,Österreich,9.5114
-2004,Schweiz,6.1558
-2004,Deutschland,10.8669
-2004,Frankreich,7.0447
-2004,Italien,8.4713
-2004,Österreich,9.4991
-2005,Schweiz,6.1779
-2005,Deutschland,10.6185
-2005,Frankreich,7.0654
-2005,Italien,8.4211
-2005,Österreich,9.6160
-2006,Schweiz,6.0638
-2006,Deutschland,10.7768
-2006,Frankreich,6.8531
-2006,Italien,8.2896
-2006,Österreich,9.2566
-2007,Schweiz,5.7352
-2007,Deutschland,10.4752
-2007,Frankreich,6.6638
-2007,Italien,8.1009
-2007,Österreich,8.9069
-2008,Schweiz,5.8470
-2008,Deutschland,10.5314
-2008,Frankreich,6.5264
-2008,Italien,7.8663
-2008,Österreich,8.8513
-2009,Schweiz,5.6258
-2009,Deutschland,9.7568
-2009,Frankreich,6.1726
-2009,Italien,6.9738
-2009,Österreich,8.0625
-2010,Schweiz,5.7514
-2010,Deutschland,10.3058
-2010,Frankreich,6.3132
-2010,Italien,7.1133
-2010,Österreich,8.6068
-2011,Schweiz,5.1674
-2011,Deutschland,10.0181
-2011,Frankreich,5.8852
-2011,Italien,6.9182
-2011,Österreich,8.2880
-2012,Schweiz,5.2605
-2012,Deutschland,10.0559
-2012,Frankreich,5.8786
-2012,Italien,6.5623
-2012,Österreich,7.9438
-2013,Schweiz,5.3099
-2013,Deutschland,10.2460
-2013,Frankreich,5.8551
-2013,Italien,6.0904
-2013,Österreich,7.9276
-2014,Schweiz,4.7679
-2014,Deutschland,9.7391
-2014,Frankreich,5.3524
-2014,Italien,5.8483
-2014,Österreich,7.4426
-2015,Schweiz,4.6562
-2015,Deutschland,9.7552
-2015,Frankreich,5.4015
-2015,Italien,5.9741
-2015,Österreich,7.6860
-2016,Schweiz,4.6663
-2016,Deutschland,9.7877
-2016,Frankreich,5.4095
-2016,Italien,5.8947
-2016,Österreich,7.7366
-2017,Schweiz,4.7279
-2017,Deutschland,9.7349
-2017,Frankreich,5.4833
-2017,Italien,5.9881
-2017,Österreich,8.0067
-```
-
-Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas). Berücksichtigt sind die Emissionen im Inland, ohne den Flugverkehr und die grauen Emissionen aus importierten Produkten.
-
-<hr /></section>
-
-Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Findet kein wirksamer Klimaschutz statt, drohen Folgen: trockenere Sommer, schneearme Winter, mehr Hitztage und heftige Niederschläge.
 
 <section><h6>CHART</h6>
 
@@ -1424,176 +1098,233 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Den grössten Beitrag zu den Emissionen in der Schweiz hat mit 32% der _Verkehr_ (ohne Flugverkehr), die Sektoren _Gebäude_ und _Industrie_ verursachen je rund ein Viertel. Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen der Sektoren Gebäude und Industrie um 26% bzw. 18% gegenüber 1990 gesenkt werden. Bei den Verkehrsmitteln sind die _Personenwagen_ mit [75% der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) klar Spitzenreiter. 
+Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Findet kein wirksamer Klimaschutz statt, drohen Folgen: trockenere Sommer, schneearme Winter, mehr Hitztage und heftige Niederschläge.
 
 <section><h6>CHART</h6>
 
 ```
 {
-  "type": "Line",
-  "unit": "Millionen Tonnen CO2-Äquivalente",
+  "type": "TimeBar",
+  "x": "Year",
+  "color": "Kategorie",
   "numberFormat": ".1f",
-  "category": "datum.sector"
+  "colorSort": "none",
+  "xAnnotations": [
+    {
+      "x": 2020,
+      "value": 42.41,
+      "label": "Ziel"
+    },
+    {
+      "x": 2030,
+      "value": 35.2,
+      "label": "Ziel"
+    },
+    {
+      "x": 2050,
+      "value": 0,
+      "label": "Ziel",
+      "ghost": true
+    }
+  ],
+  "colorRange": [
+    "#2ca02c",
+    "#1f77b4",
+    "#9467bd",
+    "#d62728",
+    "#afe9af",
+    "#a8d2f0",
+    "#cdb8e0",
+    "#efa9a9"
+  ],
+  "xTicks": [
+    1990,
+    2000,
+    2010,
+    2020,
+    2030,
+    2050
+  ],
+  "colorLegendValues": [
+    "Gebäude",
+    "Industrie",
+    "Verkehr",
+    "Übrige"
+  ],
+  "unit": "Millionen Tonnen CO₂-Äquivalente",
+  "padding": 0
 }
 ```
 
-### Emissionen von Treibhausgasen im Inland nach Sektoren
+### Klimaziele und Emissionen nach Sektoren
 
 
 
 ```
-year,sector,value
-1990,Industrie,11.56
-1990,Gebäude,17.10
-1990,Verkehr,14.86
-1990,Landwirtschaft,7.31
-1990,Abfall,2.82
-1991,Industrie,11.77
-1991,Gebäude,18.46
-1991,Verkehr,15.33
-1991,Landwirtschaft,7.25
-1991,Abfall,2.67
-1992,Industrie,11.25
-1992,Gebäude,18.50
-1992,Verkehr,15.65
-1992,Landwirtschaft,7.13
-1992,Abfall,2.69
-1993,Industrie,10.42
-1993,Gebäude,17.89
-1993,Verkehr,14.57
-1993,Landwirtschaft,7.11
-1993,Abfall,2.65
-1994,Industrie,10.58
-1994,Gebäude,16.61
-1994,Verkehr,14.75
-1994,Landwirtschaft,7.08
-1994,Abfall,2.58
-1995,Industrie,10.69
-1995,Gebäude,17.65
-1995,Verkehr,14.42
-1995,Landwirtschaft,7.06
-1995,Abfall,2.62
-1996,Industrie,10.44
-1996,Gebäude,18.50
-1996,Verkehr,14.47
-1996,Landwirtschaft,6.93
-1996,Abfall,2.68
-1997,Industrie,10.21
-1997,Gebäude,17.07
-1997,Verkehr,15.04
-1997,Landwirtschaft,6.76
-1997,Abfall,2.75
-1998,Industrie,10.68
-1998,Gebäude,17.89
-1998,Verkehr,15.25
-1998,Landwirtschaft,6.73
-1998,Abfall,2.90
-1999,Industrie,10.55
-1999,Gebäude,17.22
-1999,Verkehr,15.84
-1999,Landwirtschaft,6.60
-1999,Abfall,2.95
-2000,Industrie,10.46
-2000,Gebäude,16.12
-2000,Verkehr,16.08
-2000,Landwirtschaft,6.71
-2000,Abfall,3.14
-2001,Industrie,10.89
-2001,Gebäude,17.47
-2001,Verkehr,15.77
-2001,Landwirtschaft,6.70
-2001,Abfall,3.21
-2002,Industrie,10.45
-2002,Gebäude,16.33
-2002,Verkehr,15.71
-2002,Landwirtschaft,6.62
-2002,Abfall,3.30
-2003,Industrie,10.63
-2003,Gebäude,17.30
-2003,Verkehr,15.86
-2003,Landwirtschaft,6.49
-2003,Abfall,3.25
-2004,Industrie,11.22
-2004,Gebäude,17.17
-2004,Verkehr,15.92
-2004,Landwirtschaft,6.46
-2004,Abfall,3.37
-2005,Industrie,11.44
-2005,Gebäude,17.40
-2005,Verkehr,15.99
-2005,Landwirtschaft,6.58
-2005,Abfall,3.40
-2006,Industrie,11.68
-2006,Gebäude,16.54
-2006,Verkehr,16.11
-2006,Landwirtschaft,6.53
-2006,Abfall,3.58
-2007,Industrie,11.33
-2007,Gebäude,14.69
-2007,Verkehr,16.43
-2007,Landwirtschaft,6.63
-2007,Abfall,3.46
-2008,Industrie,11.48
-2008,Gebäude,15.57
-2008,Verkehr,16.77
-2008,Landwirtschaft,6.69
-2008,Abfall,3.51
-2009,Industrie,10.94
-2009,Gebäude,15.15
-2009,Verkehr,16.57
-2009,Landwirtschaft,6.61
-2009,Abfall,3.40
-2010,Industrie,11.29
-2010,Gebäude,16.33
-2010,Verkehr,16.46
-2010,Landwirtschaft,6.63
-2010,Abfall,3.50
-2011,Industrie,10.67
-2011,Gebäude,13.14
-2011,Verkehr,16.27
-2011,Landwirtschaft,6.59
-2011,Abfall,3.45
-2012,Industrie,10.66
-2012,Gebäude,14.39
-2012,Verkehr,16.39
-2012,Landwirtschaft,6.64
-2012,Abfall,3.46
-2013,Industrie,10.83
-2013,Gebäude,15.27
-2013,Verkehr,16.30
-2013,Landwirtschaft,6.49
-2013,Abfall,3.43
-2014,Industrie,10.33
-2014,Gebäude,11.86
-2014,Verkehr,16.20
-2014,Landwirtschaft,6.61
-2014,Abfall,3.45
-2015,Industrie,9.70
-2015,Gebäude,12.72
-2015,Verkehr,15.46
-2015,Landwirtschaft,6.52
-2015,Abfall,3.50
-2016,Industrie,9.67
-2016,Gebäude,13.18
-2016,Verkehr,15.29
-2016,Landwirtschaft,6.52
-2016,Abfall,3.61
-2017,Industrie,9.55
-2017,Gebäude,12.59
-2017,Verkehr,15.01
-2017,Landwirtschaft,6.51
-2017,Abfall,3.58
+Year,value,Kategorie
+1990,17.10,Gebäude
+1991,18.46,Gebäude
+1992,18.50,Gebäude
+1993,17.89,Gebäude
+1994,16.61,Gebäude
+1995,17.65,Gebäude
+1996,18.50,Gebäude
+1997,17.07,Gebäude
+1998,17.89,Gebäude
+1999,17.22,Gebäude
+2000,16.12,Gebäude
+2001,17.47,Gebäude
+2002,16.33,Gebäude
+2003,17.30,Gebäude
+2004,17.17,Gebäude
+2005,17.40,Gebäude
+2006,16.54,Gebäude
+2007,14.69,Gebäude
+2008,15.57,Gebäude
+2009,15.15,Gebäude
+2010,16.33,Gebäude
+2011,13.14,Gebäude
+2012,14.39,Gebäude
+2013,15.27,Gebäude
+2014,11.86,Gebäude
+2015,12.72,Gebäude
+2016,13.18,Gebäude
+2017,12.59,Gebäude
+1990,13.05,Industrie
+1991,13.22,Industrie
+1992,12.72,Industrie
+1993,11.94,Industrie
+1994,12.08,Industrie
+1995,12.09,Industrie
+1996,11.85,Industrie
+1997,11.60,Industrie
+1998,12.12,Industrie
+1999,11.98,Industrie
+2000,11.95,Industrie
+2001,12.35,Industrie
+2002,11.88,Industrie
+2003,11.90,Industrie
+2004,12.47,Industrie
+2005,12.69,Industrie
+2006,13.01,Industrie
+2007,12.49,Industrie
+2008,12.64,Industrie
+2009,12.06,Industrie
+2010,12.52,Industrie
+2011,11.78,Industrie
+2012,11.68,Industrie
+2013,11.81,Industrie
+2014,11.31,Industrie
+2015,10.69,Industrie
+2016,10.85,Industrie
+2017,10.70,Industrie
+1990,14.86,Verkehr
+1991,15.33,Verkehr
+1992,15.65,Verkehr
+1993,14.57,Verkehr
+1994,14.75,Verkehr
+1995,14.42,Verkehr
+1996,14.47,Verkehr
+1997,15.04,Verkehr
+1998,15.25,Verkehr
+1999,15.84,Verkehr
+2000,16.08,Verkehr
+2001,15.77,Verkehr
+2002,15.71,Verkehr
+2003,15.86,Verkehr
+2004,15.92,Verkehr
+2005,15.99,Verkehr
+2006,16.11,Verkehr
+2007,16.43,Verkehr
+2008,16.77,Verkehr
+2009,16.57,Verkehr
+2010,16.46,Verkehr
+2011,16.27,Verkehr
+2012,16.39,Verkehr
+2013,16.30,Verkehr
+2014,16.20,Verkehr
+2015,15.46,Verkehr
+2016,15.29,Verkehr
+2017,15.01,Verkehr
+1990,8.63,Übrige
+1991,8.47,Übrige
+1992,8.35,Übrige
+1993,8.23,Übrige
+1994,8.16,Übrige
+1995,8.29,Übrige
+1996,8.20,Übrige
+1997,8.11,Übrige
+1998,8.20,Übrige
+1999,8.12,Übrige
+2000,8.37,Übrige
+2001,8.46,Übrige
+2002,8.49,Übrige
+2003,8.46,Übrige
+2004,8.57,Übrige
+2005,8.73,Übrige
+2006,8.77,Übrige
+2007,8.93,Übrige
+2008,9.03,Übrige
+2009,8.89,Übrige
+2010,8.90,Übrige
+2011,8.93,Übrige
+2012,9.08,Übrige
+2013,8.93,Übrige
+2014,9.09,Übrige
+2015,9.04,Übrige
+2016,8.94,Übrige
+2017,8.94,Übrige
+2020,10.26,Gebäude-Ziel
+2020,13.41,Industrie-Ziel
+2020,11.05,Verkehr-Ziel
+2020,7.69,Übrige-Ziel
+2030,7,Gebäude-Ziel
+2030,12.1,Industrie-Ziel
+2030,8.8,Verkehr-Ziel
+2030,7.3,Übrige-Ziel
+2018,0,Gebäude
+2019,0,Gebäude
+2021,0,Gebäude
+2022,0,Gebäude
+2023,0,Gebäude
+2024,0,Gebäude
+2025,0,Gebäude
+2026,0,Gebäude
+2027,0,Gebäude
+2028,0,Gebäude
+2029,0,Gebäude
+2031,0,Gebäude
+2032,0,Gebäude
+2033,0,Gebäude
+2034,0,Gebäude
+2035,0,Gebäude
+2036,0,Gebäude
+2037,0,Gebäude
+2038,0,Gebäude
+2039,0,Gebäude
+2040,0,Gebäude
+2041,0,Gebäude
+2042,0,Gebäude
+2043,0,Gebäude
+2044,0,Gebäude
+2045,0,Gebäude
+2046,0,Gebäude
+2047,0,Gebäude
+2048,0,Gebäude
+2049,0,Gebäude
 ```
 
-Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikatoren-karten/daten/treibhausgasinventar.html). Treibhausgasemissionen gemäss CO<sub>2</sub>-Gesetz und Kyoto-Protokoll, aufgeteilt nach Sektoren
+Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikatoren-karten/daten/co2-statistik.html). Die Land­wirtschaft macht rund zwei Drittel der Emissionen im Bereich Übrige aus. Die Ziele für 2030 entstammen dem [Entwurf zum revidierten CO₂-Gesetz](https://www.bafu.admin.ch/dam/bafu/de/dokumente/klima/rechtliche-grundlagen/botschaft-totalrevision-co2-gesetz-nach-2020.pdf.download.pdf/Beilage_01_BO_DE_CO2-Gesetz_zu_BRA_UVEK.pdf), das eine Reduktion von 30 Prozent im Inland gegenüber 1990 vorsieht und vom Ständerat bestätigt wurde. Die Ziele für 2020 stammen von 2011.
 
 <hr /></section>
+
+Den grössten Beitrag zu den Emissionen in der Schweiz hat mit 32% der _Verkehr_ (ohne Flugverkehr), die Sektoren _Gebäude_ und _Industrie_ verursachen je rund ein Viertel. Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen der Sektoren Gebäude und Industrie um 26% bzw. 18% gegenüber 1990 gesenkt werden. Bei den Verkehrsmitteln sind die _Personenwagen_ mit [75% der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) klar Spitzenreiter. 
 
 <section><h6>INFOBOX</h6>
 
 ### Über dieses Dossier
 
-Das Dossier «Die Klimakrise» bündelt die wichtigsten Fakten zum Klimwandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwerpunkt des Dossiers liegt auf der Präsentation von Daten aus _Primärquellen_ und in der Zusammenstellung von _ausgewählten Beiträgen_ der Republik. Alle Quellen und Originaldaten, sowie die Methoden ihrer Aufbereitung, sind [ausführlich dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/Dossier%20Klimawandel.ipynb).
+Das Dossier «Die Klimakrise» bündelt die wichtigsten Fakten zum Klimwandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwerpunkt des Dossiers liegt auf der Präsentation von Daten aus _Primärquellen_ und in der Zusammenstellung von _ausgewählten Beiträgen_ der Republik. Alle Quellen und Originaldaten, sowie die Methoden ihrer Aufbereitung, sind [ausführlich dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/).
 
 <hr /></section>
 
