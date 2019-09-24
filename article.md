@@ -16,7 +16,7 @@ description: ''
 
 ⁣
 
-Letzte Aktualisierung: 07.09.2019
+Letzte Aktualisierung: 25.09.2019
 
 <hr /></section>
 
@@ -929,7 +929,6 @@ year,value
 1000,1.28
 2000,10.1
 2018,13.81
-
 ```
 
 Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementary-information), [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
