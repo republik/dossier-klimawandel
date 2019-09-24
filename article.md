@@ -1,16 +1,16 @@
 ---
 template: dossier
-slug: klimawandel
+slug: klimakrise
 feed: false
 gallery: true
-title: Klimawandel
+title: Klimakrise
 subject: ''
 description: ''
 ---
 
 <section><h6>TITLE</h6>
 
-# Die Klimakrise
+# Klimakrise
 
 ## 
 
