@@ -1660,7 +1660,7 @@ time,value
 2018,1
 ```
 
-Quelle: Meteo Schweiz. Dargestellt ist die Abweichung von der Normperiode 1961 bis 1990: Die Farbcodierung entspricht +/– 2,5 Grad.
+Quelle: [Meteo Schweiz](https://www.meteoschweiz.admin.ch/home/klima/schweizer-klima-im-detail/schweizer-temperaturmittel/daten-schweizer-temperaturmittel.html). Dargestellt ist die Abweichung von der Normperiode 1961 bis 1990: Die Farbcodierung entspricht +/– 2,5 Grad.
 
 <hr /></section>
 
