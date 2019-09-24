@@ -1640,6 +1640,72 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikat
   "color": "#000",
   "teaserType": "articleTile",
   "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-klimareport-update?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "vgyLs3Bk2",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Mit Babyschrittchen zur Klima­neutralität
+
+## 
+
+#### Der Ständerat berät das CO₂-Gesetz. Wie klima­freundlich steht die Schweiz heute da? Der aktualisierte Klimapolitik-Report.
+
+Von [Elia Blülle](/~eblulle "Elia Blülle") und [Simon Schmid](/~simonschmid), 24.09.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-klimareport?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "bDltGRa3h",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Wie die Politik beim Klimawandel versagt
+
+## 
+
+#### Die Erderwärmung trifft die Schweiz härter als angenommen. Umso energischer müsste die Politik durchgreifen. Tut sie es? Eine Auslegeordnung in sechs Punkten.
+
+Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97 "Simon Schmid"), 16.11.2018
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
   "formatColor": "#08809A",
   "onlyImage": false,
   "url": "https://github.com/republik/article-co2-pro-kopf?autoSlug",
@@ -1664,76 +1730,6 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikat
 #### Wie schnell muss die Schweiz ihre Treibhausgasemissionen reduzieren? Zwei Grafiken geben darauf eine intuitive Antwort.
 
 Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 26.11.2018
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "formatColor": "#D44338",
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-klima-ameise?autoSlug",
-  "kind": "scribble",
-  "center": false,
-  "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-aus-der-arena?autoSlug",
-  "titleSize": "standard",
-  "id": "CwhgqgGfmE",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-###### Aus der Arena
-
-# Unser doppeltes Klimadilemma
-
-## 
-
-#### Weshalb es auch für die kleine Schweiz von grossem Interesse sein sollte, den Klimawandel zu bremsen.
-
-Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 14.11.2018
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "formatColor": "#08809A",
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-eine-kleine-energiegeschichte?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
-  "titleSize": "standard",
-  "id": "gbQaIEfvxg",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-###### Auf lange Sicht
-
-# Eine kleine Energie-geschichte
-
-## 
-
-#### Wie die Schweiz in nur 100 Jahren zum Vielverbraucher fossiler Treibstoffe wurde – und wie sich der Energiehaushalt des Landes in den nächsten Jahrzehnten verändern muss.
-
-Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 01.07.201
 
 <hr /></section>
 
@@ -1796,6 +1792,39 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 01.07.201
   "teaserType": "articleTile",
   "byline": null,
   "onlyImage": false,
+  "url": "https://github.com/republik/article-klimajugend-2?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "CreVYkwZO",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Schweizer Jugend forsch
+
+## 
+
+#### Entgegen den Prognosen vieler lebt die junge Klimabewegung immer noch – und ist bereit für die nächste Offensive. Kann sie mit ihren Protesten die Schweizer Politik verändern?
+
+Von [Elia Blülle](/~eblulle), 09.08.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
   "url": "https://github.com/republik/article-aufstand-der-streber?autoSlug",
   "kind": "editorial",
   "center": false,
@@ -1831,12 +1860,12 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 15.03.2019
   "teaserType": "articleTile",
   "byline": null,
   "onlyImage": false,
-  "url": null,
+  "url": "https://github.com/republik/article-kann-die-ubs-das-klima-retten?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
   "titleSize": "standard",
-  "id": "K40AWHLTys",
+  "id": "vQe2rWsEz",
   "portrait": true,
   "showImage": true,
   "bgColor": "#fff"
@@ -1845,54 +1874,13 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 15.03.2019
 
 ###### 
 
-# Klimajugend
+# Stell dir vor, die UBS wird klimaneutral
 
 ## 
 
-#### Entgegen den Prognosen vieler lebt die junge Klimabewegung immer noch – und ist bereit für den nächsten Angriff. Können sie mit ihren Protesten die Schweizer Politik verändern?
+#### Was müsste passieren, damit die Finanzindustrie keine Gelder mehr an Öl- und Kohlefirmen vergibt? Wir machen die Probe aufs Exempel.
 
-#### 
-
-#### 
-
-
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "formatColor": "#7C7C7C",
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-wie-sag-ich-s-meinem-leser?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-theorie-praxis?autoSlug",
-  "titleSize": "standard",
-  "id": "SD2AeHPYlh",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-![](images/bd1ba782cb19a945348f6e8f1db5bed59c4b4a29.jpeg?size=2800x1867)
-
-###### Theorie & Praxis
-
-# Reiseführer in die Katastrophen­welt
-
-## David Wallace-Wells: «Die unbewohnbare Erde»
-
-#### Die Menschheit steckt mitten in der Klimakrise. Um deren schlimmste Folgen zu verhindern, braucht es das richtige Narrativ. Wie soll das aussehen?
-
-Von Florian Oegerli, 05.08.2019
+Von Olivier Christe, 05.08.2019
 
 <hr /></section>
 
