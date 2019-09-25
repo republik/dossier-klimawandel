@@ -930,7 +930,7 @@ year,value
 2018,408.52
 ```
 
-Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementary-information), [Met Office](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
+Quelle: [co2levels.org](https://www.co2levels.org).
 
 <hr /></section>
 
