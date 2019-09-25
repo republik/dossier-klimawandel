@@ -22,7 +22,7 @@ Letzte Aktualisierung: 25.09.2019
 
 <section><h6>CENTER</h6>
 
-Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil menschen­gemacht ist, [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Der Welt­klimarat IPCC stellt in seinem [Bericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klima­system ist klar und die jüngsten anthropogenen Emissionen von Treibhaus­gasen sind die höchsten in der Geschichte. Die jüngsten Klima­änderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
+Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil menschen­gemacht ist, ist [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Der Welt­klimarat IPCC stellt in einem [Bericht](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klima­system ist klar und die jüngsten anthropogenen Emissionen von Treibhaus­gasen sind die höchsten in der Geschichte. Die jüngsten Klima­änderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -32,7 +32,7 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
   "props": {
     "values": [
       {
-        "label": "CO₂-Austoss pro Kopf",
+        "label": "CO₂-Ausstoss pro Kopf",
         "value": "4.8",
         "unit": " t",
         "source": {
@@ -60,7 +60,7 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
         "unit": "",
         "description": "Abweichung vom langjährigen Durchschnitt 1850–1900",
         "source": {
-          "name": "MetOffice",
+          "name": "Met Office",
           "url": "https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html",
           "date": "2019"
         },
@@ -72,7 +72,7 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
         "unit": " mm",
         "description": "Veränderung seit 1993 ",
         "source": {
-          "name": "NASA",
+          "name": "Nasa",
           "url": "https://climate.nasa.gov/vital-signs/sea-level/",
           "date": "Mai 2019"
         },
@@ -86,33 +86,33 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
 ```
 
 ```html
-<style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; flex-wrap: wrap; }@media only screen and (max-width: 767px) {
-  .css-tdv8zt, [data-css-tdv8zt] { -moz-box-orient: vertical; -moz-box-direction: normal; flex-direction: column; }
-}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+<style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; -webkit-box-lines: multiple; flex-wrap: wrap; }@media only screen and (max-width: 767px) { 
+  .css-tdv8zt, [data-css-tdv8zt] { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
+}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
   .css-z781yx, [data-css-z781yx] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
-}@media only screen and (min-width: 1025px) {
+}@media only screen and (min-width: 1025px) { 
   .css-z781yx, [data-css-z781yx] { width: 25%; padding-left: 0px; }
-}@media only screen and (max-width: 767px) {
+}@media only screen and (max-width: 767px) { 
   .css-z781yx, [data-css-z781yx] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
   .css-1akzvxi, [data-css-1akzvxi] { width: 50%; padding-bottom: 15px; padding-left: 15px; }
-}@media only screen and (min-width: 1025px) {
+}@media only screen and (min-width: 1025px) { 
   .css-1akzvxi, [data-css-1akzvxi] { width: 25%; padding-left: 15px; }
-}@media only screen and (max-width: 767px) {
+}@media only screen and (max-width: 767px) { 
   .css-1akzvxi, [data-css-1akzvxi] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
   .css-26u5fm, [data-css-26u5fm] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
-}@media only screen and (min-width: 1025px) {
+}@media only screen and (min-width: 1025px) { 
   .css-26u5fm, [data-css-26u5fm] { width: 25%; padding-left: 15px; }
-}@media only screen and (max-width: 767px) {
+}@media only screen and (max-width: 767px) { 
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, Helvetica Neue, Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, Helvetica Neue, Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">409</span><span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, September 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+1°</span><span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1850–1900</div><div><span data-css-18yx3y4=""><a href="https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html">MetOffice, 2019</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+94</span><span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">NASA, Mai 2019</a></span></div></div></div></div>
+}.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
+<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Ausstoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">409</span><span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, September 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+1°</span><span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1850–1900</div><div><span data-css-18yx3y4=""><a href="https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html">Met Office, 2019</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+94</span><span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">Nasa, Mai 2019</a></span></div></div></div></div>
 ```
 
 <hr /></section>
 
-Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Eine wichtige Rolle spielt dabei der Treibhaus­effekt: Die von der Erdoberfläche reflektierte Wärme­strahlung der Sonne wird in der Atmosphäre durch Treibhaus­gase aufgenommen, anstatt dass sie ins Weltall entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den natürlichen Treibhaus­effekt, indem er zum Beispiel durch das Verbrennen fossiler Energie­träger zusätzlich Treibhaus­gase in die Atmosphäre entlässt.
+Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Eine wichtige Rolle spielt dabei der Treibhaus­effekt: Die von der Erdoberfläche reflektierte Wärme­strahlung der Sonne wird in der Atmosphäre durch Treibhaus­gase aufgenommen, statt dass sie ins Weltall entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den natürlichen Treibhaus­effekt, indem er zum Beispiel durch das Verbrennen fossiler Energie­träger zusätzlich Treibhaus­gase in die Atmosphäre entlässt.
 
 <section><h6>CHART</h6>
 
@@ -377,13 +377,13 @@ year,label,value
 2017,Andere,17.5013
 ```
 
-Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas).
+Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas)
 
 <hr /></section>
 
-Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klima­veränderung gilt Kohlen­dioxid. Die jährlichen weltweiten CO<sub>2</sub>-Emissionen haben sich von 1960 bis 2017 auf rund 36 Gigatonnen vervierfacht. [Laut Internationaler Energiagentur](https://www.iea.org/statistics/co2emissions/) gingen davon 2014 rund 42 Prozent auf das Konto der Strom- und Wärmeproduktion. 
+Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klima­veränderung gilt Kohlen­dioxid. Die jährlichen weltweiten CO<sub>2</sub>-Emissionen haben sich von 1960 bis 2017 auf rund 36 Gigatonnen vervierfacht. [Laut Internationaler Energieagentur](https://www.iea.org/statistics/co2emissions/) gingen davon 2016 rund 42 Prozent auf das Konto der Strom- und der Wärmeproduktion. 
 
-Kumuliert entfallen auf die EU und die USA rund 40 Prozent aller seit 1960 entstandenen Emissionen – obwohl ihr Anteil an der Welt­bevölkerung in diesem Zeitraum nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. Auf [alle seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1,58 Billionen Tonnen CO<sub>2</sub> sind die USA für einen Viertel und China für einen Achtel verantwortlich.
+Kumuliert entfallen auf die EU und die USA rund 40 Prozent aller seit 1960 entstandenen Emissionen – obwohl ihr Anteil an der Welt­bevölkerung in diesem Zeitraum nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. Von den total [seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1,58 Billionen Tonnen CO<sub>2</sub> sind die USA für ein Viertel und China für ein Achtel verantwortlich.
 
 <section><h6>CHART</h6>
 
@@ -418,7 +418,7 @@ Kumuliert entfallen auf die EU und die USA rund 40 Prozent aller seit 1960 ents
 }
 ```
 
-### Markanter Anstieg seit der Industrialiserung
+### Markanter Anstieg seit der Industrialisierung
 
 CO<sub>2</sub>-Konzentration in der Atmosphäre seit dem Pleistozän
 
@@ -930,11 +930,11 @@ year,value
 2018,408.52
 ```
 
-Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementary-information), [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
+Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementary-information), [Met Office](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
 
 <hr /></section>
 
-Das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie die CO<sub>2</sub>-Konzentration in den letzen 500’000 Jahren schwankte und seit der Industrialisierung stark zugenommen hat. Ein Vergleich mit der globalen Durchschnitts­temperatur seit 1900 belegt einen direkten Zusammenhang mit der globalen Erwärmung und weist die Richtung, welche die Temperatur­kurve in Zukunft nehmen wird: nach oben.
+Das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie die CO<sub>2</sub>-Konzentration in den letzten 500’000 Jahren schwankte und seit der Industrialisierung stark zugenommen hat. Ein Vergleich mit der globalen Durchschnitts­temperatur seit 1900 belegt einen direkten Zusammenhang mit der globalen Erwärmung und weist die Richtung, welche die Temperatur­kurve in Zukunft nehmen wird: nach oben.
 
 <section><h6>CHART</h6>
 
@@ -959,7 +959,7 @@ Das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) ze
 
 ### Erwärmung seit der Industrialisierung
 
-Abweichung der globalen Durchschnitts-Temperatur vom Mittel 1850–1900
+Abweichung der globalen Durchschnittstemperatur vom Mittel 1850–1900
 
 ```
 year,value
@@ -1085,13 +1085,13 @@ year,value
 2019,1.0358
 ```
 
-Quelle: [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html).
+Quelle: [Met Office](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
 
 <hr /></section>
 
 ## Schweiz
 
-Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas­emissionen im Inland von 5,6 Tonnen pro Kopf (davon 4,5 Tonnen CO<sub>2</sub>). [Laut dem Treibhausgasinventar des Bundesamts für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) sind die Emissionen seit 1990 um 12 Prozent gesunken. Werden allerdings die durch Importe verursachten «Grauen Emissionen» hinzu gerechnet, liegt die Schweiz mit ihrem «Treibhausgas­fussabdruck» von 14 Tonnen pro Kopf deutlich über dem weltweiten Durchschnitt von 6 Tonnen.
+Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas­emissionen im Inland von 5,6 Tonnen pro Kopf (davon 4,5 Tonnen CO<sub>2</sub>). [Laut dem Treibhausgasinventar des Bundesamts für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) sind die Emissionen seit 1990 um 12 Prozent gesunken. Werden allerdings die durch Importe verursachten «grauen Emissionen» hinzugerechnet, liegt die Schweiz mit ihrem «Treibhausgas­fussabdruck» von 14 Tonnen pro Kopf deutlich über dem weltweiten Durchschnitt von 6 Tonnen.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -1101,7 +1101,7 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
   "props": {
     "values": [
       {
-        "label": "CO₂-Austoss pro Kopf",
+        "label": "CO₂-Ausstoss pro Kopf",
         "value": "4.5",
         "unit": " t",
         "description": "Emissionen im Inland",
@@ -1113,7 +1113,7 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
         "color": "rgb(8,48,107)"
       },
       {
-        "label": "Treibhausgas-Fussabdruck",
+        "label": "Treibhausgasfussabdruck",
         "value": "14",
         "unit": " t",
         "description": "Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums",
@@ -1130,7 +1130,7 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
         "unit": "°",
         "description": "Veränderung der Jahresmitteltemperatur seit 1864",
         "source": {
-          "name": "MeteoSchweiz",
+          "name": "Meteo Schweiz",
           "url": "https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html",
           "date": "2018"
         },
@@ -1142,7 +1142,7 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
         "unit": "%",
         "description": "Veränderung des Eisvolumens der Schweizer Gletscher seit 2000",
         "source": {
-          "name": "GLAMOS",
+          "name": "Glamos",
           "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html",
           "date": "2018"
         },
@@ -1156,33 +1156,33 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
 ```
 
 ```html
-<style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; flex-wrap: wrap; }@media only screen and (max-width: 767px) {
+<style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; -webkit-box-lines: multiple; flex-wrap: wrap; }@media only screen and (max-width: 767px) { 
   .css-tdv8zt, [data-css-tdv8zt] { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
-}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
   .css-z781yx, [data-css-z781yx] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
-}@media only screen and (min-width: 1025px) {
+}@media only screen and (min-width: 1025px) { 
   .css-z781yx, [data-css-z781yx] { width: 25%; padding-left: 0px; }
-}@media only screen and (max-width: 767px) {
+}@media only screen and (max-width: 767px) { 
   .css-z781yx, [data-css-z781yx] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
   .css-1akzvxi, [data-css-1akzvxi] { width: 50%; padding-bottom: 15px; padding-left: 15px; }
-}@media only screen and (min-width: 1025px) {
+}@media only screen and (min-width: 1025px) { 
   .css-1akzvxi, [data-css-1akzvxi] { width: 25%; padding-left: 15px; }
-}@media only screen and (max-width: 767px) {
+}@media only screen and (max-width: 767px) { 
   .css-1akzvxi, [data-css-1akzvxi] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
+}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
   .css-26u5fm, [data-css-26u5fm] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
-}@media only screen and (min-width: 1025px) {
+}@media only screen and (min-width: 1025px) { 
   .css-26u5fm, [data-css-26u5fm] { width: 25%; padding-left: 15px; }
-}@media only screen and (max-width: 767px) {
+}@media only screen and (max-width: 767px) { 
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.5</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f="">Emissionen im Inland</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">Treibhausgas-Fussabdruck</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">14</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f="">Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+2</span><span data-css-1dsf54m="">°</span></div><div data-css-1tzx89f="">Veränderung der Jahresmitteltemperatur seit 1864</div><div><span data-css-18yx3y4=""><a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">MeteoSchweiz, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Gletscherschwund</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">–25</span><span data-css-1dsf54m="">%</span></div><div data-css-1tzx89f="">Veränderung des Eisvolumens der Schweizer Gletscher seit 2000</div><div><span data-css-18yx3y4=""><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html">GLAMOS, 2018</a></span></div></div></div></div>
+}.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
+<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Ausstoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.5</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f="">Emissionen im Inland</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">Treibhausgasfussabdruck</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">14</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f="">Emissionen aller Treibhausgase in CO₂-Äquivalenten pro Kopf im Inland aufgrund des in- und ausländischen Konsums</div><div><span data-css-18yx3y4=""><a href="https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040">Bafu, 2015</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+2</span><span data-css-1dsf54m="">°</span></div><div data-css-1tzx89f="">Veränderung der Jahresmitteltemperatur seit 1864</div><div><span data-css-18yx3y4=""><a href="https://www.meteoschweiz.admin.ch/home/klima/klimawandel-schweiz/temperatur-und-niederschlagsentwicklung.html">Meteo Schweiz, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Gletscherschwund</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">–25</span><span data-css-1dsf54m="">%</span></div><div data-css-1tzx89f="">Veränderung des Eisvolumens der Schweizer Gletscher seit 2000</div><div><span data-css-18yx3y4=""><a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/klimabezogene-indikatoren/beobachtete-veraenderungen.assetdetail.9226851.html">Glamos, 2018</a></span></div></div></div></div>
 ```
 
 <hr /></section>
 
-Die Schweiz ist vom Klima­wandel überdurchschnittlich stark betroffen. Die Durchschnitts­temperatur hat hierzulande seit 1864 mit 2 Grad Celsius um doppelt soviel zugenommen wie im globalen Durchschnitt.
+Die Schweiz ist vom Klima­wandel überdurchschnittlich stark betroffen. Die Durchschnitts­temperatur hat hierzulande seit 1864 mit 2 Grad Celsius doppelt so stark zugenommen wie im globalen Durchschnitt.
 
 <section><h6>CHART</h6>
 
@@ -1190,7 +1190,7 @@ Die Schweiz ist vom Klima­wandel überdurchschnittlich stark betroffen. Die Dur
 {
   "type": "TimeBar",
   "value": "label",
-  "unit": "Millionen Tonnen CO2-Äquivalente",
+  "unit": "Millionen Tonnen CO₂-Äquivalente",
   "color": "origin",
   "colorRange": [
     "#092F6B",
@@ -1247,11 +1247,11 @@ year,origin,value
 2015,Emissionen im Ausland,69.58
 ```
 
-Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040).
+Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040)
 
 <hr /></section>
 
-Im Jahr 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus den globalen Klima­modellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Findet kein wirksamer Klimaschutz statt, drohen Folgen: trockenere Sommer, schneearme Winter, mehr Hitzetage und heftige Niederschläge.
+Im Jahr 2018 veröffentlichte Meteo Schweiz zusammen mit der ETH Zürich die Ergebnisse der Studie «[CH2018 – Klimaszenarien für die Schweiz](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html)», in der aus den globalen Klima­modellen mithilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Findet kein wirksamer Klimaschutz statt, drohen Folgen: trockenere Sommer, schneearme Winter, mehr Hitzetage und heftige Niederschläge.
 
 <section><h6>CHART</h6>
 
@@ -1467,11 +1467,11 @@ Year,value,Kategorie
 2049,0,Gebäude
 ```
 
-Die Land­wirtschaft macht rund zwei Drittel der Emissionen im Bereich Übrige aus. Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikatoren-karten/daten/co2-statistik.html), [Entwurf zum revidierten CO₂-Gesetz](https://www.bafu.admin.ch/dam/bafu/de/dokumente/klima/rechtliche-grundlagen/botschaft-totalrevision-co2-gesetz-nach-2020.pdf.download.pdf/Beilage_01_BO_DE_CO2-Gesetz_zu_BRA_UVEK.pdf).
+Die Land­wirtschaft macht rund zwei Drittel der Emissionen im Bereich Übrige aus. Quellen: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikatoren-karten/daten/co2-statistik.html), [Entwurf zum revidierten CO₂-Gesetz](https://www.bafu.admin.ch/dam/bafu/de/dokumente/klima/rechtliche-grundlagen/botschaft-totalrevision-co2-gesetz-nach-2020.pdf.download.pdf/Beilage_01_BO_DE_CO2-Gesetz_zu_BRA_UVEK.pdf)
 
 <hr /></section>
 
-Den grössten Beitrag zu den CO<sub>2</sub>-Emissionen in der Schweiz hat mit rund 32 Prozent der Verkehr (ohne Flugverkehr). Die Sektoren Gebäude und Industrie verursachen je rund einen Viertel. Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen in den Sektoren Gebäude und Industrie um 26 Prozent beziehungs­weise 18 Prozent gegenüber 1990 gesenkt werden. Beim Verkehr sind die Personen­wagen mit [75 Prozent der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) Spitzenreiter.
+Den grössten Beitrag zu den CO<sub>2</sub>-Emissionen in der Schweiz hat mit rund 32 Prozent der Verkehr (ohne Flugverkehr). Die Sektoren Gebäude und Industrie verursachen je rund ein Viertel. Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen in den Sektoren Gebäude und Industrie um 26 Prozent beziehungs­weise 18 Prozent gegenüber 1990 gesenkt werden. Beim Verkehr sind die Personen­wagen mit [75 Prozent der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) Spitzenreiter.
 
 <section><h6>CHART</h6>
 
@@ -1813,7 +1813,7 @@ time,value
 2018,1
 ```
 
-Normperiode ist 1961 bis 1990; die Farb­codierung entspricht +/– 2,5 Grad. Quelle: [Meteo Schweiz](https://www.meteoschweiz.admin.ch/home/klima/schweizer-klima-im-detail/schweizer-temperaturmittel/daten-schweizer-temperaturmittel.html).
+Normperiode ist 1961 bis 1990; die Farb­codierung entspricht +/– 2,5 Grad. Quelle: [Meteo Schweiz](https://www.meteoschweiz.admin.ch/home/klima/schweizer-klima-im-detail/schweizer-temperaturmittel/daten-schweizer-temperaturmittel.html)
 
 <hr /></section>
 
@@ -1821,7 +1821,7 @@ Normperiode ist 1961 bis 1990; die Farb­codierung entspricht +/– 2,5 Grad. Qu
 
 ### Zum Dossier Klimakrise
 
-Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwer­punkt liegt auf der Präsentation von Daten aus Primär­quellen und in der Zusammen­stellung von ausgewählten Beiträgen der Republik. Alle Quellen und Original­daten, sowie die Methoden ihrer Aufbereitung, sind [hier dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/).
+Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Auswirkungen – weltweit und in der Schweiz. Der Schwer­punkt liegt auf der Präsentation von Daten aus Primär­quellen und in der Zusammen­stellung von ausgewählten Beiträgen der Republik. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung sind [hier dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/).
 
 <hr /></section>
 
@@ -1860,8 +1860,8 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und seinen Auswirk
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
