@@ -1988,7 +1988,7 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
   "props": {
     "item": {
       "color": "#fff",
-      "author": "Von Urs Bruderer (Text) und Adam Higton (Illustrationen), 07.09.2018",
+      "author": "Von <a href='/~ubruderer'>Urs Bruderer</a> (Text) und Adam Higton (Illustrationen), 07.09.2018",
       "url": "https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn",
       "textPosition": "topright",
       "title": "Das Land, wo bald die Zitronen blühn",
@@ -2135,8 +2135,22 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
 
 ```
 {
-  "src": "https://cdn.repub.ch/",
-  "autoHtml": true
+  "autoHtml": false,
+  "props": {
+    "item": {
+      "color": "#fff",
+      "author": "Von <a href='/~amoor'>Andreas Moor</a> und <a href='/~simonschmid'>Simon Schmid</a>",
+      "url": "https://www.republik.ch/2019/02/06/wo-koennen-wir-im-jahr-2060-noch-ski-fahren",
+      "textPosition": "topleft",
+      "title": "Wo können wir 2060 noch Ski fahren?",
+      "split": true,
+      "type": "Beitrag",
+      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/2a9e3b3075a1759f7ce276477d19efec6b1aa0a9.svg",
+      "lead": "Es fällt trotz wissenschaftlicher Warnungen schwer, sich die Folgen des Klimawandels auszumalen. Wir versuchen es: anhand von Schweizer Skigebieten.",
+      "bgColor": "#fff"
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
 }
 ```
 
