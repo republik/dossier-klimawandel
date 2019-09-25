@@ -16,7 +16,7 @@ description: ''
 
 ⁣
 
-Letzte Aktualisierung: 25.09.2019
+Letzte Aktualisierung: 26.09.2019
 
 <hr /></section>
 
@@ -1865,7 +1865,7 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Ausw
 }
 ```
 
-## Schweiz
+## 
 
 <section><h6>TEASERGROUP</h6>
 
@@ -1892,13 +1892,13 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Ausw
 
 ###### 
 
-# Mit Baby­schrittchen zur Klima­neutralität
+# Der Republik-Klimareport
 
 ## 
 
-#### Der Ständerat berät das CO₂-Gesetz. Wie klima­freundlich steht die Schweiz heute da? Der aktualisierte Klimapolitik-Report.
+#### Der Ständerat hat das CO₂-Gesetz verabschiedet. Wie klima­freundlich steht die Schweiz jetzt da? Alle Fakten auf einen Blick.
 
-Von [Elia Blülle](/~eblulle "Elia Blülle") und [Simon Schmid](/~simonschmid), 24.09.2019
+Von [Elia Blülle](/~eblulle "Elia Blülle") und [Simon Schmid](/~simonschmid), 24.09.2019, Update 25.09.2019
 
 <hr /></section>
 
@@ -2016,7 +2016,7 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
 }
 ```
 
-## Grundsätzlich
+## 
 
 <section><h6>TEASERGROUP</h6>
 
@@ -2082,7 +2082,7 @@ Von [Arian Bastani](/~abastani), 23.09.2019
 
 ###### Auf lange Sicht
 
-# Höchste Temperatur seit 120’000 Jahren gemessen!
+# Höchste Temperatur seit 120 000 Jahren gemessen!
 
 ## 
 
@@ -2171,7 +2171,7 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
 }
 ```
 
-## Denkanstösse
+## 
 
 <section><h6>TEASERGROUP</h6>
 
