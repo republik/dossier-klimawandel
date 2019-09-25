@@ -56,13 +56,13 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
       },
       {
         "label": "Temperaturanstieg",
-        "value": "+0.85°",
+        "value": "+1°",
         "unit": "",
-        "description": "Abweichung vom langjährigen Durchschnitt 1951–1980",
+        "description": "Abweichung vom langjährigen Durchschnitt 1850–1900",
         "source": {
-          "name": "NASA",
-          "url": "https://climate.nasa.gov/vital-signs/global-temperature/",
-          "date": "2018"
+          "name": "MetOffice",
+          "url": "https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html",
+          "date": "2019"
         },
         "color": "rgb(187,21,26)"
       },
@@ -107,7 +107,7 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
 }@media only screen and (max-width: 767px) {
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
 }.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, Helvetica Neue, Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, Helvetica Neue, Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">409</span><span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, September 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+0.85°</span><span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1951–1980</div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/global-temperature/">NASA, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+94</span><span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">NASA, Mai 2019</a></span></div></div></div></div>
+<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">409</span><span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, September 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+1°</span><span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1850–1900</div><div><span data-css-18yx3y4=""><a href="https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html">MetOffice, 2019</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+94</span><span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">NASA, Mai 2019</a></span></div></div></div></div>
 ```
 
 <hr /></section>
@@ -934,7 +934,7 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementa
 
 <hr /></section>
 
-Das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie die CO<sub>2</sub>-Konzentration in den letzen 500’000 Jahren schwankte und seit der Industrialisierung stark zugenommen hat. Ein Vergleich mit der globalen Durchschnitts­temperatur seit 1880 belegt einen direkten Zusammenhang mit der globalen Erwärmung und weist die Richtung, welche die Temperatur­kurve in Zukunft nehmen wird: nach oben.
+Das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie die CO<sub>2</sub>-Konzentration in den letzen 500’000 Jahren schwankte und seit der Industrialisierung stark zugenommen hat. Ein Vergleich mit der globalen Durchschnitts­temperatur seit 1900 belegt einen direkten Zusammenhang mit der globalen Erwärmung und weist die Richtung, welche die Temperatur­kurve in Zukunft nehmen wird: nach oben.
 
 <section><h6>CHART</h6>
 
@@ -947,158 +947,145 @@ Das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) ze
   "colorRange": [
     "rgb(187,21,26)"
   ],
-  "endValue": false
+  "xTicks": [
+    1900,
+    1950,
+    2000,
+    2019
+  ],
+  "startValue": false
 }
 ```
 
-### Globaler Temperaturanstieg
+### Erwärmung seit der Industrialisierung
 
-Abweichung vom langjährigen Durchschnitt 1951–1980
+Abweichung der globalen Durchschnitts-Temperatur vom Mittel 1850–1900
 
 ```
 year,value
-1880,-0.09
-1881,-0.13
-1882,-0.17
-1883,-0.2
-1884,-0.24
-1885,-0.26
-1886,-0.27
-1887,-0.27
-1888,-0.26
-1889,-0.25
-1890,-0.25
-1891,-0.25
-1892,-0.26
-1893,-0.26
-1894,-0.24
-1895,-0.22
-1896,-0.2
-1897,-0.18
-1898,-0.17
-1899,-0.17
-1900,-0.2
-1901,-0.24
-1902,-0.26
-1903,-0.29
-1904,-0.32
-1905,-0.35
-1906,-0.37
-1907,-0.38
-1908,-0.4
-1909,-0.42
-1910,-0.42
-1911,-0.4
-1912,-0.36
-1913,-0.33
-1914,-0.32
-1915,-0.31
-1916,-0.3
-1917,-0.3
-1918,-0.31
-1919,-0.3
-1920,-0.28
-1921,-0.27
-1922,-0.26
-1923,-0.25
-1924,-0.24
-1925,-0.23
-1926,-0.23
-1927,-0.22
-1928,-0.2
-1929,-0.2
-1930,-0.2
-1931,-0.19
-1932,-0.18
-1933,-0.17
-1934,-0.16
-1935,-0.14
-1936,-0.11
-1937,-0.07
-1938,-0.02
-1939,0.02
-1940,0.06
-1941,0.08
-1942,0.1
-1943,0.09
-1944,0.07
-1945,0.04
-1946,0.0
-1947,-0.04
-1948,-0.07
-1949,-0.08
-1950,-0.08
-1951,-0.07
-1952,-0.07
-1953,-0.07
-1954,-0.07
-1955,-0.06
-1956,-0.05
-1957,-0.04
-1958,-0.01
-1959,0.01
-1960,0.03
-1961,0.02
-1962,-0.01
-1963,-0.02
-1964,-0.04
-1965,-0.05
-1966,-0.06
-1967,-0.05
-1968,-0.03
-1969,-0.02
-1970,-0.0
-1971,0.01
-1972,0.0
-1973,-0.0
-1974,0.01
-1975,0.02
-1976,0.04
-1977,0.08
-1978,0.12
-1979,0.17
-1980,0.2
-1981,0.21
-1982,0.22
-1983,0.21
-1984,0.21
-1985,0.22
-1986,0.24
-1987,0.27
-1988,0.31
-1989,0.33
-1990,0.33
-1991,0.33
-1992,0.33
-1993,0.33
-1994,0.34
-1995,0.37
-1996,0.4
-1997,0.43
-1998,0.45
-1999,0.48
-2000,0.51
-2001,0.53
-2002,0.55
-2003,0.59
-2004,0.61
-2005,0.62
-2006,0.63
-2007,0.64
-2008,0.65
-2009,0.65
-2010,0.65
-2011,0.67
-2012,0.7
-2013,0.74
-2014,0.79
-2015,0.83
-2016,0.88
-2017,0.92
-2018,0.96
+1900,0.1088
+1901,0.0528
+1902,-0.0902
+1903,-0.1672
+1904,-0.2082
+1905,-0.0652
+1906,0.0288
+1907,-0.1532
+1908,-0.1992
+1909,-0.2102
+1910,-0.1782
+1911,-0.2322
+1912,-0.1252
+1913,-0.1122
+1914,0.0678
+1915,0.1708
+1916,-0.0712
+1917,-0.1562
+1918,-0.0212
+1919,0.0368
+1920,0.0648
+1921,0.1248
+1922,0.0098
+1923,0.0358
+1924,0.0178
+1925,0.0968
+1926,0.2038
+1927,0.1018
+1928,0.1058
+1929,-0.0382
+1930,0.1748
+1931,0.2248
+1932,0.1748
+1933,0.0388
+1934,0.1808
+1935,0.1338
+1936,0.1648
+1937,0.2858
+1938,0.3058
+1939,0.2598
+1940,0.3258
+1941,0.3318
+1942,0.2848
+1943,0.3078
+1944,0.4558
+1945,0.3368
+1946,0.2408
+1947,0.2738
+1948,0.2728
+1949,0.2378
+1950,0.1388
+1951,0.2598
+1952,0.3398
+1953,0.4088
+1954,0.1828
+1955,0.1218
+1956,0.0448
+1957,0.3048
+1958,0.3578
+1959,0.3288
+1960,0.2628
+1961,0.3498
+1962,0.3258
+1963,0.3598
+1964,0.0888
+1965,0.1718
+1966,0.2438
+1967,0.2378
+1968,0.1988
+1969,0.3438
+1970,0.2848
+1971,0.1258
+1972,0.2468
+1973,0.3738
+1974,0.0978
+1975,0.1628
+1976,0.0708
+1977,0.3588
+1978,0.2498
+1979,0.3688
+1980,0.4038
+1981,0.4518
+1982,0.3228
+1983,0.5058
+1984,0.2978
+1985,0.2818
+1986,0.3568
+1987,0.5038
+1988,0.5098
+1989,0.4298
+1990,0.6078
+1991,0.5658
+1992,0.4168
+1993,0.4598
+1994,0.5198
+1995,0.6368
+1996,0.4948
+1997,0.7018
+1998,0.8508
+1999,0.6178
+2000,0.6058
+2001,0.7528
+2002,0.8078
+2003,0.8168
+2004,0.7588
+2005,0.8568
+2006,0.8178
+2007,0.8028
+2008,0.7068
+2009,0.8178
+2010,0.8718
+2011,0.7368
+2012,0.7818
+2013,0.8258
+2014,0.8908
+2015,1.0748
+2016,1.1088
+2017,0.9888
+2018,0.9088
+2019,1.0358
 ```
 
-Quelle: [NASA](https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt), geglättet.
+Quelle: [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html).
 
 <hr /></section>
 
