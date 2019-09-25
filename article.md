@@ -957,7 +957,7 @@ Das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) ze
 }
 ```
 
-### Erwärmung seit der Industrialisierung
+### Deutliche Erwärmung seit der vorindustriellen Zeit
 
 Abweichung der globalen Durchschnittstemperatur vom Mittel 1850–1900
 
@@ -1085,7 +1085,7 @@ year,value
 2019,1.0358
 ```
 
-Quelle: [Met Office](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
+Quelle: [Met Office](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html).
 
 <hr /></section>
 
@@ -1860,8 +1860,8 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Ausw
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -2130,6 +2130,8 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
 <hr /></section>
 
 <hr /></section>
+
+
 
 <hr /></section>
 
