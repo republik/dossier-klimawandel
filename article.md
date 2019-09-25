@@ -5,7 +5,7 @@ feed: false
 gallery: true
 title: Klimakrise
 subject: ''
-description: ''
+description: 'Daten, Fakten, Hintergründe – und ein Best-of der Republik-Beiträge zum Thema.'
 ---
 
 <section><h6>TITLE</h6>
