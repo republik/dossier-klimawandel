@@ -1865,7 +1865,7 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und seinen Auswirk
 }
 ```
 
-## Schweizerische Klimapolitik
+## Schweiz
 
 <section><h6>TEASERGROUP</h6>
 
@@ -1885,7 +1885,7 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und seinen Auswirk
   "titleSize": "standard",
   "id": "vgyLs3Bk2",
   "portrait": true,
-  "showImage": true,
+  "showImage": false,
   "bgColor": "#fff"
 }
 ```
@@ -1918,7 +1918,7 @@ Von [Elia Blülle](/~eblulle "Elia Blülle") und [Simon Schmid](/~simonschmid), 
   "titleSize": "standard",
   "id": "bDltGRa3h",
   "portrait": true,
-  "showImage": true,
+  "showImage": false,
   "bgColor": "#fff"
 }
 ```
@@ -1953,7 +1953,7 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
   "titleSize": "standard",
   "id": "mpFAm8IV7",
   "portrait": true,
-  "showImage": true,
+  "showImage": false,
   "bgColor": "#fff"
 }
 ```
@@ -2016,7 +2016,7 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 26.11.2018
 }
 ```
 
-## Blick nach vorn
+## Grundsätzlich
 
 <section><h6>TEASERGROUP</h6>
 
@@ -2028,28 +2028,30 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 26.11.2018
   "color": "#000",
   "teaserType": "articleTile",
   "byline": null,
+  "formatColor": "#08809A",
   "onlyImage": false,
-  "url": "https://github.com/republik/article-klimajugend-2?autoSlug",
+  "url": "https://github.com/republik/article-ozeanserie-1?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
   "titleSize": "standard",
   "id": "CreVYkwZO",
   "portrait": true,
-  "showImage": true,
+  "showImage": false,
   "bgColor": "#fff"
 }
 ```
 
-###### 
+###### Auf lange Sicht
 
-# Schweizer Jugend forsch
+# Wie die Ozeane unsere Erde kühlen
 
 ## 
 
-#### Entgegen den Prognosen vieler lebt die junge Klimabewegung immer noch – und ist bereit für die nächste Offensive. Kann sie mit ihren Protesten die Schweizer Politik verändern?
+#### Diese Woche erscheint der Spezial­bericht des Klimarats über die Weltmeere. Wir erklären, warum die Ozeane für das globale Klima eine entscheidende Rolle spielen.
 
-Von [Elia Blülle](/~eblulle), 09.08.2019
+Von [Arian Bastani](/~abastani), 23.09.2019
 
 <hr /></section>
 
@@ -2061,30 +2063,32 @@ Von [Elia Blülle](/~eblulle), 09.08.2019
   "color": "#000",
   "teaserType": "articleTile",
   "byline": null,
+  "formatColor": "#08809A",
   "onlyImage": false,
-  "url": "https://github.com/republik/article-aufstand-der-streber?autoSlug",
+  "url": "https://github.com/republik/article-ein-120-000-jahre-rekord?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
   "titleSize": "standard",
   "id": "Oot50RsCU",
   "portrait": true,
-  "showImage": true,
+  "showImage": false,
   "bgColor": "#fff"
 }
 ```
 
 ![](images/85bd2986757b890776666dbbf6b719747354b988.jpeg?size=2500x1666)
 
-###### 
+###### Auf lange Sicht
 
-# No future, das war gestern
+# Höchste Temperatur seit 120’000 Jahren gemessen!
 
 ## 
 
-#### Tausende Schweizer Schülerinnen und Schüler streiken für den Klimaschutz. Warum sind die Proteste so erfolgreich, wie werden sie überleben – und was können sie bewirken?
+#### Nein, diese Schlagzeile ist kein Witz: Wir analysieren Temperatur­daten aus den vergangenen Jahrtausenden – und zeigen, wie der Mensch gerade die nächste Eiszeit verhindert.
 
-Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 15.03.2019
+Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e), 03.06.2019
 
 <hr /></section>
 
@@ -2096,28 +2100,30 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 15.03.2019
   "color": "#000",
   "teaserType": "articleTile",
   "byline": null,
+  "formatColor": "#08809A",
   "onlyImage": false,
-  "url": "https://github.com/republik/article-kann-die-ubs-das-klima-retten?autoSlug",
+  "url": "https://github.com/republik/article-klima-temperaturen?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
   "titleSize": "standard",
-  "id": "vQe2rWsEz",
+  "id": "UeEACbg5T",
   "portrait": true,
-  "showImage": true,
+  "showImage": false,
   "bgColor": "#fff"
 }
 ```
 
-###### 
+###### Auf lange Sicht
 
-# Stell dir vor, die UBS wird klimaneutral
+# Wie El Niño und Vulkane das Klima beeinflussen
 
 ## 
 
-#### Was müsste passieren, damit die Finanzindustrie keine Gelder mehr an Öl- und Kohlefirmen vergibt? Wir machen die Probe aufs Exempel.
+#### Warum die Erdtemperatur nicht nur steigt, sondern auch schwankt: zwei Betrachtungen über 150 und 1500 Jahre.
 
-Von Olivier Christe, 05.08.2019
+Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
 
 <hr /></section>
 
