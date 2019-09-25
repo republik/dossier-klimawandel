@@ -137,9 +137,9 @@ Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Eine wichtig
 }
 ```
 
-### Jährlicher CO<sub>2</sub>-Ausstoss
+### China holt auf 
 
-in Gigatonnen
+Jährlicher CO<sub>2</sub>-Ausstoss in Gigatonnen
 
 ```
 year,label,value
@@ -377,7 +377,7 @@ year,label,value
 2017,Andere,17.5013
 ```
 
-Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas)
+Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas).
 
 <hr /></section>
 
@@ -418,9 +418,9 @@ Kumuliert entfallen auf die EU und die USA rund 40 Prozent aller seit 1960 entst
 }
 ```
 
-### CO<sub>2</sub>-Konzentration in der Atmosphäre seit dem Pleistozän
+### Markanter Anstieg seit der Industrialiserung
 
-
+CO<sub>2</sub>-Konzentration in der Atmosphäre seit dem Pleistozän
 
 ```
 year,value
@@ -930,7 +930,7 @@ year,value
 2018,408.52
 ```
 
-Die CO<sub>2</sub>-Konzentration hat in den vergangenen 500’000 Jahren stets geschwankt. Erst seit der Industrialisierung ändert sich das Bild. Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementary-information), [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
+Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementary-information), [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
 
 <hr /></section>
 
@@ -953,7 +953,7 @@ Das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) ze
 
 ### Globaler Temperaturanstieg
 
-Abweichung vom langjährigen Durchschnitt 1951–1980, geglättet
+Abweichung vom langjährigen Durchschnitt 1951–1980
 
 ```
 year,value
@@ -1098,7 +1098,7 @@ year,value
 2018,0.96
 ```
 
-Quelle: [NASA](https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt)
+Quelle: [NASA](https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt), geglättet.
 
 <hr /></section>
 
@@ -1212,9 +1212,9 @@ Die Schweiz ist vom Klimawandel überdurchschnittlich stark betroffen. Die Durch
 }
 ```
 
-### Treibhausgas-Emissionen durch inländischen Konsum
+### «Graue Emissionen» überwiegen
 
-Den grössten Teil der Emissionen verursachen Schweizer Konsumenten im Ausland
+Treibhausgas-Emissionen durch Schweizer Konsumenten
 
 ```
 year,origin,value
@@ -1260,7 +1260,7 @@ year,origin,value
 2015,Emissionen im Ausland,69.58
 ```
 
-Den grössten Teil der Emissionen verursachen Schweizer Konsumenten im Ausland. Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040).
+Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040).
 
 <hr /></section>
 
@@ -1322,9 +1322,9 @@ Im Jahr 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Erge
 }
 ```
 
-### Klimaziele und Emissionen nach Sektoren
+### Ein weiter Weg, selbst zu den Zwischenzielen
 
-
+Klimaziele des Bundes und Treibhausgas-Emissionen nach Sektoren
 
 ```
 Year,value,Kategorie
@@ -1480,7 +1480,7 @@ Year,value,Kategorie
 2049,0,Gebäude
 ```
 
-Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikatoren-karten/daten/co2-statistik.html). Die Land­wirtschaft macht rund zwei Drittel der Emissionen im Bereich Übrige aus. Die Ziele für 2030 entstammen dem [Entwurf zum revidierten CO₂-Gesetz](https://www.bafu.admin.ch/dam/bafu/de/dokumente/klima/rechtliche-grundlagen/botschaft-totalrevision-co2-gesetz-nach-2020.pdf.download.pdf/Beilage_01_BO_DE_CO2-Gesetz_zu_BRA_UVEK.pdf), das eine Reduktion von 30 Prozent im Inland gegenüber 1990 vorsieht und vom Ständerat bestätigt wurde. Die Ziele für 2020 stammen von 2011.
+Die Land­wirtschaft macht rund zwei Drittel der Emissionen im Bereich Übrige aus. Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikatoren-karten/daten/co2-statistik.html), [Entwurf zum revidierten CO₂-Gesetz](https://www.bafu.admin.ch/dam/bafu/de/dokumente/klima/rechtliche-grundlagen/botschaft-totalrevision-co2-gesetz-nach-2020.pdf.download.pdf/Beilage_01_BO_DE_CO2-Gesetz_zu_BRA_UVEK.pdf).
 
 <hr /></section>
 
@@ -1663,9 +1663,9 @@ Den grössten Beitrag zu den CO<sub>2</sub>-Emissionen in der Schweiz hat mit ru
 }
 ```
 
-### Temperatur­abweichungen in der Schweiz von 1864 bis 2018
+### Extrem ist das neue Normal
 
-
+Temperatur­abweichungen gegenüber der Normperiode in der Schweiz von 1864 bis 2018
 
 ```
 time,value
@@ -1826,7 +1826,7 @@ time,value
 2018,1
 ```
 
-Quelle: [Meteo Schweiz](https://www.meteoschweiz.admin.ch/home/klima/schweizer-klima-im-detail/schweizer-temperaturmittel/daten-schweizer-temperaturmittel.html). Dargestellt ist die Abweichung von der Normperiode 1961 bis 1990: Die Farbcodierung entspricht +/– 2,5 Grad.
+Normperiode ist 1961 bis 1990; die Farbcodierung entspricht +/– 2,5 Grad. Quelle: [Meteo Schweiz](https://www.meteoschweiz.admin.ch/home/klima/schweizer-klima-im-detail/schweizer-temperaturmittel/daten-schweizer-temperaturmittel.html).
 
 <hr /></section>
 
