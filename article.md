@@ -418,7 +418,7 @@ Kumuliert entfallen auf die EU und die USA rund 40 Prozent aller seit 1960 entst
 }
 ```
 
-### CO<sub>2</sub>-Konzentration in der Atmosphäre
+### CO<sub>2</sub>-Konzentration in der Atmosphäre seit dem Pleistozän
 
 
 
