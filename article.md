@@ -1910,6 +1910,41 @@ Von [Elia Blülle](/~eblulle "Elia Blülle") und [Simon Schmid](/~simonschmid), 
   "color": "#000",
   "teaserType": "articleTile",
   "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-co2-pro-kopf?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "vzxLpV2FZ",
+  "portrait": true,
+  "showImage": false,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Das kleine Einmaleins der Klimapolitik
+
+## 
+
+#### Wie schnell muss die Schweiz ihre Treibhausgasemissionen reduzieren? Zwei Grafiken geben darauf eine intuitive Antwort.
+
+Von [Simon Schmid](/~simonschmid), 26.11.2018
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
   "onlyImage": false,
   "url": "https://github.com/republik/article-klimareport?autoSlug",
   "kind": "editorial",
@@ -1932,41 +1967,6 @@ Von [Elia Blülle](/~eblulle "Elia Blülle") und [Simon Schmid](/~simonschmid), 
 #### Die Erderwärmung trifft die Schweiz härter als angenommen. Umso energischer müsste die Politik durchgreifen. Tut sie es? Eine Auslege­ordnung in sechs Punkten.
 
 Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97 "Simon Schmid"), 16.11.2018
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "formatColor": "#08809A",
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-co2-pro-kopf?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
-  "titleSize": "standard",
-  "id": "mpFAm8IV7",
-  "portrait": true,
-  "showImage": false,
-  "bgColor": "#fff"
-}
-```
-
-###### Auf lange Sicht
-
-# Das kleine Einmaleins der Klimapolitik
-
-## 
-
-#### Wie schnell muss die Schweiz ihre Treibhausgas­emissionen reduzieren? Zwei Grafiken geben darauf eine intuitive Antwort.
-
-Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 26.11.2018
 
 <hr /></section>
 
