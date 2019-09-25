@@ -1652,7 +1652,7 @@ Den grössten Beitrag zu den CO<sub>2</sub>-Emissionen in der Schweiz hat mit ru
 
 ### Extrem ist das neue Normal
 
-Temperatur­abweichungen gegenüber der Norm­periode in der Schweiz von 1864 2018
+Temperatur­abweichungen in der Schweiz gegenüber der Norm­periode; Zeitraum: 1864 bis 2018
 
 ```
 time,value
