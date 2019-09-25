@@ -2145,7 +2145,7 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
       "url": "https://www.republik.ch/2019/02/06/wo-koennen-wir-im-jahr-2060-noch-ski-fahren",
       "textPosition": "topleft",
       "title": "Wo können wir 2060 noch Ski fahren?",
-      "split": true,
+      "split": false,
       "type": "Beitrag",
       "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/2a9e3b3075a1759f7ce276477d19efec6b1aa0a9.svg",
       "lead": "Es fällt trotz wissenschaftlicher Warnungen schwer, sich die Folgen des Klimawandels auszumalen. Wir versuchen es: anhand von Schweizer Skigebieten.",
