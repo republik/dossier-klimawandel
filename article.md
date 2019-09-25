@@ -1839,13 +1839,13 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Ausw
   "props": {
     "item": {
       "color": "#FCFDDB",
-      "header": "Serie Wissenschaftsgeschichte des Klimawandels",
-      "author": "Von <a href='/~abastani'>Arian Bastiani</a>, 4.12. – 27.17.2018",
+      "header": "Geschichte des Klimawandels",
+      "author": "Von <a href='/~abastani'>Arian Bastiani</a>, 04.12.2018",
       "url": "https://www.republik.ch/2018/12/05/geheimnisvolle-strahlen",
       "title": "Geheimnisvolle Strahlen",
       "textPosition": "topleft",
       "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-klima-forschungsgeschichte-teil-1/images/2b0b82cc16d0baaf0491b5bf1e6e70c72cb435d3.jpeg",
-      "lead": "Wie die Klimaforschung von der Entdeckung des Treibhauseffekts im 19. Jahrhundert den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen."
+      "lead": "Wie die Klimaforschung von der Entdeckung des Treibhauseffekts im 19. Jahrhundert den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde. Ein Serie in vier Teilen."
     }
   },
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
@@ -1987,7 +1987,7 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
   "autoHtml": false,
   "props": {
     "item": {
-      "color": "#fff",
+      "color": "#000",
       "author": "Von <a href='/~ubruderer'>Urs Bruderer</a> (Text) und Adam Higton (Illustrationen), 07.09.2018",
       "url": "https://www.republik.ch/2018/09/07/das-land-wo-bald-die-zitronen-bluehn",
       "textPosition": "topright",
@@ -1996,7 +1996,7 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
       "type": "Beitrag",
       "image": "https://cdn.republik.space/s3/republik-assets/github/republik/article-das-land-wo-die-zitronen-bluehn/images/cf31077d21d1e2accace0240a3b004e3b631eb39.gif",
       "lead": "Die Schweiz wird zu einem mediterranen Land, nur leider ohne Meer. Für die Landwirtschaft ein Glück: Es werden Melonen, Reis und Topweine wachsen. Doch den Bauern fällt die Umstellung schwer, die der Klimawandel verlangt.",
-      "bgColor": "#EFCE5A"
+      "bgColor": "#F1D465"
     }
   },
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
@@ -2141,7 +2141,7 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
   "props": {
     "item": {
       "color": "#555758",
-      "author": "Von <a href='/~amoor'>Andreas Moor</a> und <a href='/~simonschmid'>Simon Schmid</a>",
+      "author": "Von <a href='/~amoor'>Andreas Moor</a> und <a href='/~simonschmid'>Simon Schmid</a>, 06.02.2019",
       "url": "https://www.republik.ch/2019/02/06/wo-koennen-wir-im-jahr-2060-noch-ski-fahren",
       "textPosition": "topleft",
       "title": "Wo können wir 2060 noch Ski fahren?",
