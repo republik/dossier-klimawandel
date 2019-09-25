@@ -2131,6 +2131,133 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
 
 <hr /></section>
 
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "src": "https://cdn.repub.ch/",
+  "autoHtml": true
+}
+```
+
+<hr /></section>
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## Denkanstösse
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-alles-was-sie-noch-nie-wissen?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "XWcGC5aIO",
+  "portrait": true,
+  "showImage": false,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Die grosse Überforderung
+
+## 
+
+#### Keine kommende Katastrophe wurde je so gründlich untersucht wie die Klimaerwärmung. Und keine wurde so gründlich ignoriert. Was war los? Und was muss passieren?
+
+Ein Essay von [Urs Bruderer](/~ubruderer), 24.08.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-cilmate-cities?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "OSuMIGsw5x",
+  "portrait": true,
+  "showImage": false,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Bern ist im Sommer bald so heiss wie Mailand
+
+## 
+
+#### Wie verändert sich das Klima von Städten über die nächsten Jahrzehnte? Forscher der ETH Zürich haben uns die Zahlen gegeben – wir haben sie visualisiert: als klimatische Städtetrips.
+
+Von [Simon Schmid](/~simonschmid) (Text) und [Andreas Moor](/~amoor "Andreas Moor") (Visualisierung), 11.07.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-tamedia-verbreitet-klimaleugner-content?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "j9MXoN2ol",
+  "portrait": true,
+  "showImage": false,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Keine Bühne mehr für Klimaleugner
+
+## 
+
+#### Liebe Medien, die Debatte ist beendet: Warum es Zeit ist, wissenschaftsfreien Unsinn konsequent zu verbannen.
+
+Von [Elia Blülle](/~eblulle), 25.04.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
+
 
 
 <hr /></section>
