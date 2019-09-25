@@ -8,10 +8,10 @@ facebookTitle: 'Daten, Fakten, Hintergründe – und ein Best-of der Republik-Be
 gallery: true
 facebookImage: images/35bef218644360bf41a3fa3a4ecc1d907bfd1873.png?size=1204x630
 facebookDescription: ' '
-title: Klimakrise
+title: Dossier Klimakrise
 template: dossier
 shortTitle: >-
-  Klimakrise: Daten, Fakten, Hintergründe – und ein Best-of der
+  Dossier Klimakrise: Daten, Fakten, Hintergründe – und ein Best-of der
   Republik-Beiträge
 description: 'Daten, Fakten, Hintergründe – und ein Best-of der Republik-Beiträge zum Thema.'
 feed: false
