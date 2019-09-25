@@ -1091,7 +1091,7 @@ Quelle: [Met Office](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/d
 
 ## Schweiz
 
-Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas­emissionen im Inland von 5,6 Tonnen pro Kopf (davon 4,5 Tonnen CO<sub>2</sub>). [Laut dem Treibhausgasinventar des Bundesamts für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) sind die Emissionen seit 1990 um 12 Prozent gesunken. Werden allerdings die durch Importe verursachten «grauen Emissionen» hinzugerechnet, liegt die Schweiz mit ihrem «Treibhausgas­fussabdruck» von 14 Tonnen pro Kopf deutlich über dem weltweiten Durchschnitt von 6 Tonnen.
+Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas­emissionen im Inland von 5,6 Tonnen pro Kopf (davon 4,5 Tonnen CO<sub>2</sub>). [Laut dem Treibhausgasinventar des Bundesamts für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) sind die Emissionen seit 1990 um 12 Prozent gesunken. Werden allerdings die durch Importe verursachten «grauen Emissionen» hinzugerechnet, liegt die Schweiz mit ihrem «Treibhausgas­fussabdruck» von 14 Tonnen pro Kopf im Jahr 2015 deutlich über dem weltweiten Durchschnitt von 6 Tonnen.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
