@@ -1978,13 +1978,12 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
 
 
 
-<hr /></section>
-
 <section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
 {
   "autoHtml": false,
+  "size": "breakout",
   "props": {
     "item": {
       "color": "#000",
@@ -2004,8 +2003,6 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
 ```
 
 <hr /></section>
-
-<section><h6>CENTER</h6>
 
 <section><h6>ARTICLECOLLECTION</h6>
 
