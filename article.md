@@ -1,16 +1,16 @@
 ---
 template: dossier
-slug: klimawandel
+slug: klimakrise
 feed: false
 gallery: true
-title: Klimawandel
+title: Klimakrise
 subject: ''
 description: ''
 ---
 
 <section><h6>TITLE</h6>
 
-# Die Klimakrise
+# Klimakrise
 
 ## 
 
@@ -22,7 +22,7 @@ Letzte Aktualisierung: 25.09.2019
 
 <section><h6>CENTER</h6>
 
-Die Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengemacht ist, ist [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Der _Weltklimarat_ IPCC stellt in seinem [Synthesebericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klimasystem ist klar und die jüngsten anthropogenen Emissionen von Treibhausgasen sind die höchsten in der Geschichte. Die jüngsten Klimaänderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
+Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil menschen­gemacht ist, [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Der Welt­klimarat IPCC stellt in seinem [Bericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klima­system ist klar und die jüngsten anthropogenen Emissionen von Treibhaus­gasen sind die höchsten in der Geschichte. Die jüngsten Klima­änderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -56,13 +56,13 @@ Die Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengem
       },
       {
         "label": "Temperaturanstieg",
-        "value": "+0.8°",
+        "value": "+1°",
         "unit": "",
-        "description": "Abweichung vom langjährigen Durchschnitt 1951–1980",
+        "description": "Abweichung vom langjährigen Durchschnitt 1850–1900",
         "source": {
-          "name": "NASA",
-          "url": "https://climate.nasa.gov/vital-signs/global-temperature/",
-          "date": "2018"
+          "name": "MetOffice",
+          "url": "https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html",
+          "date": "2019"
         },
         "color": "rgb(187,21,26)"
       },
@@ -87,7 +87,7 @@ Die Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengem
 
 ```html
 <style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; flex-wrap: wrap; }@media only screen and (max-width: 767px) {
-  .css-tdv8zt, [data-css-tdv8zt] { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
+  .css-tdv8zt, [data-css-tdv8zt] { -moz-box-orient: vertical; -moz-box-direction: normal; flex-direction: column; }
 }.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
   .css-z781yx, [data-css-z781yx] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
 }@media only screen and (min-width: 1025px) {
@@ -106,13 +106,13 @@ Die Klimawandel ist eine Realität – dass er zu einem grossen Teil menschengem
   .css-26u5fm, [data-css-26u5fm] { width: 25%; padding-left: 15px; }
 }@media only screen and (max-width: 767px) {
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">409</span><span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, September 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+0.8°</span><span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1951–1980</div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/global-temperature/">NASA, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+94</span><span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">NASA, Mai 2019</a></span></div></div></div></div>
+}.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, Helvetica Neue, Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, Helvetica Neue, Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
+<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Austoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">409</span><span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre.</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, September 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+1°</span><span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1850–1900</div><div><span data-css-18yx3y4=""><a href="https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html">MetOffice, 2019</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+94</span><span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">NASA, Mai 2019</a></span></div></div></div></div>
 ```
 
 <hr /></section>
 
-Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtiger Mechanismus ist dabei der _Treibhauseffekt_: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch _Treibhausgase_ absorbiert, anstatt dass sie ins All entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den natürlichen Treibhauseffekt, in dem er beispielsweise durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
+Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Eine wichtige Rolle spielt dabei der Treibhaus­effekt: Die von der Erdoberfläche reflektierte Wärme­strahlung der Sonne wird in der Atmosphäre durch Treibhaus­gase aufgenommen, anstatt dass sie ins Weltall entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den natürlichen Treibhaus­effekt, indem er zum Beispiel durch das Verbrennen fossiler Energie­träger zusätzlich Treibhaus­gase in die Atmosphäre entlässt.
 
 <section><h6>CHART</h6>
 
@@ -137,9 +137,9 @@ Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Ein wichtige
 }
 ```
 
-### Jährlicher CO<sub>2</sub>-Ausstoss
+### China holt auf
 
-
+Jährlicher CO<sub>2</sub>-Ausstoss in Gigatonnen
 
 ```
 year,label,value
@@ -377,13 +377,13 @@ year,label,value
 2017,Andere,17.5013
 ```
 
-Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas)
+Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas).
 
 <hr /></section>
 
-Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt das Gas _Kohlendioxid_. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 _vervierfacht_, auf rund 36 Gigatonnen. [Gemäss der Internationalen Energiagentur](https://www.iea.org/statistics/co2emissions/) gingen davon im Jahr 2014 rund 42 Prozent auf das Konto der Elektriziäts- und Wärmeproduktion. 
+Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klima­veränderung gilt Kohlen­dioxid. Die jährlichen weltweiten CO<sub>2</sub>-Emissionen haben sich von 1960 bis 2017 auf rund 36 Gigatonnen vervierfacht. [Laut Internationaler Energiagentur](https://www.iea.org/statistics/co2emissions/) gingen davon 2014 rund 42 Prozent auf das Konto der Strom- und Wärmeproduktion. 
 
-Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 40 Prozent aller seit 1960 enstandenen Emissionen – obwohl in diesem Zeitraum ihr Anteil an der Weltbevölkerung nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. Betrachtet man [alle seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1.58 Billionen Tonnen CO₂-Emissionen, dann haben die USA davon ein Viertel und China ein Achtel zu verantworten.
+Kumuliert entfallen auf die EU und die USA rund 40 Prozent aller seit 1960 entstandenen Emissionen – obwohl ihr Anteil an der Welt­bevölkerung in diesem Zeitraum nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. Auf [alle seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1,58 Billionen Tonnen CO<sub>2</sub> sind die USA für einen Viertel und China für einen Achtel verantwortlich.
 
 <section><h6>CHART</h6>
 
@@ -418,9 +418,9 @@ Kumuliert über diesen Zeitraum entfallen auf die EU und die USA zusammen rund 4
 }
 ```
 
-### CO<sub>2</sub>-Konzentration in der Atmosphäre
+### Markanter Anstieg seit der Industrialiserung
 
-
+CO<sub>2</sub>-Konzentration in der Atmosphäre seit dem Pleistozän
 
 ```
 year,value
@@ -930,15 +930,168 @@ year,value
 2018,408.52
 ```
 
-Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementary-information), [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
+Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementary-information), [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
 
 <hr /></section>
 
-Legt man das [legendäre _Hockeyschläger-Diagramm_](https://youtu.be/-JIuKjaY3r4?t=281) der CO₂-Konzentration über die historische Zeitreihe der Temperatur, dann wird sichtbar, wie stark diese beiden Grössen verknüpft sind. Zudem drängt sich auf, welche Richtung die Kurve der Temperatur in den nächsten Jahren einschlagen wird: nach oben.
+Das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie die CO<sub>2</sub>-Konzentration in den letzen 500’000 Jahren schwankte und seit der Industrialisierung stark zugenommen hat. Ein Vergleich mit der globalen Durchschnitts­temperatur seit 1900 belegt einen direkten Zusammenhang mit der globalen Erwärmung und weist die Richtung, welche die Temperatur­kurve in Zukunft nehmen wird: nach oben.
+
+<section><h6>CHART</h6>
+
+```
+{
+  "type": "Line",
+  "y": "label",
+  "unit": "Grad Celsius",
+  "numberFormat": "0.1f",
+  "colorRange": [
+    "rgb(187,21,26)"
+  ],
+  "xTicks": [
+    1900,
+    1950,
+    2000,
+    2019
+  ],
+  "startValue": false
+}
+```
+
+### Erwärmung seit der Industrialisierung
+
+Abweichung der globalen Durchschnitts-Temperatur vom Mittel 1850–1900
+
+```
+year,value
+1900,0.1088
+1901,0.0528
+1902,-0.0902
+1903,-0.1672
+1904,-0.2082
+1905,-0.0652
+1906,0.0288
+1907,-0.1532
+1908,-0.1992
+1909,-0.2102
+1910,-0.1782
+1911,-0.2322
+1912,-0.1252
+1913,-0.1122
+1914,0.0678
+1915,0.1708
+1916,-0.0712
+1917,-0.1562
+1918,-0.0212
+1919,0.0368
+1920,0.0648
+1921,0.1248
+1922,0.0098
+1923,0.0358
+1924,0.0178
+1925,0.0968
+1926,0.2038
+1927,0.1018
+1928,0.1058
+1929,-0.0382
+1930,0.1748
+1931,0.2248
+1932,0.1748
+1933,0.0388
+1934,0.1808
+1935,0.1338
+1936,0.1648
+1937,0.2858
+1938,0.3058
+1939,0.2598
+1940,0.3258
+1941,0.3318
+1942,0.2848
+1943,0.3078
+1944,0.4558
+1945,0.3368
+1946,0.2408
+1947,0.2738
+1948,0.2728
+1949,0.2378
+1950,0.1388
+1951,0.2598
+1952,0.3398
+1953,0.4088
+1954,0.1828
+1955,0.1218
+1956,0.0448
+1957,0.3048
+1958,0.3578
+1959,0.3288
+1960,0.2628
+1961,0.3498
+1962,0.3258
+1963,0.3598
+1964,0.0888
+1965,0.1718
+1966,0.2438
+1967,0.2378
+1968,0.1988
+1969,0.3438
+1970,0.2848
+1971,0.1258
+1972,0.2468
+1973,0.3738
+1974,0.0978
+1975,0.1628
+1976,0.0708
+1977,0.3588
+1978,0.2498
+1979,0.3688
+1980,0.4038
+1981,0.4518
+1982,0.3228
+1983,0.5058
+1984,0.2978
+1985,0.2818
+1986,0.3568
+1987,0.5038
+1988,0.5098
+1989,0.4298
+1990,0.6078
+1991,0.5658
+1992,0.4168
+1993,0.4598
+1994,0.5198
+1995,0.6368
+1996,0.4948
+1997,0.7018
+1998,0.8508
+1999,0.6178
+2000,0.6058
+2001,0.7528
+2002,0.8078
+2003,0.8168
+2004,0.7588
+2005,0.8568
+2006,0.8178
+2007,0.8028
+2008,0.7068
+2009,0.8178
+2010,0.8718
+2011,0.7368
+2012,0.7818
+2013,0.8258
+2014,0.8908
+2015,1.0748
+2016,1.1088
+2017,0.9888
+2018,0.9088
+2019,1.0358
+```
+
+Quelle: [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html).
+
+<hr /></section>
 
 ## Schweiz
 
-Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas-Emissionen im Inland von 5.6 Tonnen pro Kopf (davon 4.5 Tonnen CO₂).  [Laut dem Treibhausgasinventar des Bundesamtes für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) Emissionen sind seit 1990 um 12% gesunken. Doch der Schein trügt: Rechnet man den durch importierte Güter verursachten «Grauen Emissionen» hinzu, dann liegt unser Land mit diesem «Treibhausgas-Fussabdruck» von 14 Tonnen CO₂-Äquivalenten weit über dem weltweiten Durchschnitt von 6 Tonnen.
+Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas­emissionen im Inland von 5,6 Tonnen pro Kopf (davon 4,5 Tonnen CO<sub>2</sub>). [Laut dem Treibhausgasinventar des Bundesamts für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) sind die Emissionen seit 1990 um 12 Prozent gesunken. Werden allerdings die durch Importe verursachten «Grauen Emissionen» hinzu gerechnet, liegt die Schweiz mit ihrem «Treibhausgas­fussabdruck» von 14 Tonnen pro Kopf deutlich über dem weltweiten Durchschnitt von 6 Tonnen.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -1029,7 +1182,7 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
 
 <hr /></section>
 
-Die Schweiz ist vom Klimawandel stark betroffen. Die Durchschnittstemperatur hat hierzulande seit 1864 mit 2° um doppelt soviel zugenommen wie im globalen Durchschnitt.
+Die Schweiz ist vom Klima­wandel überdurchschnittlich stark betroffen. Die Durchschnitts­temperatur hat hierzulande seit 1864 mit 2 Grad Celsius um doppelt soviel zugenommen wie im globalen Durchschnitt.
 
 <section><h6>CHART</h6>
 
@@ -1046,9 +1199,9 @@ Die Schweiz ist vom Klimawandel stark betroffen. Die Durchschnittstemperatur hat
 }
 ```
 
-### Treibhausgas-Emissionen durch inländischen Konsum
+### «Graue Emissionen» überwiegen
 
-
+Treibhausgas­emissionen durch Schweizer Konsumenten
 
 ```
 year,origin,value
@@ -1098,7 +1251,7 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Findet kein wirksamer Klimaschutz statt, drohen Folgen: trockenere Sommer, schneearme Winter, mehr Hitztage und heftige Niederschläge.
+Im Jahr 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus den globalen Klima­modellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Findet kein wirksamer Klimaschutz statt, drohen Folgen: trockenere Sommer, schneearme Winter, mehr Hitzetage und heftige Niederschläge.
 
 <section><h6>CHART</h6>
 
@@ -1156,9 +1309,9 @@ Im Herbst 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Er
 }
 ```
 
-### Klimaziele und Emissionen nach Sektoren
+### Ein weiter Weg, selbst zu den Zwischenzielen
 
-
+Klimaziele des Bundes und Treibhausgas­emissionen nach Sektoren
 
 ```
 Year,value,Kategorie
@@ -1314,11 +1467,11 @@ Year,value,Kategorie
 2049,0,Gebäude
 ```
 
-Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikatoren-karten/daten/co2-statistik.html). Die Land­wirtschaft macht rund zwei Drittel der Emissionen im Bereich Übrige aus. Die Ziele für 2030 entstammen dem [Entwurf zum revidierten CO₂-Gesetz](https://www.bafu.admin.ch/dam/bafu/de/dokumente/klima/rechtliche-grundlagen/botschaft-totalrevision-co2-gesetz-nach-2020.pdf.download.pdf/Beilage_01_BO_DE_CO2-Gesetz_zu_BRA_UVEK.pdf), das eine Reduktion von 30 Prozent im Inland gegenüber 1990 vorsieht und vom Ständerat bestätigt wurde. Die Ziele für 2020 stammen von 2011.
+Die Land­wirtschaft macht rund zwei Drittel der Emissionen im Bereich Übrige aus. Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/daten-indikatoren-karten/daten/co2-statistik.html), [Entwurf zum revidierten CO₂-Gesetz](https://www.bafu.admin.ch/dam/bafu/de/dokumente/klima/rechtliche-grundlagen/botschaft-totalrevision-co2-gesetz-nach-2020.pdf.download.pdf/Beilage_01_BO_DE_CO2-Gesetz_zu_BRA_UVEK.pdf).
 
 <hr /></section>
 
-Den grössten Beitrag zu den Emissionen in der Schweiz hat mit 32% der _Verkehr_ (ohne Flugverkehr), die Sektoren _Gebäude_ und _Industrie_ verursachen je rund ein Viertel. Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen der Sektoren Gebäude und Industrie um 26% bzw. 18% gegenüber 1990 gesenkt werden. Bei den Verkehrsmitteln sind die _Personenwagen_ mit [75% der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) klar Spitzenreiter. 
+Den grössten Beitrag zu den CO<sub>2</sub>-Emissionen in der Schweiz hat mit rund 32 Prozent der Verkehr (ohne Flugverkehr). Die Sektoren Gebäude und Industrie verursachen je rund einen Viertel. Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen in den Sektoren Gebäude und Industrie um 26 Prozent beziehungs­weise 18 Prozent gegenüber 1990 gesenkt werden. Beim Verkehr sind die Personen­wagen mit [75 Prozent der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) Spitzenreiter.
 
 <section><h6>CHART</h6>
 
@@ -1497,9 +1650,9 @@ Den grössten Beitrag zu den Emissionen in der Schweiz hat mit 32% der _Verkehr_
 }
 ```
 
-### Temperatur­abweichungen in der Schweiz von 1864 bis 2018
+### Extrem ist das neue Normal
 
-
+Temperatur­abweichungen gegenüber der Norm­periode in der Schweiz von 1864 2018
 
 ```
 time,value
@@ -1660,17 +1813,19 @@ time,value
 2018,1
 ```
 
-Quelle: [Meteo Schweiz](https://www.meteoschweiz.admin.ch/home/klima/schweizer-klima-im-detail/schweizer-temperaturmittel/daten-schweizer-temperaturmittel.html). Dargestellt ist die Abweichung von der Normperiode 1961 bis 1990: Die Farbcodierung entspricht +/– 2,5 Grad.
+Normperiode ist 1961 bis 1990; die Farb­codierung entspricht +/– 2,5 Grad. Quelle: [Meteo Schweiz](https://www.meteoschweiz.admin.ch/home/klima/schweizer-klima-im-detail/schweizer-temperaturmittel/daten-schweizer-temperaturmittel.html).
 
 <hr /></section>
 
 <section><h6>INFOBOX</h6>
 
-### Über dieses Dossier
+### Zum Dossier Klimakrise
 
-Das Dossier «Die Klimakrise» bündelt die wichtigsten Fakten zum Klimwandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwerpunkt des Dossiers liegt auf der Präsentation von Daten aus _Primärquellen_ und in der Zusammenstellung von _ausgewählten Beiträgen_ der Republik. Alle Quellen und Originaldaten, sowie die Methoden ihrer Aufbereitung, sind [ausführlich dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/).
+Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwer­punkt liegt auf der Präsentation von Daten aus Primär­quellen und in der Zusammen­stellung von ausgewählten Beiträgen der Republik. Alle Quellen und Original­daten, sowie die Methoden ihrer Aufbereitung, sind [hier dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/).
 
 <hr /></section>
+
+## Ausgewählte Beiträge der Republik:
 
 
 
@@ -1710,7 +1865,7 @@ Das Dossier «Die Klimakrise» bündelt die wichtigsten Fakten zum Klimwandel un
 }
 ```
 
-## Schweizerische Klimapolitik
+## Schweiz
 
 <section><h6>TEASERGROUP</h6>
 
@@ -1730,53 +1885,20 @@ Das Dossier «Die Klimakrise» bündelt die wichtigsten Fakten zum Klimwandel un
   "titleSize": "standard",
   "id": "vgyLs3Bk2",
   "portrait": true,
-  "showImage": true,
+  "showImage": false,
   "bgColor": "#fff"
 }
 ```
 
 ###### 
 
-# Mit Babyschrittchen zur Klima­neutralität
+# Mit Baby­schrittchen zur Klima­neutralität
 
 ## 
 
 #### Der Ständerat berät das CO₂-Gesetz. Wie klima­freundlich steht die Schweiz heute da? Der aktualisierte Klimapolitik-Report.
 
 Von [Elia Blülle](/~eblulle "Elia Blülle") und [Simon Schmid](/~simonschmid), 24.09.2019
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-klimareport?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "titleSize": "standard",
-  "id": "bDltGRa3h",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-###### 
-
-# Wie die Politik beim Klimawandel versagt
-
-## 
-
-#### Die Erderwärmung trifft die Schweiz härter als angenommen. Umso energischer müsste die Politik durchgreifen. Tut sie es? Eine Auslegeordnung in sechs Punkten.
-
-Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97 "Simon Schmid"), 16.11.2018
 
 <hr /></section>
 
@@ -1796,9 +1918,9 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
   "textPosition": "topleft",
   "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
   "titleSize": "standard",
-  "id": "mpFAm8IV7",
+  "id": "vzxLpV2FZ",
   "portrait": true,
-  "showImage": true,
+  "showImage": false,
   "bgColor": "#fff"
 }
 ```
@@ -1811,7 +1933,40 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
 
 #### Wie schnell muss die Schweiz ihre Treibhausgasemissionen reduzieren? Zwei Grafiken geben darauf eine intuitive Antwort.
 
-Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 26.11.2018
+Von [Simon Schmid](/~simonschmid), 26.11.2018
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-klimareport?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "bDltGRa3h",
+  "portrait": true,
+  "showImage": false,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Wie die Politik beim Klima­wandel versagt
+
+## 
+
+#### Die Erderwärmung trifft die Schweiz härter als angenommen. Umso energischer müsste die Politik durchgreifen. Tut sie es? Eine Auslege­ordnung in sechs Punkten.
+
+Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97 "Simon Schmid"), 16.11.2018
 
 <hr /></section>
 
@@ -1861,7 +2016,142 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 26.11.2018
 }
 ```
 
-## Blick nach vorn
+## Grundsätzlich
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-ozeanserie-1?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "CreVYkwZO",
+  "portrait": true,
+  "showImage": false,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Wie die Ozeane unsere Erde kühlen
+
+## 
+
+#### Diese Woche erscheint der Spezial­bericht des Klimarats über die Weltmeere. Wir erklären, warum die Ozeane für das globale Klima eine entscheidende Rolle spielen.
+
+Von [Arian Bastani](/~abastani), 23.09.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-ein-120-000-jahre-rekord?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "Oot50RsCU",
+  "portrait": true,
+  "showImage": false,
+  "bgColor": "#fff"
+}
+```
+
+![](images/85bd2986757b890776666dbbf6b719747354b988.jpeg?size=2500x1666)
+
+###### Auf lange Sicht
+
+# Höchste Temperatur seit 120’000 Jahren gemessen!
+
+## 
+
+#### Nein, diese Schlagzeile ist kein Witz: Wir analysieren Temperatur­daten aus den vergangenen Jahrtausenden – und zeigen, wie der Mensch gerade die nächste Eiszeit verhindert.
+
+Von [Arian Bastani](/~5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e), 03.06.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-klima-temperaturen?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "UeEACbg5T",
+  "portrait": true,
+  "showImage": false,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Wie El Niño und Vulkane das Klima beeinflussen
+
+## 
+
+#### Warum die Erdtemperatur nicht nur steigt, sondern auch schwankt: zwei Betrachtungen über 150 und 1500 Jahre.
+
+Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
+
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "src": "https://cdn.repub.ch/",
+  "autoHtml": true
+}
+```
+
+<hr /></section>
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## Denkanstösse
 
 <section><h6>TEASERGROUP</h6>
 
@@ -1874,27 +2164,27 @@ Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 26.11.2018
   "teaserType": "articleTile",
   "byline": null,
   "onlyImage": false,
-  "url": "https://github.com/republik/article-klimajugend-2?autoSlug",
+  "url": "https://github.com/republik/article-alles-was-sie-noch-nie-wissen?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
   "titleSize": "standard",
-  "id": "CreVYkwZO",
+  "id": "XWcGC5aIO",
   "portrait": true,
-  "showImage": true,
+  "showImage": false,
   "bgColor": "#fff"
 }
 ```
 
 ###### 
 
-# Schweizer Jugend forsch
+# Die grosse Überforderung
 
 ## 
 
-#### Entgegen den Prognosen vieler lebt die junge Klimabewegung immer noch – und ist bereit für die nächste Offensive. Kann sie mit ihren Protesten die Schweizer Politik verändern?
+#### Keine kommende Katastrophe wurde je so gründlich untersucht wie die Klimaerwärmung. Und keine wurde so gründlich ignoriert. Was war los? Und was muss passieren?
 
-Von [Elia Blülle](/~eblulle), 09.08.2019
+Ein Essay von [Urs Bruderer](/~ubruderer), 24.08.2019
 
 <hr /></section>
 
@@ -1907,29 +2197,27 @@ Von [Elia Blülle](/~eblulle), 09.08.2019
   "teaserType": "articleTile",
   "byline": null,
   "onlyImage": false,
-  "url": "https://github.com/republik/article-aufstand-der-streber?autoSlug",
+  "url": "https://github.com/republik/article-cilmate-cities?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
   "titleSize": "standard",
-  "id": "Oot50RsCU",
+  "id": "OSuMIGsw5x",
   "portrait": true,
-  "showImage": true,
+  "showImage": false,
   "bgColor": "#fff"
 }
 ```
 
-![](images/85bd2986757b890776666dbbf6b719747354b988.jpeg?size=2500x1666)
-
 ###### 
 
-# No future, das war gestern
+# Bern ist im Sommer bald so heiss wie Mailand
 
 ## 
 
-#### Tausende Schweizer Schülerinnen und Schüler streiken für den Klimaschutz. Warum sind die Proteste so erfolgreich, wie werden sie überleben – und was können sie bewirken?
+#### Wie verändert sich das Klima von Städten über die nächsten Jahrzehnte? Forscher der ETH Zürich haben uns die Zahlen gegeben – wir haben sie visualisiert: als klimatische Städtetrips.
 
-Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 15.03.2019
+Von [Simon Schmid](/~simonschmid) (Text) und [Andreas Moor](/~amoor "Andreas Moor") (Visualisierung), 11.07.2019
 
 <hr /></section>
 
@@ -1942,27 +2230,27 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 15.03.2019
   "teaserType": "articleTile",
   "byline": null,
   "onlyImage": false,
-  "url": "https://github.com/republik/article-kann-die-ubs-das-klima-retten?autoSlug",
+  "url": "https://github.com/republik/article-tamedia-verbreitet-klimaleugner-content?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
   "titleSize": "standard",
-  "id": "vQe2rWsEz",
+  "id": "j9MXoN2ol",
   "portrait": true,
-  "showImage": true,
+  "showImage": false,
   "bgColor": "#fff"
 }
 ```
 
 ###### 
 
-# Stell dir vor, die UBS wird klimaneutral
+# Keine Bühne mehr für Klimaleugner
 
 ## 
 
-#### Was müsste passieren, damit die Finanzindustrie keine Gelder mehr an Öl- und Kohlefirmen vergibt? Wir machen die Probe aufs Exempel.
+#### Liebe Medien, die Debatte ist beendet: Warum es Zeit ist, wissenschaftsfreien Unsinn konsequent zu verbannen.
 
-Von Olivier Christe, 05.08.2019
+Von [Elia Blülle](/~eblulle), 25.04.2019
 
 <hr /></section>
 
