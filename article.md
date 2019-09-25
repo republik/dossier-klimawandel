@@ -2147,7 +2147,7 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
       "type": "Beitrag",
       "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/2a9e3b3075a1759f7ce276477d19efec6b1aa0a9.svg",
       "lead": "Es fällt trotz wissenschaftlicher Warnungen schwer, sich die Folgen des Klimawandels auszumalen. Wir versuchen es: anhand von Schweizer Skigebieten.",
-      "bgColor": "#fff"
+      "bgColor": "#82C0D3"
     }
   },
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
