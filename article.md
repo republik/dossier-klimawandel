@@ -2131,6 +2131,8 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
 
 <hr /></section>
 
+<hr /></section>
+
 <section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
@@ -2155,6 +2157,8 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
 ```
 
 <hr /></section>
+
+<section><h6>CENTER</h6>
 
 <section><h6>ARTICLECOLLECTION</h6>
 
