@@ -22,7 +22,7 @@ Letzte Aktualisierung: 25.09.2019
 
 <section><h6>CENTER</h6>
 
-Die Klimawandel ist eine Realität – und dass er zu einem grossen Teil menschen­gemacht ist, [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Der Weltklimarat IPCC stellt in seinem [Bericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klimasystem ist klar und die jüngsten anthropogenen Emissionen von Treibhausgasen sind die höchsten in der Geschichte. Die jüngsten Klimaänderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
+Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil menschen­gemacht ist, [unbestritten](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002/meta). Der Welt­klimarat IPCC stellt in seinem [Bericht von 2018](https://www.ipcc.ch/site/assets/uploads/2018/02/IPCC-AR5_SYR_barrierefrei.pdf) fest: «Der Einfluss des Menschen auf das Klima­system ist klar und die jüngsten anthropogenen Emissionen von Treibhaus­gasen sind die höchsten in der Geschichte. Die jüngsten Klima­änderungen hatten weitverbreitete Folgen für natürliche Systeme und solche des Menschen.» 
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -112,7 +112,7 @@ Die Klimawandel ist eine Realität – und dass er zu einem grossen Teil mensche
 
 <hr /></section>
 
-Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Eine wichtige Rolle spielt dabei der Treibhauseffekt: Die von der Erdoberfläche reflektierte Wärmestrahlung der Sonne wird in der Atmosphäre durch Treibhausgase aufgenommen, anstatt dass sie ins Weltall entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den natürlichen Treibhauseffekt, in dem er zum Beispiel durch das Verbrennen fossiler Energieträger zusätzlich Treibhausgase in die Atmosphäre entlässt.
+Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Eine wichtige Rolle spielt dabei der Treibhaus­effekt: Die von der Erdoberfläche reflektierte Wärme­strahlung der Sonne wird in der Atmosphäre durch Treibhaus­gase aufgenommen, anstatt dass sie ins Weltall entweicht. Dies führt zu einer Erwärmung des Planeten. Der Mensch verstärkt den natürlichen Treibhaus­effekt, indem er zum Beispiel durch das Verbrennen fossiler Energie­träger zusätzlich Treibhaus­gase in die Atmosphäre entlässt.
 
 <section><h6>CHART</h6>
 
@@ -137,7 +137,7 @@ Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Eine wichtig
 }
 ```
 
-### China holt auf 
+### China holt auf
 
 Jährlicher CO<sub>2</sub>-Ausstoss in Gigatonnen
 
@@ -381,9 +381,9 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klimaveränderung gilt Kohlendioxid. Die jährlichen weltweiten CO₂-Emissionen haben sich von 1960 bis 2017 auf rund 36 Gigatonnen vervierfacht. [Laut Internationaler Energiagentur](https://www.iea.org/statistics/co2emissions/) gingen davon 2014 rund 42 Prozent auf das Konto der Strom- und Wärmeproduktion. 
+Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klima­veränderung gilt Kohlen­dioxid. Die jährlichen weltweiten CO<sub>2</sub>-Emissionen haben sich von 1960 bis 2017 auf rund 36 Gigatonnen vervierfacht. [Laut Internationaler Energiagentur](https://www.iea.org/statistics/co2emissions/) gingen davon 2014 rund 42 Prozent auf das Konto der Strom- und Wärmeproduktion. 
 
-Kumuliert entfallen auf die EU und die USA rund 40 Prozent aller seit 1960 entstandenen Emissionen – obwohl ihr Anteil an der Weltbevölkerung in diesem Zeitraum nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. Auf [alle seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1,58 Billionen Tonnen CO<sub>2</sub> sind die USA für einen Viertel und China für einen Achtel verantwortlich.
+Kumuliert entfallen auf die EU und die USA rund 40 Prozent aller seit 1960 entstandenen Emissionen – obwohl ihr Anteil an der Welt­bevölkerung in diesem Zeitraum nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. Auf [alle seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1,58 Billionen Tonnen CO<sub>2</sub> sind die USA für einen Viertel und China für einen Achtel verantwortlich.
 
 <section><h6>CHART</h6>
 
@@ -934,7 +934,7 @@ Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementa
 
 <hr /></section>
 
-Das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie die CO<sub>2</sub>-Konzentration in den letzen 500 000 Jahren schwankte und seit der Industrialisierung stark zugenommen hat. Ein Vergleich mit der globalen Durchschnitts­temperatur seit 1880 belegt einen direkten Zusammenhang mit der globalen Erwärmung und weist die Richtung, welche die Temperaturkurve in Zukunft nehmen wird: nach oben.
+Das [legendäre Hockeyschläger-Diagramm](https://youtu.be/-JIuKjaY3r4?t=281) zeigt, wie die CO<sub>2</sub>-Konzentration in den letzen 500’000 Jahren schwankte und seit der Industrialisierung stark zugenommen hat. Ein Vergleich mit der globalen Durchschnitts­temperatur seit 1880 belegt einen direkten Zusammenhang mit der globalen Erwärmung und weist die Richtung, welche die Temperatur­kurve in Zukunft nehmen wird: nach oben.
 
 <section><h6>CHART</h6>
 
@@ -1104,7 +1104,7 @@ Quelle: [NASA](https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_
 
 ## Schweiz
 
-Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas-Emissionen im Inland von 5,6 Tonnen pro Kopf (davon 4,5 Tonnen CO₂). [Laut dem Treibhausgasinventar des Bundesamtes für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) sind die Emissionen seit 1990 um 12 Prozent gesunken. Werden allerdings die durch Importe verursachten «Grauen Emissionen» hinzu gerechnet, liegt die Schweiz mit ihrem «Treibhausgas-Fussabdruck» von 14 Tonnen  pro Kopf deutlich über dem weltweiten Durchschnitt von 6 Tonnen.
+Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit Treibhausgas­emissionen im Inland von 5,6 Tonnen pro Kopf (davon 4,5 Tonnen CO<sub>2</sub>). [Laut dem Treibhausgasinventar des Bundesamts für Umwelt](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031038) sind die Emissionen seit 1990 um 12 Prozent gesunken. Werden allerdings die durch Importe verursachten «Grauen Emissionen» hinzu gerechnet, liegt die Schweiz mit ihrem «Treibhausgas­fussabdruck» von 14 Tonnen pro Kopf deutlich über dem weltweiten Durchschnitt von 6 Tonnen.
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -1195,7 +1195,7 @@ Auf den ersten Blick gehört die Schweiz zum internationalen Durchschnitt: mit T
 
 <hr /></section>
 
-Die Schweiz ist vom Klimawandel überdurchschnittlich stark betroffen. Die Durchschnittstemperatur hat hierzulande seit 1864 mit 2 Grad Celsius um doppelt soviel zugenommen wie im globalen Durchschnitt.
+Die Schweiz ist vom Klima­wandel überdurchschnittlich stark betroffen. Die Durchschnitts­temperatur hat hierzulande seit 1864 mit 2 Grad Celsius um doppelt soviel zugenommen wie im globalen Durchschnitt.
 
 <section><h6>CHART</h6>
 
@@ -1214,7 +1214,7 @@ Die Schweiz ist vom Klimawandel überdurchschnittlich stark betroffen. Die Durch
 
 ### «Graue Emissionen» überwiegen
 
-Treibhausgas-Emissionen durch Schweizer Konsumenten
+Treibhausgas­emissionen durch Schweizer Konsumenten
 
 ```
 year,origin,value
@@ -1264,7 +1264,7 @@ Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html
 
 <hr /></section>
 
-Im Jahr 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus den globalen Klimamodellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Findet kein wirksamer Klimaschutz statt, drohen Folgen: trockenere Sommer, schneearme Winter, mehr Hitzetage und heftige Niederschläge.
+Im Jahr 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Ergebnisse der Studie [Klimaszenarien CH2018](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-klimaszenarien.html), in der aus den globalen Klima­modellen mit Hilfe statistischer Methoden konkrete mögliche Folgen für die Schweiz bis ins Jahr 2085 abgeleitet wurden. Findet kein wirksamer Klimaschutz statt, drohen Folgen: trockenere Sommer, schneearme Winter, mehr Hitzetage und heftige Niederschläge.
 
 <section><h6>CHART</h6>
 
@@ -1324,7 +1324,7 @@ Im Jahr 2018 veröffentlichte MeteoSchweiz zusammen mit der ETH Zürich die Erge
 
 ### Ein weiter Weg, selbst zu den Zwischenzielen
 
-Klimaziele des Bundes und Treibhausgas-Emissionen nach Sektoren
+Klimaziele des Bundes und Treibhausgas­emissionen nach Sektoren
 
 ```
 Year,value,Kategorie
@@ -1484,7 +1484,7 @@ Die Land­wirtschaft macht rund zwei Drittel der Emissionen im Bereich Übrige a
 
 <hr /></section>
 
-Den grössten Beitrag zu den CO<sub>2</sub>-Emissionen in der Schweiz hat mit rund 32 Prozent der Verkehr (ohne Flugverkehr). Die Sektoren Gebäude und Industrie verursachen je rund einen Viertel. Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen in den Sektoren Gebäude und Industrie um 26 Prozent beziehungsweise 18 Prozent gegenüber 1990 gesenkt werden. Beim Verkehr sind die Personenwagen mit [75 Prozent der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) Spitzenreiter.
+Den grössten Beitrag zu den CO<sub>2</sub>-Emissionen in der Schweiz hat mit rund 32 Prozent der Verkehr (ohne Flugverkehr). Die Sektoren Gebäude und Industrie verursachen je rund einen Viertel. Während sich beim Verkehr erst seit kurzem eine sinkende Tendenz abzeichnet, konnten die Emissionen in den Sektoren Gebäude und Industrie um 26 Prozent beziehungs­weise 18 Prozent gegenüber 1990 gesenkt werden. Beim Verkehr sind die Personen­wagen mit [75 Prozent der CO<sub>2</sub>-Emissionen](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/grafiken.assetdetail.8186509.html) Spitzenreiter.
 
 <section><h6>CHART</h6>
 
@@ -1665,7 +1665,7 @@ Den grössten Beitrag zu den CO<sub>2</sub>-Emissionen in der Schweiz hat mit ru
 
 ### Extrem ist das neue Normal
 
-Temperatur­abweichungen gegenüber der Normperiode in der Schweiz von 1864 bis 2018
+Temperatur­abweichungen gegenüber der Norm­periode in der Schweiz von 1864 2018
 
 ```
 time,value
@@ -1826,7 +1826,7 @@ time,value
 2018,1
 ```
 
-Normperiode ist 1961 bis 1990; die Farbcodierung entspricht +/– 2,5 Grad. Quelle: [Meteo Schweiz](https://www.meteoschweiz.admin.ch/home/klima/schweizer-klima-im-detail/schweizer-temperaturmittel/daten-schweizer-temperaturmittel.html).
+Normperiode ist 1961 bis 1990; die Farb­codierung entspricht +/– 2,5 Grad. Quelle: [Meteo Schweiz](https://www.meteoschweiz.admin.ch/home/klima/schweizer-klima-im-detail/schweizer-temperaturmittel/daten-schweizer-temperaturmittel.html).
 
 <hr /></section>
 
@@ -1834,7 +1834,7 @@ Normperiode ist 1961 bis 1990; die Farbcodierung entspricht +/– 2,5 Grad. Quel
 
 ### Zum Dossier Klimakrise
 
-Das Dossier bündelt die wichtigsten Fakten zum Klimawandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwerpunkt liegt auf der Präsentation von Daten aus Primärquellen und in der Zusammenstellung von ausgewählten Beiträgen der Republik. Alle Quellen und Originaldaten, sowie die Methoden ihrer Aufbereitung, sind [hier dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/).
+Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und seinen Auswirkungen – weltweit und in der Schweiz. Der Schwer­punkt liegt auf der Präsentation von Daten aus Primär­quellen und in der Zusammen­stellung von ausgewählten Beiträgen der Republik. Alle Quellen und Original­daten, sowie die Methoden ihrer Aufbereitung, sind [hier dokumentiert](https://github.com/republik/dossier-klimawandel/blob/master/data/).
 
 <hr /></section>
 
@@ -1905,7 +1905,7 @@ Das Dossier bündelt die wichtigsten Fakten zum Klimawandel und seinen Auswirkun
 
 ###### 
 
-# Mit Babyschrittchen zur Klima­neutralität
+# Mit Baby­schrittchen zur Klima­neutralität
 
 ## 
 
@@ -1938,11 +1938,11 @@ Von [Elia Blülle](/~eblulle "Elia Blülle") und [Simon Schmid](/~simonschmid), 
 
 ###### 
 
-# Wie die Politik beim Klimawandel versagt
+# Wie die Politik beim Klima­wandel versagt
 
 ## 
 
-#### Die Erderwärmung trifft die Schweiz härter als angenommen. Umso energischer müsste die Politik durchgreifen. Tut sie es? Eine Auslegeordnung in sechs Punkten.
+#### Die Erderwärmung trifft die Schweiz härter als angenommen. Umso energischer müsste die Politik durchgreifen. Tut sie es? Eine Auslege­ordnung in sechs Punkten.
 
 Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97 "Simon Schmid"), 16.11.2018
 
@@ -1977,7 +1977,7 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
 
 ## 
 
-#### Wie schnell muss die Schweiz ihre Treibhausgasemissionen reduzieren? Zwei Grafiken geben darauf eine intuitive Antwort.
+#### Wie schnell muss die Schweiz ihre Treibhausgas­emissionen reduzieren? Zwei Grafiken geben darauf eine intuitive Antwort.
 
 Von [Simon Schmid](/~eca9ee2c-4678-4f63-8564-651293df2b97), 26.11.2018
 
