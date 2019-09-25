@@ -139,7 +139,7 @@ Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Eine wichtig
 
 ### Jährlicher CO<sub>2</sub>-Ausstoss
 
-
+in Gigatonnen
 
 ```
 year,label,value
@@ -930,7 +930,7 @@ year,value
 2018,408.52
 ```
 
-Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementary-information), [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
+Die CO<sub>2</sub>-Konzentration hat in den vergangenen 500’000 Jahren stets geschwankt. Erst seit der Industrialisierung ändert sich das Bild. Quelle: [Snyder (2016)](https://www.nature.com/articles/nature19798#supplementary-information), [MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
 
 <hr /></section>
 
@@ -1214,7 +1214,7 @@ Die Schweiz ist vom Klimawandel überdurchschnittlich stark betroffen. Die Durch
 
 ### Treibhausgas-Emissionen durch inländischen Konsum
 
-
+Den grössten Teil der Emissionen verursachen Schweizer Konsumenten im Ausland
 
 ```
 year,origin,value
@@ -1260,7 +1260,7 @@ year,origin,value
 2015,Emissionen im Ausland,69.58
 ```
 
-Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040).
+Den grössten Teil der Emissionen verursachen Schweizer Konsumenten im Ausland. Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040).
 
 <hr /></section>
 
