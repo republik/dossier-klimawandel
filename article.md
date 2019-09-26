@@ -1834,6 +1834,8 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Ausw
 
 <hr /></section>
 
+* * *
+
 ## Ausgewählte Beiträge der Republik:
 
 
