@@ -14,7 +14,7 @@ shortTitle: >-
   Dossier Klimakrise: Daten, Fakten, Hintergründe – und ein Best-of der
   Republik-Beiträge
 description: 'Daten, Fakten, Hintergründe – und ein Best-of der Republik-Beiträge zum Thema.'
-feed: false
+feed: true
 ---
 
 <section><h6>TITLE</h6>
