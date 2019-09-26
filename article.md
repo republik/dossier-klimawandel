@@ -1,12 +1,12 @@
 ---
 twitterTitle: 'Daten, Fakten, Hintergründe – und ein Best-of der Republik-Beiträge'
-twitterImage: images/bb7465a4325f791c9eaa8d0e3f3ff2cf45f917a2.png?size=1204x604
+twitterImage: images/3dee42184b5059703773c330254385c2e2307a95.png?size=1204x604
 twitterDescription: ' '
 slug: klimakrise
 subject: ''
 facebookTitle: 'Daten, Fakten, Hintergründe – und ein Best-of der Republik-Beiträge'
 gallery: true
-facebookImage: images/35bef218644360bf41a3fa3a4ecc1d907bfd1873.png?size=1204x630
+facebookImage: images/250f9bc0aa0fd9719165263c8dcce76dcb24c68a.png?size=1204x630
 facebookDescription: ' '
 title: Dossier Klimakrise
 template: dossier
