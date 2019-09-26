@@ -2089,8 +2089,6 @@ Von [Arian Bastani](/~abastani), 23.09.2019
 }
 ```
 
-![](images/85bd2986757b890776666dbbf6b719747354b988.jpeg?size=2500x1666)
-
 ###### Auf lange Sicht
 
 # Höchste Temperatur seit 120 000 Jahren gemessen!
