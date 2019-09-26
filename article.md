@@ -2022,7 +2022,7 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
 
 ```
 {
-  "membersOnly": true,
+  "membersOnly": false,
   "unauthorizedText": ""
 }
 ```
@@ -2175,7 +2175,7 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
 
 ```
 {
-  "membersOnly": true,
+  "membersOnly": false,
   "unauthorizedText": ""
 }
 ```
