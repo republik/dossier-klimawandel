@@ -89,13 +89,34 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
       }
     ]
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.9",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v3",
   "size": "breakout"
 }
 ```
 
 ```html
-<style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; flex-wrap: wrap; }@media only screen and (max-width: 767px) {
+<style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; -webkit-box-lines: multiple; flex-wrap: wrap; }@media only screen and (max-width: 767px) { 
+  .css-tdv8zt, [data-css-tdv8zt] { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
+}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
+  .css-z781yx, [data-css-z781yx] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
+}@media only screen and (min-width: 1025px) { 
+  .css-z781yx, [data-css-z781yx] { width: 25%; padding-left: 0px; }
+}@media only screen and (max-width: 767px) { 
+  .css-z781yx, [data-css-z781yx] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
+  .css-1akzvxi, [data-css-1akzvxi] { width: 50%; padding-bottom: 15px; padding-left: 15px; }
+}@media only screen and (min-width: 1025px) { 
+  .css-1akzvxi, [data-css-1akzvxi] { width: 25%; padding-left: 15px; }
+}@media only screen and (max-width: 767px) { 
+  .css-1akzvxi, [data-css-1akzvxi] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) { 
+  .css-26u5fm, [data-css-26u5fm] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
+}@media only screen and (min-width: 1025px) { 
+  .css-26u5fm, [data-css-26u5fm] { width: 25%; padding-left: 15px; }
+}@media only screen and (max-width: 767px) { 
+  .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
+}.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
+<div><style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; flex-wrap: wrap; }@media only screen and (max-width: 767px) {
   .css-tdv8zt, [data-css-tdv8zt] { -moz-box-orient: vertical; -moz-box-direction: normal; flex-direction: column; }
 }.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
   .css-z781yx, [data-css-z781yx] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
@@ -116,7 +137,7 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
 }@media only screen and (max-width: 767px) {
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
 }.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, Helvetica Neue, Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, Helvetica Neue, Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Ausstoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">409</span><span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, September 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+1°</span><span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1850–1900</div><div><span data-css-18yx3y4=""><a href="https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html">Met Office, 2019</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+94</span><span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">Nasa, Mai 2019</a></span></div></div></div></div>
+<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Ausstoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">409</span><span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, September 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+1°</span><span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1850–1900</div><div><span data-css-18yx3y4=""><a href="https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html">Met Office, 2019</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+94</span><span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">Nasa, Mai 2019</a></span></div></div></div></div></div>
 ```
 
 <hr /></section>
@@ -1871,8 +1892,8 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Ausw
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -2022,8 +2043,8 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -2175,8 +2196,8 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
