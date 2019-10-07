@@ -89,7 +89,7 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
       }
     ]
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.6",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.9",
   "size": "breakout"
 }
 ```
