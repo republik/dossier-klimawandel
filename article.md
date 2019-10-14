@@ -1277,7 +1277,7 @@ year,origin,value
 2015,Emissionen im Ausland,69.58
 ```
 
-Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/klima/inkuerze.html#-1439031040)
+Quelle: [Bafu](https://www.bafu.admin.ch/bafu/de/home/themen/thema-wirtschaft-und-konsum/wirtschaft-und-konsum--daten--indikatoren-und-karten/wirtschaft-und-konsum--indikatoren/indikator-wirtschaft-und-konsum.pt.html/aHR0cHM6Ly93d3cuaW5kaWthdG9yZW4uYWRtaW4uY2gvUHVibG/ljL0FlbURldGFpbD9pbmQ9R1cwMTYmbG5nPWRlJlN1Ymo9Tg%3d%3d.html)
 
 <hr /></section>
 
