@@ -25,7 +25,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 15.01.2020
+Letzte Aktualisierung: 16.01.2020
 
 <hr /></section>
 
@@ -47,7 +47,7 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
         "source": {
           "name": "Global Carbon Project",
           "url": "https://www.globalcarbonproject.org",
-          "date": "2017"
+          "date": "2018"
         },
         "color": "rgb(8,48,107)"
       },
@@ -116,7 +116,7 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
 }@media only screen and (max-width: 767px) { 
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
 }.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Ausstoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span> <span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">412</span> <span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, Januar 2020</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+1,05°</span> <span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1850–1900</div><div><span data-css-18yx3y4=""><a href="https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html">Met Office, 2020</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+95,7</span> <span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">Nasa, September 2019</a></span></div></div></div></div>
+<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Ausstoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span> <span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2018</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">412</span> <span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, Januar 2020</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+1,05°</span> <span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1850–1900</div><div><span data-css-18yx3y4=""><a href="https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html">Met Office, 2020</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+95,7</span> <span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">Nasa, September 2019</a></span></div></div></div></div>
 ```
 
 <hr /></section>
@@ -394,7 +394,7 @@ Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welc
 
 <hr /></section>
 
-Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klima­veränderung gilt Kohlen­dioxid. Die jährlichen weltweiten CO<sub>2</sub>-Emissionen haben sich von 1960 bis 2017 auf rund 36 Gigatonnen vervierfacht. [Laut Internationaler Energieagentur](https://www.iea.org/statistics/co2emissions/) gingen davon 2016 rund 42 Prozent auf das Konto der Strom- und der Wärmeproduktion. 
+Als [Hauptverursacher](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#greenhouse-gas-emissions-by-gas-source) der globalen Klima­veränderung gilt Kohlen­dioxid. Die jährlichen weltweiten CO<sub>2</sub>-Emissionen haben sich von 1960 bis 2017 auf rund 36,6 Gigatonnen vervierfacht. [Laut Internationaler Energieagentur](https://www.iea.org/statistics/co2emissions/) gingen davon 2016 rund 42 Prozent auf das Konto der Strom- und der Wärmeproduktion. 
 
 Kumuliert entfallen auf die EU und die USA rund 40 Prozent aller seit 1960 entstandenen Emissionen – obwohl ihr Anteil an der Welt­bevölkerung in diesem Zeitraum nur [zwischen 10 und 20 Prozent](https://www.wolframalpha.com/input/?i=(population+USA+%2B+population+EU)+%2F+(population+world)) ausmachte. Von den total [seit der industriellen Revolution angefallenen](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#the-long-run-history-cumulative-co2) 1,58 Billionen Tonnen CO<sub>2</sub> sind die USA für ein Viertel und China für ein Achtel verantwortlich.
 
@@ -1843,6 +1843,8 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Ausw
 
 ## Ausgewählte Beiträge der Republik:
 
+
+
 <hr /></section>
 
 <section><h6>DYNAMIC_COMPONENT</h6>
@@ -1852,7 +1854,8 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Ausw
   "autoHtml": false,
   "props": {
     "item": {
-      "color": "#1778A3",
+      "color": "#000",
+      "bgColor": "rgb(252, 141, 98)",
       "author": "Von <a href='/~amoor'>Andreas Moor</a> und <a href='/~simonschmid'>Simon Schmid</a>, 09.01.2020",
       "url": "https://www.republik.ch/2020/01/09/klimagame",
       "title": "Das Klimagame",
@@ -1873,8 +1876,8 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Ausw
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
