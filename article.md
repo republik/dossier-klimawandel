@@ -1843,13 +1843,37 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Ausw
 
 ## Ausgewählte Beiträge der Republik:
 
+<hr /></section>
 
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "autoHtml": false,
+  "props": {
+    "item": {
+      "color": "#1778A3",
+      "author": "Von <a href='/~amoor'>Andreas Moor</a> und <a href='/~simonschmid'>Simon Schmid</a>, 09.01.2020",
+      "url": "https://www.republik.ch/2020/01/09/klimagame",
+      "title": "Das Klimagame",
+      "split": true,
+      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/article-klimagame/images/c52c49fd74f83480716f0de2df13360a3cfd7310.gif",
+      "lead": "Was bringt mehr für den Klimaschutz: Veganer werden oder aufs Fliegen verzichten? Finden Sie es heraus – mit unserer interaktiven Simulation zum CO₂-Fussabdruck."
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
+}
+```
+
+<hr /></section>
+
+<section><h6>CENTER</h6>
 
 <section><h6>ARTICLECOLLECTION</h6>
 
 ```
 {
-  "membersOnly": true,
+  "membersOnly": false,
   "unauthorizedText": ""
 }
 ```
