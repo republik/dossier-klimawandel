@@ -25,7 +25,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 16.01.2020
+Letzte Aktualisierung: 20.01.2020
 
 <hr /></section>
 
@@ -1882,8 +1882,8 @@ Das Dossier bündelt die wichtigsten Fakten zum Klima­wandel und zu seinen Ausw
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -2027,8 +2027,8 @@ Von [Daniel Ryser](/~dryser) (Text) und Yves Bachmann (Bilder), 23.11.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -2178,8 +2178,8 @@ Von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4) und [Simon Schmid](/~
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -2331,8 +2331,8 @@ Von [Arian Bastani](/~abastani "Arian Bastani"), 06.05.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
