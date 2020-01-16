@@ -130,6 +130,12 @@ Das Weltklima ist einem dauernden, natürlichen Wandel unterworfen. Eine wichtig
   "type": "TimeBar",
   "color": "label",
   "colorSort": "none",
+  "colorRange": [
+    "#de2910ff",
+    "#3C3B6E",
+    "#FDCB0B",
+    "#aaaaaa"
+  ],
   "sort": "none",
   "xBandPadding": 0.1,
   "padding": 10,
