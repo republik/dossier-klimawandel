@@ -25,7 +25,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 26.09.2019
+Letzte Aktualisierung: 15.01.2020
 
 <hr /></section>
 
@@ -53,37 +53,37 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
       },
       {
         "label": "CO₂-Konzentration",
-        "value": "409",
+        "value": "412",
         "unit": " ppm",
         "description": "Millionstel CO₂-Moleküle in der Atmosphäre",
         "source": {
           "name": "co2levels.org",
           "url": "https://www.co2levels.org/",
-          "date": "September 2019"
+          "date": "Januar 2020"
         },
         "color": "rgb(8,48,107)"
       },
       {
         "label": "Temperaturanstieg",
-        "value": "+1°",
+        "value": "+1,05°",
         "unit": "",
         "description": "Abweichung vom langjährigen Durchschnitt 1850–1900",
         "source": {
           "name": "Met Office",
           "url": "https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html",
-          "date": "2019"
+          "date": "2020"
         },
         "color": "rgb(187,21,26)"
       },
       {
         "label": "Meeresspiegel",
-        "value": "+94",
+        "value": "+95,7",
         "unit": " mm",
         "description": "Veränderung seit 1993 ",
         "source": {
           "name": "Nasa",
           "url": "https://climate.nasa.gov/vital-signs/sea-level/",
-          "date": "Mai 2019"
+          "date": "September 2019"
         },
         "color": "rgb(187,21,26)"
       }
@@ -116,28 +116,7 @@ Die Klima­wandel ist eine Realität – und dass er zu einem grossen Teil mens
 }@media only screen and (max-width: 767px) { 
   .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
 }.css-1afdx8t, [data-css-1afdx8t] { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, "Helvetica Neue", Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, "Helvetica Neue", Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div><style>.css-tdv8zt, [data-css-tdv8zt] { width: 100%; display: flex; flex-wrap: wrap; }@media only screen and (max-width: 767px) {
-  .css-tdv8zt, [data-css-tdv8zt] { -moz-box-orient: vertical; -moz-box-direction: normal; flex-direction: column; }
-}.css-z781yx, [data-css-z781yx] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
-  .css-z781yx, [data-css-z781yx] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
-}@media only screen and (min-width: 1025px) {
-  .css-z781yx, [data-css-z781yx] { width: 25%; padding-left: 0px; }
-}@media only screen and (max-width: 767px) {
-  .css-z781yx, [data-css-z781yx] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1akzvxi, [data-css-1akzvxi] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
-  .css-1akzvxi, [data-css-1akzvxi] { width: 50%; padding-bottom: 15px; padding-left: 15px; }
-}@media only screen and (min-width: 1025px) {
-  .css-1akzvxi, [data-css-1akzvxi] { width: 25%; padding-left: 15px; }
-}@media only screen and (max-width: 767px) {
-  .css-1akzvxi, [data-css-1akzvxi] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-26u5fm, [data-css-26u5fm] { box-sizing: border-box; width: 25%; }@media only screen and (min-width: 768px) {
-  .css-26u5fm, [data-css-26u5fm] { width: 50%; padding-bottom: 15px; padding-left: 0px; }
-}@media only screen and (min-width: 1025px) {
-  .css-26u5fm, [data-css-26u5fm] { width: 25%; padding-left: 15px; }
-}@media only screen and (max-width: 767px) {
-  .css-26u5fm, [data-css-26u5fm] { width: 100%; padding-left: 0px; padding-bottom: 15px; }
-}.css-1afdx8t, [data-css-1afdx8t] { border-top: 1px solid rgb(218, 221, 220); padding-top: 10px; }.css-sukgtj, [data-css-sukgtj] { font-family: GT-America-Standard-Medium, Helvetica Neue, Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(8, 48, 107); }.css-c1cd9h, [data-css-c1cd9h] { padding: 5px 0px; }.css-1dsf54m, [data-css-1dsf54m] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; line-height: 35px; }.css-1tzx89f, [data-css-1tzx89f] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; line-height: 17px; color: rgb(151, 151, 151); padding-top: 3px; }.css-18yx3y4, [data-css-18yx3y4] { font-family: GT-America-Standard-Regular, Helvetica Neue, Helvetica, sans-serif; font-weight: 400; font-style: normal; font-size: 12px; line-height: 16px; }.css-18yx3y4 > a, [data-css-18yx3y4] > a { color: rgb(151, 151, 151); }.css-36um31, [data-css-36um31] { font-family: GT-America-Standard-Medium, Helvetica Neue, Helvetica, sans-serif; font-weight: 500; font-style: normal; font-size: 16px; line-height: 25px; color: rgb(187, 21, 26); }</style>
-<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Ausstoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span><span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">409</span><span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, September 2019</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+1°</span><span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1850–1900</div><div><span data-css-18yx3y4=""><a href="https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html">Met Office, 2019</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+94</span><span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">Nasa, Mai 2019</a></span></div></div></div></div></div>
+<div data-css-tdv8zt=""><div data-css-z781yx=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Ausstoss pro Kopf</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">4.8</span> <span data-css-1dsf54m=""> t</span></div><div data-css-1tzx89f=""></div><div><span data-css-18yx3y4=""><a href="https://www.globalcarbonproject.org">Global Carbon Project, 2017</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-sukgtj="">CO₂-Konzentration</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">412</span> <span data-css-1dsf54m=""> ppm</span></div><div data-css-1tzx89f="">Millionstel CO₂-Moleküle in der Atmosphäre</div><div><span data-css-18yx3y4=""><a href="https://www.co2levels.org/">co2levels.org, Januar 2020</a></span></div></div></div><div data-css-26u5fm=""><div data-css-1afdx8t=""><div data-css-36um31="">Temperaturanstieg</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+1,05°</span> <span data-css-1dsf54m=""></span></div><div data-css-1tzx89f="">Abweichung vom langjährigen Durchschnitt 1850–1900</div><div><span data-css-18yx3y4=""><a href="https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html">Met Office, 2020</a></span></div></div></div><div data-css-1akzvxi=""><div data-css-1afdx8t=""><div data-css-36um31="">Meeresspiegel</div><div data-css-c1cd9h=""><span data-css-1dsf54m="">+95,7</span> <span data-css-1dsf54m=""> mm</span></div><div data-css-1tzx89f="">Veränderung seit 1993 </div><div><span data-css-18yx3y4=""><a href="https://climate.nasa.gov/vital-signs/sea-level/">Nasa, September 2019</a></span></div></div></div></div>
 ```
 
 <hr /></section>
@@ -173,238 +152,242 @@ Jährlicher CO<sub>2</sub>-Ausstoss in Gigatonnen
 
 ```
 year,label,value
-1960,China,0.7790
-1960,USA,2.8878
-1960,EU28,2.6452
-1960,Andere,3.0985
-1961,China,0.5510
-1961,USA,2.8774
-1961,EU28,2.7394
-1961,Andere,3.2844
-1962,China,0.4393
-1962,USA,2.9840
-1962,EU28,2.8982
-1962,Andere,3.5167
-1963,China,0.4355
-1963,USA,3.1160
-1963,EU28,3.0961
-1963,Andere,3.7314
-1964,China,0.4357
-1964,USA,3.2528
-1964,EU28,3.2112
-1964,Andere,4.0696
-1965,China,0.4747
-1965,USA,3.3882
-1965,EU28,3.2692
-1965,Andere,4.3340
-1966,China,0.5215
-1966,USA,3.5592
-1966,EU28,3.3243
-1966,Andere,4.6406
-1967,China,0.4322
-1967,USA,3.6933
-1967,EU28,3.3596
-1967,Andere,4.9459
-1968,China,0.4678
-1968,USA,3.8283
-1968,EU28,3.5458
-1968,Andere,5.2216
-1969,China,0.5759
-1969,USA,4.0215
-1969,EU28,3.7689
-1969,Andere,5.4800
-1970,China,0.7702
-1970,USA,4.3255
-1970,EU28,3.9402
-1970,Andere,5.8099
-1971,China,0.8740
-1971,USA,4.3513
-1971,EU28,4.0311
-1971,Andere,6.1533
-1972,China,0.9289
-1972,USA,4.5585
-1972,EU28,4.1457
-1972,Andere,6.3910
-1973,China,0.9656
-1973,USA,4.7625
-1973,EU28,4.3406
-1973,Andere,6.8247
-1974,China,0.9851
-1974,USA,4.5930
-1974,EU28,4.2784
-1974,Andere,7.0671
-1975,China,1.1421
-1975,USA,4.4008
-1975,EU28,4.1767
-1975,Andere,7.1060
-1976,China,1.1910
-1976,USA,4.6072
-1976,EU28,4.4643
-1976,Andere,7.5386
-1977,China,1.3044
-1977,USA,4.7354
-1977,EU28,4.4225
-1977,Andere,7.8932
-1978,China,1.4553
-1978,USA,4.8830
-1978,EU28,4.5553
-1978,Andere,7.6682
-1979,China,1.4871
-1979,USA,4.8940
-1979,EU28,4.7245
-1979,Andere,8.4886
-1980,China,1.4589
-1980,USA,4.7167
-1980,EU28,4.6191
-1980,Andere,8.5934
-1981,China,1.4428
-1981,USA,4.5304
-1981,EU28,4.3882
-1981,Andere,8.4257
-1982,China,1.5705
-1982,USA,4.3020
-1982,EU28,4.2848
-1982,Andere,8.4669
-1983,China,1.6558
-1983,USA,4.3359
-1983,EU28,4.2417
-1983,Andere,8.3161
-1984,China,1.8023
-1984,USA,4.4683
-1984,EU28,4.2548
-1984,Andere,8.6915
-1985,China,1.9518
-1985,USA,4.4843
-1985,EU28,4.3416
-1985,Andere,9.0149
-1986,China,2.0522
-1986,USA,4.4879
-1986,EU28,4.3410
-1986,Andere,9.5149
-1987,China,2.1911
-1987,USA,4.6808
-1987,EU28,4.3826
-1987,Andere,9.6579
-1988,China,2.3478
-1988,USA,4.8856
-1988,EU28,4.3384
-1988,Andere,10.1093
-1989,China,2.3869
-1989,USA,4.9480
-1989,EU28,4.3970
-1989,Andere,10.4225
-1990,China,2.4203
-1990,USA,5.1213
-1990,EU28,4.4793
-1990,Andere,10.1609
-1991,China,2.5389
-1991,USA,5.0708
-1991,EU28,4.4230
-1991,Andere,10.3966
-1992,China,2.6571
-1992,USA,5.1741
-1992,EU28,4.2790
-1992,Andere,10.0850
-1993,China,2.8358
-1993,USA,5.2847
-1993,EU28,4.1950
-1993,Andere,9.8377
-1994,China,3.0102
-1994,USA,5.3780
-1994,EU28,4.1745
-1994,Andere,9.9711
-1995,China,3.2651
-1995,USA,5.4392
-1995,EU28,4.2215
-1995,Andere,10.0817
-1996,China,3.4083
-1996,USA,5.6262
-1996,EU28,4.3251
-1996,Andere,10.1634
-1997,China,3.4145
-1997,USA,5.7039
-1997,EU28,4.2359
-1997,Andere,10.5610
-1998,China,3.2659
-1998,USA,5.7523
-1998,EU28,4.2290
-1998,Andere,10.7378
-1999,China,3.2581
-1999,USA,5.8323
-1999,EU28,4.1641
-1999,Andere,10.6760
-2000,China,3.3493
-2000,USA,6.0006
-2000,EU28,4.1873
-2000,Andere,11.0215
-2001,China,3.4261
-2001,USA,5.9025
-2001,EU28,4.2594
-2001,Andere,11.5500
-2002,China,3.7824
-2002,USA,5.9437
-2002,EU28,4.2358
-2002,Andere,11.5323
-2003,China,4.4523
-2003,USA,5.9913
-2003,EU28,4.3278
-2003,Andere,12.0953
-2004,China,5.1259
-2004,USA,6.1066
-2004,EU28,4.3380
-2004,Andere,12.6171
-2005,China,5.7712
-2005,USA,6.1320
-2005,EU28,4.3146
-2005,Andere,13.0371
-2006,China,6.3777
-2006,USA,6.0522
-2006,EU28,4.3204
-2006,Andere,13.5364
-2007,China,6.8618
-2007,USA,6.1310
-2007,EU28,4.2744
-2007,Andere,13.6130
-2008,China,7.3752
-2008,USA,5.9328
-2008,EU28,4.1739
-2008,Andere,14.3939
-2009,China,7.7588
-2009,USA,5.4954
-2009,EU28,3.8318
-2009,Andere,14.4371
-2010,China,8.5005
-2010,USA,5.7011
-2010,EU28,3.9513
-2010,Andere,14.9138
-2011,China,9.3882
-2011,USA,5.5707
-2011,EU28,3.8060
-2011,Andere,15.5925
-2012,China,9.6339
-2012,USA,5.3667
-2012,EU28,3.7472
-2012,Andere,16.1714
-2013,China,9.7965
-2013,USA,5.5196
-2013,EU28,3.6592
-2013,Andere,16.2325
-2014,China,9.8204
-2014,USA,5.5688
-2014,EU28,3.4904
-2014,Andere,16.6263
-2015,China,9.7165
-2015,USA,5.4208
-2015,EU28,3.5235
-2015,Andere,16.8020
-2016,China,9.7045
-2016,USA,5.3109
-2016,EU28,3.5030
-2016,Andere,17.1567
-2017,China,9.8388
-2017,USA,5.2695
-2017,EU28,3.5437
-2017,Andere,17.5013
+1960,China,0.78
+1960,USA,2.89
+1960,EU28,2.65
+1960,Andere,3.03
+1961,China,0.55
+1961,USA,2.88
+1961,EU28,2.74
+1961,Andere,3.19
+1962,China,0.44
+1962,USA,2.98
+1962,EU28,2.90
+1962,Andere,3.37
+1963,China,0.44
+1963,USA,3.12
+1963,EU28,3.10
+1963,Andere,3.60
+1964,China,0.44
+1964,USA,3.25
+1964,EU28,3.22
+1964,Andere,3.88
+1965,China,0.47
+1965,USA,3.39
+1965,EU28,3.27
+1965,Andere,4.14
+1966,China,0.52
+1966,USA,3.56
+1966,EU28,3.33
+1966,Andere,4.40
+1967,China,0.43
+1967,USA,3.69
+1967,EU28,3.37
+1967,Andere,4.69
+1968,China,0.47
+1968,USA,3.83
+1968,EU28,3.55
+1968,Andere,5.00
+1969,China,0.58
+1969,USA,4.02
+1969,EU28,3.78
+1969,Andere,5.33
+1970,China,0.77
+1970,USA,4.33
+1970,EU28,3.95
+1970,Andere,5.80
+1971,China,0.87
+1971,USA,4.35
+1971,EU28,4.04
+1971,Andere,6.18
+1972,China,0.93
+1972,USA,4.56
+1972,EU28,4.15
+1972,Andere,6.52
+1973,China,0.97
+1973,USA,4.76
+1973,EU28,4.35
+1973,Andere,6.94
+1974,China,0.99
+1974,USA,4.59
+1974,EU28,4.29
+1974,Andere,7.08
+1975,China,1.14
+1975,USA,4.40
+1975,EU28,4.18
+1975,Andere,7.19
+1976,China,1.19
+1976,USA,4.61
+1976,EU28,4.47
+1976,Andere,7.55
+1977,China,1.30
+1977,USA,4.74
+1977,EU28,4.43
+1977,Andere,7.84
+1978,China,1.46
+1978,USA,4.88
+1978,EU28,4.56
+1978,Andere,8.08
+1979,China,1.49
+1979,USA,4.89
+1979,EU28,4.73
+1979,Andere,8.37
+1980,China,1.46
+1980,USA,4.72
+1980,EU28,4.63
+1980,Andere,8.59
+1981,China,1.44
+1981,USA,4.53
+1981,EU28,4.40
+1981,Andere,8.49
+1982,China,1.57
+1982,USA,4.30
+1982,EU28,4.29
+1982,Andere,8.56
+1983,China,1.66
+1983,USA,4.34
+1983,EU28,4.25
+1983,Andere,8.66
+1984,China,1.80
+1984,USA,4.47
+1984,EU28,4.26
+1984,Andere,8.92
+1985,China,1.95
+1985,USA,4.48
+1985,EU28,4.35
+1985,Andere,9.36
+1986,China,2.05
+1986,USA,4.49
+1986,EU28,4.35
+1986,Andere,9.54
+1987,China,2.19
+1987,USA,4.68
+1987,EU28,4.39
+1987,Andere,9.83
+1988,China,2.35
+1988,USA,4.89
+1988,EU28,4.34
+1988,Andere,10.32
+1989,China,2.39
+1989,USA,4.95
+1989,EU28,4.40
+1989,Andere,10.50
+1990,China,2.42
+1990,USA,5.12
+1990,EU28,4.47
+1990,Andere,10.70
+1991,China,2.54
+1991,USA,5.07
+1991,EU28,4.42
+1991,Andere,11.16
+1992,China,2.66
+1992,USA,5.17
+1992,EU28,4.27
+1992,Andere,10.36
+1993,China,2.84
+1993,USA,5.28
+1993,EU28,4.19
+1993,Andere,10.41
+1994,China,3.01
+1994,USA,5.38
+1994,EU28,4.17
+1994,Andere,10.32
+1995,China,3.27
+1995,USA,5.44
+1995,EU28,4.22
+1995,Andere,10.45
+1996,China,3.41
+1996,USA,5.63
+1996,EU28,4.32
+1996,Andere,10.74
+1997,China,3.41
+1997,USA,5.70
+1997,EU28,4.23
+1997,Andere,10.89
+1998,China,3.27
+1998,USA,5.75
+1998,EU28,4.23
+1998,Andere,10.91
+1999,China,3.26
+1999,USA,5.83
+1999,EU28,4.16
+1999,Andere,11.21
+2000,China,3.35
+2000,USA,6.00
+2000,EU28,4.18
+2000,Andere,11.62
+2001,China,3.43
+2001,USA,5.90
+2001,EU28,4.25
+2001,Andere,11.78
+2002,China,3.78
+2002,USA,5.94
+2002,EU28,4.23
+2002,Andere,11.96
+2003,China,4.45
+2003,USA,5.99
+2003,EU28,4.32
+2003,Andere,12.40
+2004,China,5.13
+2004,USA,6.11
+2004,EU28,4.33
+2004,Andere,12.88
+2005,China,5.77
+2005,USA,6.13
+2005,EU28,4.31
+2005,Andere,13.19
+2006,China,6.38
+2006,USA,6.05
+2006,EU28,4.31
+2006,Andere,13.63
+2007,China,6.86
+2007,USA,6.13
+2007,EU28,4.26
+2007,Andere,14.03
+2008,China,7.38
+2008,USA,5.93
+2008,EU28,4.16
+2008,Andere,14.53
+2009,China,7.76
+2009,USA,5.49
+2009,EU28,3.83
+2009,Andere,14.45
+2010,China,8.50
+2010,USA,5.70
+2010,EU28,3.94
+2010,Andere,15.01
+2011,China,9.39
+2011,USA,5.57
+2011,EU28,3.80
+2011,Andere,15.51
+2012,China,9.63
+2012,USA,5.37
+2012,EU28,3.74
+2012,Andere,16.05
+2013,China,9.80
+2013,USA,5.52
+2013,EU28,3.65
+2013,Andere,15.99
+2014,China,9.82
+2014,USA,5.57
+2014,EU28,3.48
+2014,Andere,16.35
+2015,China,9.72
+2015,USA,5.42
+2015,EU28,3.52
+2015,Andere,16.58
+2016,China,9.70
+2016,USA,5.31
+2016,EU28,3.50
+2016,Andere,16.87
+2017,China,9.84
+2017,USA,5.27
+2017,EU28,3.52
+2017,Andere,17.18
+2018,China,10.06
+2018,USA,5.42
+2018,EU28,3.44
+2018,Andere,17.65
 ```
 
 Quelle: [Global Carbon Project](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas).
@@ -958,6 +941,7 @@ year,value
 1000,276.6
 2000,369.5
 2019,408.52
+2020,412
 ```
 
 Quelle: [co2levels.org](https://www.co2levels.org).
@@ -993,126 +977,126 @@ Abweichung der globalen Durchschnittstemperatur vom Mittel 1850–1900
 
 ```
 year,value
-1900,0.1088
-1901,0.0528
-1902,-0.0902
-1903,-0.1672
-1904,-0.2082
-1905,-0.0652
-1906,0.0288
-1907,-0.1532
-1908,-0.1992
-1909,-0.2102
-1910,-0.1782
-1911,-0.2322
-1912,-0.1252
-1913,-0.1122
-1914,0.0678
-1915,0.1708
-1916,-0.0712
-1917,-0.1562
-1918,-0.0212
-1919,0.0368
-1920,0.0648
-1921,0.1248
-1922,0.0098
-1923,0.0358
-1924,0.0178
-1925,0.0968
-1926,0.2038
-1927,0.1018
-1928,0.1058
-1929,-0.0382
-1930,0.1748
-1931,0.2248
-1932,0.1748
-1933,0.0388
-1934,0.1808
-1935,0.1338
-1936,0.1648
-1937,0.2858
-1938,0.3058
-1939,0.2598
-1940,0.3258
-1941,0.3318
-1942,0.2848
-1943,0.3078
-1944,0.4558
-1945,0.3368
-1946,0.2408
-1947,0.2738
-1948,0.2728
-1949,0.2378
-1950,0.1388
-1951,0.2598
-1952,0.3398
-1953,0.4088
-1954,0.1828
-1955,0.1218
-1956,0.0448
-1957,0.3048
-1958,0.3578
-1959,0.3288
-1960,0.2628
-1961,0.3498
-1962,0.3258
-1963,0.3598
-1964,0.0888
-1965,0.1718
-1966,0.2438
-1967,0.2378
-1968,0.1988
-1969,0.3438
-1970,0.2848
-1971,0.1258
-1972,0.2468
-1973,0.3738
-1974,0.0978
-1975,0.1628
-1976,0.0708
-1977,0.3588
-1978,0.2498
-1979,0.3688
-1980,0.4038
-1981,0.4518
-1982,0.3228
-1983,0.5058
-1984,0.2978
-1985,0.2818
-1986,0.3568
-1987,0.5038
-1988,0.5098
-1989,0.4298
-1990,0.6078
-1991,0.5658
-1992,0.4168
-1993,0.4598
-1994,0.5198
-1995,0.6368
-1996,0.4948
-1997,0.7018
-1998,0.8508
-1999,0.6178
-2000,0.6058
-2001,0.7528
-2002,0.8078
-2003,0.8168
-2004,0.7588
-2005,0.8568
-2006,0.8178
-2007,0.8028
-2008,0.7068
-2009,0.8178
-2010,0.8718
-2011,0.7368
-2012,0.7818
-2013,0.8258
-2014,0.8908
-2015,1.0748
-2016,1.1088
-2017,0.9888
-2018,0.9088
-2019,1.0358
+1900,0.11
+1901,0.05
+1902,-0.09
+1903,-0.17
+1904,-0.21
+1905,-0.07
+1906,0.03
+1907,-0.15
+1908,-0.20
+1909,-0.21
+1910,-0.18
+1911,-0.23
+1912,-0.13
+1913,-0.11
+1914,0.07
+1915,0.17
+1916,-0.07
+1917,-0.16
+1918,-0.02
+1919,0.04
+1920,0.06
+1921,0.12
+1922,0.01
+1923,0.04
+1924,0.02
+1925,0.10
+1926,0.20
+1927,0.10
+1928,0.11
+1929,-0.04
+1930,0.17
+1931,0.22
+1932,0.17
+1933,0.04
+1934,0.18
+1935,0.13
+1936,0.16
+1937,0.29
+1938,0.31
+1939,0.26
+1940,0.33
+1941,0.33
+1942,0.28
+1943,0.31
+1944,0.46
+1945,0.34
+1946,0.24
+1947,0.27
+1948,0.27
+1949,0.24
+1950,0.14
+1951,0.26
+1952,0.34
+1953,0.41
+1954,0.18
+1955,0.12
+1956,0.04
+1957,0.30
+1958,0.36
+1959,0.33
+1960,0.26
+1961,0.35
+1962,0.33
+1963,0.36
+1964,0.09
+1965,0.17
+1966,0.24
+1967,0.24
+1968,0.20
+1969,0.34
+1970,0.28
+1971,0.13
+1972,0.25
+1973,0.37
+1974,0.10
+1975,0.16
+1976,0.07
+1977,0.36
+1978,0.25
+1979,0.37
+1980,0.40
+1981,0.45
+1982,0.32
+1983,0.51
+1984,0.30
+1985,0.28
+1986,0.36
+1987,0.50
+1988,0.51
+1989,0.43
+1990,0.61
+1991,0.57
+1992,0.42
+1993,0.46
+1994,0.52
+1995,0.64
+1996,0.49
+1997,0.70
+1998,0.85
+1999,0.62
+2000,0.61
+2001,0.75
+2002,0.81
+2003,0.82
+2004,0.76
+2005,0.86
+2006,0.82
+2007,0.80
+2008,0.71
+2009,0.82
+2010,0.87
+2011,0.74
+2012,0.78
+2013,0.83
+2014,0.89
+2015,1.07
+2016,1.11
+2017,0.99
+2018,0.91
+2019,1.05
 ```
 
 Quelle: [Met Office](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html).
