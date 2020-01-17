@@ -25,7 +25,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 20.01.2020
+Letzte Aktualisierung: 18.01.2020
 
 <hr /></section>
 
