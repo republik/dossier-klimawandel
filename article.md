@@ -11,8 +11,8 @@ facebookDescription: ' '
 title: 'Dossier: Klimakrise'
 template: dossier
 shortTitle: >-
-  Dossier Klimakrise, frisch aktualisiert: Daten, Fakten, Hintergründe – und ein
-  Best-of der Republik-Beiträge
+  Dossier Klimakrise: Daten, Fakten, Hintergründe – und ein Best-of der
+  Republik-Beiträge
 description: 'Daten, Fakten, Hintergründe – und ein Best-of der Republik-Beiträge zum Thema.'
 feed: true
 ---
